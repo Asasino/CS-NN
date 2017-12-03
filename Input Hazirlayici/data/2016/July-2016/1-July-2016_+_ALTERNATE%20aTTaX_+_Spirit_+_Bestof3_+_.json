@@ -1,0 +1,112 @@
+{
+  "ALTERNATE aTTaX": {
+    "BombDefused": 0,
+    "BombExploded": 0,
+    "Glicko 15": 1484.68,
+    "Glicko 40": 1524.15,
+    "Glicko Lifetime": 1583.91,
+    "Players": {
+      " Christian 'crisby' Schmitt": {
+        "adr": 93.6,
+        "death": 36,
+        "kill": 51,
+        "rating": 1.36
+      },
+      " Florian 'syrsoN' Rische": {
+        "adr": 88.7,
+        "death": 39,
+        "kill": 40,
+        "rating": 1.05
+      },
+      " Kevin 'keev' Bartholom\u00e4us": {
+        "adr": 80.3,
+        "death": 35,
+        "kill": 47,
+        "rating": 1.18
+      },
+      " Oliver 'kzy' Heck": {
+        "adr": 59.8,
+        "death": 31,
+        "kill": 33,
+        "rating": 1.03
+      },
+      " Tizian 'tiziaN' Feldbusch": {
+        "adr": 82.9,
+        "death": 31,
+        "kill": 42,
+        "rating": 1.27
+      }
+    },
+    "Score": 32,
+    "Score BO": 2,
+    "my_prediction": 50.92,
+    "prediction_15": 65.58,
+    "prediction_40": 51.91,
+    "prediction_life": 50.58
+  },
+  "Date": "1-July-2016",
+  "FileName": "1-July-2016_+_ALTERNATE%20aTTaX_+_Spirit_+_Bestof3_+_.json",
+  "GameFormat": "Best of 3",
+  "League": "Hitbox Challenger Cup #2",
+  "Match 1": {
+    "ALTERNATE aTTaX": 16,
+    "Map": "cache",
+    "Spirit": 14
+  },
+  "Match 2": {
+    "ALTERNATE aTTaX": 16,
+    "Map": "overpass",
+    "Spirit": 10
+  },
+  "Match 3": {
+    "ALTERNATE aTTaX": null,
+    "Map": "cobblestone",
+    "Spirit": null
+  },
+  "Spirit": {
+    "BombDefused": 0,
+    "BombExploded": 0,
+    "Glicko 15": 1372.16,
+    "Glicko 40": 1510.86,
+    "Glicko Lifetime": 1579.9,
+    "Players": {
+      " Anton 'kibaken' Kolesnikov": {
+        "adr": 68.8,
+        "death": 44,
+        "kill": 33,
+        "rating": 0.74
+      },
+      " Dmitriy 'Dima' Bandurka": {
+        "adr": 64.0,
+        "death": 46,
+        "kill": 28,
+        "rating": 0.64
+      },
+      " Dmitry 'S0tF1k' Forostyanko": {
+        "adr": 79.1,
+        "death": 41,
+        "kill": 41,
+        "rating": 1.0
+      },
+      " Pavel 'COLDYY1' Veklenko": {
+        "adr": 63.8,
+        "death": 42,
+        "kill": 33,
+        "rating": 0.83
+      },
+      " Vadim 'DavCost' Vasilyev": {
+        "adr": 69.8,
+        "death": 40,
+        "kill": 37,
+        "rating": 0.97
+      }
+    },
+    "Score": 24,
+    "Score BO": 0,
+    "my_prediction": 49.08,
+    "prediction_15": 34.42,
+    "prediction_40": 48.09,
+    "prediction_life": 49.42
+  },
+  "Url": "http://www.hltv.org/match/2303300-alternate-attax-spirit-hitbox-challenger-cup-2"
+}

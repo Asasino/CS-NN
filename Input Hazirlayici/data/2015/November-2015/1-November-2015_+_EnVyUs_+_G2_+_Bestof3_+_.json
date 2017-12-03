@@ -1,0 +1,112 @@
+{
+  "Date": "1-November-2015",
+  "EnVyUs": {
+    "BombDefused": 0,
+    "BombExploded": 0,
+    "Glicko 15": 1581.73,
+    "Glicko 40": 1585.96,
+    "Glicko Lifetime": 1665.47,
+    "Players": {
+      " Dan 'apEX' Madesclaire": {
+        "adr": 50.0,
+        "death": 72,
+        "kill": 62,
+        "rating": 0.93
+      },
+      " Fabien 'kioShiMa' Fiey": {
+        "adr": 34.3,
+        "death": 61,
+        "kill": 67,
+        "rating": 1.1
+      },
+      " Kenny 'kennyS' Schrub": {
+        "adr": 31.6,
+        "death": 55,
+        "kill": 76,
+        "rating": 1.21
+      },
+      " Nathan 'NBK-' Schmitt": {
+        "adr": 46.6,
+        "death": 63,
+        "kill": 58,
+        "rating": 0.95
+      },
+      " Vincent 'Happy' Schopenhauer": {
+        "adr": 38.6,
+        "death": 67,
+        "kill": 83,
+        "rating": 1.2
+      }
+    },
+    "Score": 51,
+    "Score BO": 2,
+    "my_prediction": 55.59,
+    "prediction_15": 54.23,
+    "prediction_40": 53.24,
+    "prediction_life": 55.98
+  },
+  "FileName": "1-November-2015_+_EnVyUs_+_G2_+_Bestof3_+_.json",
+  "G2": {
+    "BombDefused": 0,
+    "BombExploded": 0,
+    "Glicko 15": 1552.18,
+    "Glicko 40": 1563.35,
+    "Glicko Lifetime": 1623.61,
+    "Players": {
+      " Dennis 'dennis' Edman": {
+        "adr": 45.5,
+        "death": 69,
+        "kill": 77,
+        "rating": 1.18
+      },
+      " H\u00e5vard 'rain' Nygaard": {
+        "adr": 53.5,
+        "death": 73,
+        "kill": 58,
+        "rating": 0.94
+      },
+      " Joakim 'jkaem' Myrbostad": {
+        "adr": 47.8,
+        "death": 74,
+        "kill": 67,
+        "rating": 0.96
+      },
+      " Mikail 'Maikelele' Bill": {
+        "adr": 34.7,
+        "death": 66,
+        "kill": 49,
+        "rating": 0.76
+      },
+      " Ricardo 'fox' Pacheco": {
+        "adr": 33.3,
+        "death": 65,
+        "kill": 66,
+        "rating": 1.05
+      }
+    },
+    "Score": 44,
+    "Score BO": 1,
+    "my_prediction": 44.41,
+    "prediction_15": 45.77,
+    "prediction_40": 46.76,
+    "prediction_life": 44.02
+  },
+  "GameFormat": "Best of 3",
+  "League": "DreamHack Open Cluj-Napoca 2015",
+  "Match 1": {
+    "EnVyUs": 10,
+    "G2": 16,
+    "Map": "dust2"
+  },
+  "Match 2": {
+    "EnVyUs": 25,
+    "G2": 21,
+    "Map": "inferno"
+  },
+  "Match 3": {
+    "EnVyUs": 16,
+    "G2": 7,
+    "Map": "cache"
+  },
+  "Url": "http://www.hltv.org/match/2298987-envyus-g2-dreamhack-open-cluj-napoca-2015"
+}

@@ -1,0 +1,102 @@
+{
+    "CLG": {
+        "BombDefused": 0,
+        "BombExploded": 0,
+        "Glicko 15": 1521.7,
+        "Glicko 40": 1533.96,
+        "Glicko Lifetime": 1517.25,
+        "Players": {
+            " James 'hazed' Cobb": {
+                "adr": 53.3,
+                "death": 18,
+                "kill": 15,
+                "rating": 0.82
+            },
+            " Josh 'jdm64' Marzano": {
+                "adr": 30.0,
+                "death": 14,
+                "kill": 20,
+                "rating": 1.21
+            },
+            " Pujan 'FNS' Mehta": {
+                "adr": 58.8,
+                "death": 16,
+                "kill": 17,
+                "rating": 0.92
+            },
+            " Stephen 'reltuC' Cutler": {
+                "adr": 41.2,
+                "death": 16,
+                "kill": 17,
+                "rating": 0.92
+            },
+            " Tarik 'tarik' Celik": {
+                "adr": 33.3,
+                "death": 17,
+                "kill": 27,
+                "rating": 1.44
+            }
+        },
+        "Score": 16,
+        "Score BO": 1,
+        "my_prediction": 62.34,
+        "prediction_15": null,
+        "prediction_40": 64.9,
+        "prediction_life": 62.04
+    },
+    "Date": "1-August-2015",
+    "FileName": "1-August-2015_+_CLG_+_eLevate_+_Bestof1_+_.json",
+    "GameFormat": "Best of 1",
+    "League": "ESL One Cologne 2015 NA Qualifier",
+    "Match 1": {
+        "CLG": 16,
+        "Map": "overpass",
+        "eLevate": 11
+    },
+    "Url": "http://www.hltv.org/match/2297214-clg-elevate-esl-one-cologne-2015-na-qualifier",
+    "eLevate": {
+        "BombDefused": 0,
+        "BombExploded": 0,
+        "Glicko 15": null,
+        "Glicko 40": 1426.77,
+        "Glicko Lifetime": 1431.71,
+        "Players": {
+            " Adam 'aKis' Kisseberth": {
+                "adr": 46.2,
+                "death": 23,
+                "kill": 13,
+                "rating": 0.63
+            },
+            " Damian 'daps' Steele": {
+                "adr": 36.4,
+                "death": 20,
+                "kill": 11,
+                "rating": 0.64
+            },
+            " David 'Xp3' Garrido": {
+                "adr": 37.5,
+                "death": 17,
+                "kill": 24,
+                "rating": 1.32
+            },
+            " Keith 'NAF' Markovic": {
+                "adr": 17.7,
+                "death": 17,
+                "kill": 17,
+                "rating": 0.91
+            },
+            " Will 'RUSH' Wierzba": {
+                "adr": 62.5,
+                "death": 19,
+                "kill": 16,
+                "rating": 0.78
+            }
+        },
+        "Score": 11,
+        "Score BO": 0,
+        "my_prediction": 37.66,
+        "prediction_15": null,
+        "prediction_40": 35.099999999999994,
+        "prediction_life": 37.96
+    }
+}

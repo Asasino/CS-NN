@@ -1,0 +1,112 @@
+{
+  "Date": "1-February-2016",
+  "FileName": "1-February-2016_+_Granted_+_eXplosive_+_Bestof3_+_.json",
+  "GameFormat": "Best of 3",
+  "Granted": {
+    "BombDefused": 0,
+    "BombExploded": 0,
+    "Glicko 15": null,
+    "Glicko 40": null,
+    "Glicko Lifetime": 1506.09,
+    "Players": {
+      " Danny 'BERRY' Kr\u00fcger": {
+        "adr": 71.4,
+        "death": 52,
+        "kill": 45,
+        "rating": 0.82
+      },
+      " Nicolaj 'mupzG' Djurhus": {
+        "adr": 88.2,
+        "death": 54,
+        "kill": 60,
+        "rating": 1.04
+      },
+      " Nikolaj 'holzt' Holst": {
+        "adr": 92.2,
+        "death": 49,
+        "kill": 66,
+        "rating": 1.33
+      },
+      " Sebastian 'larsen' Larsen": {
+        "adr": 92.7,
+        "death": 51,
+        "kill": 70,
+        "rating": 1.31
+      },
+      " S\u00f8ren 'socN' Falke": {
+        "adr": 69.1,
+        "death": 50,
+        "kill": 53,
+        "rating": 1.02
+      }
+    },
+    "Score": 43,
+    "Score BO": 2,
+    "my_prediction": null,
+    "prediction_15": null,
+    "prediction_40": null,
+    "prediction_life": 42.5
+  },
+  "League": "Operation: Kinguin #2",
+  "Match 1": {
+    "Granted": 16,
+    "Map": "mirage",
+    "eXplosive": 10
+  },
+  "Match 2": {
+    "Granted": 11,
+    "Map": "cache",
+    "eXplosive": 16
+  },
+  "Match 3": {
+    "Granted": 16,
+    "Map": "cobblestone",
+    "eXplosive": 9
+  },
+  "Url": "http://www.hltv.org/match/2300540-granted-explosive-operation-kinguin-2",
+  "eXplosive": {
+    "BombDefused": 0,
+    "BombExploded": 0,
+    "Glicko 15": null,
+    "Glicko 40": null,
+    "Glicko Lifetime": 1559.26,
+    "Players": {
+      " Dima 'def' Lemeschuk": {
+        "adr": 73.9,
+        "death": 53,
+        "kill": 55,
+        "rating": 1.04
+      },
+      " Igor 'crush' Shevchenko": {
+        "adr": 76.2,
+        "death": 58,
+        "kill": 44,
+        "rating": 0.77
+      },
+      " Ivan 'F1L1N' Semenets": {
+        "adr": 68.4,
+        "death": 62,
+        "kill": 42,
+        "rating": 0.77
+      },
+      " Oleg 'novel' Volchkov": {
+        "adr": 70.5,
+        "death": 59,
+        "kill": 48,
+        "rating": 0.85
+      },
+      " Sergey 'smike' Sklyarenko": {
+        "adr": 80.7,
+        "death": 62,
+        "kill": 67,
+        "rating": 1.11
+      }
+    },
+    "Score": 35,
+    "Score BO": 1,
+    "my_prediction": null,
+    "prediction_15": null,
+    "prediction_40": null,
+    "prediction_life": 57.5
+  }
+}

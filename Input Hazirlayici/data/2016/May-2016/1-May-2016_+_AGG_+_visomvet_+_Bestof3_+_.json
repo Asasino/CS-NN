@@ -1,0 +1,112 @@
+{
+  "AGG": {
+    "BombDefused": 0,
+    "BombExploded": 0,
+    "Glicko 15": 1539.88,
+    "Glicko 40": 1568.01,
+    "Glicko Lifetime": 1590.99,
+    "Players": {
+      " Bartosz 'Hyper' Wolny": {
+        "adr": 74.8,
+        "death": 29,
+        "kill": 32,
+        "rating": 1.01
+      },
+      " Damian 'Furlan' Kislowski": {
+        "adr": 90.5,
+        "death": 23,
+        "kill": 41,
+        "rating": 1.39
+      },
+      " Dominik 'GruBy' Swiderski": {
+        "adr": 62.7,
+        "death": 28,
+        "kill": 24,
+        "rating": 0.82
+      },
+      " Karol 'rallen' Rodowicz": {
+        "adr": 74.5,
+        "death": 29,
+        "kill": 30,
+        "rating": 0.92
+      },
+      " Karol 'repo' Cybulski": {
+        "adr": 101.7,
+        "death": 20,
+        "kill": 47,
+        "rating": 1.62
+      }
+    },
+    "Score": 32,
+    "Score BO": 2,
+    "my_prediction": null,
+    "prediction_15": 57.97,
+    "prediction_40": 60.42,
+    "prediction_life": 48.52
+  },
+  "Date": "1-May-2016",
+  "FileName": "1-May-2016_+_AGG_+_visomvet_+_Bestof3_+_.json",
+  "GameFormat": "Best of 3",
+  "League": "DreamHack Regional Minor Championship Europe Closed Qualifier #2",
+  "Match 1": {
+    "AGG": 16,
+    "Map": "cobblestone",
+    "visomvet": 5
+  },
+  "Match 2": {
+    "AGG": 16,
+    "Map": "inferno",
+    "visomvet": 9
+  },
+  "Match 3": {
+    "AGG": null,
+    "Map": "overpass",
+    "visomvet": null
+  },
+  "Url": "http://www.hltv.org/match/2302480-agg-visomvet-dreamhack-regional-minor-championship-europe-closed-qualifier-2",
+  "visomvet": {
+    "BombDefused": 0,
+    "BombExploded": 0,
+    "Glicko 15": 1482.68,
+    "Glicko 40": 1493.84,
+    "Glicko Lifetime": 1601.48,
+    "Players": {
+      " Johan 'rb$' Viklund": {
+        "adr": 52.2,
+        "death": 37,
+        "kill": 20,
+        "rating": 0.57
+      },
+      " Kevin 'Kevve' Bohlin": {
+        "adr": 71.0,
+        "death": 33,
+        "kill": 27,
+        "rating": 0.82
+      },
+      " Linus 'Baaten' B\u00e5\u00e5t Andersson": {
+        "adr": 75.2,
+        "death": 33,
+        "kill": 32,
+        "rating": 1.1
+      },
+      " Maikil 'Golden' Selim": {
+        "adr": 53.5,
+        "death": 35,
+        "kill": 19,
+        "rating": 0.58
+      },
+      " William 'tease' Sid": {
+        "adr": 80.1,
+        "death": 36,
+        "kill": 31,
+        "rating": 0.94
+      }
+    },
+    "Score": 14,
+    "Score BO": 0,
+    "my_prediction": null,
+    "prediction_15": 42.03,
+    "prediction_40": 39.58,
+    "prediction_life": 51.48
+  }
+}

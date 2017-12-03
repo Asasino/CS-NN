@@ -1,0 +1,107 @@
+{
+  "Chiefs": {
+    "BombDefused": 0,
+    "BombExploded": 0,
+    "Glicko 15": null,
+    "Glicko 40": null,
+    "Glicko Lifetime": 1556.5,
+    "Players": {
+      " Chris 'Chrisoaow' Forman": {
+        "adr": 50.0,
+        "death": 29,
+        "kill": 36,
+        "rating": 1.13
+      },
+      " Michael 'Lightstep' Hall": {
+        "adr": 46.0,
+        "death": 34,
+        "kill": 37,
+        "rating": 1.01
+      },
+      " Peter 'PeetyG' Souvlis": {
+        "adr": 57.1,
+        "death": 38,
+        "kill": 42,
+        "rating": 1.03
+      },
+      " Ryan 'zewsy' Palmer": {
+        "adr": 34.0,
+        "death": 36,
+        "kill": 53,
+        "rating": 1.32
+      },
+      " Tyler 'tucks' Reilly": {
+        "adr": 24.4,
+        "death": 35,
+        "kill": 41,
+        "rating": 1.04
+      }
+    },
+    "Score": 35,
+    "Score BO": 2,
+    "my_prediction": null,
+    "prediction_15": null,
+    "prediction_40": null,
+    "prediction_life": 53.96
+  },
+  "Date": "1-December-2015",
+  "FileName": "1-December-2015_+_Chiefs_+_TRIDENT_+_Bestof2_+_.json",
+  "GameFormat": "Best of 2",
+  "League": "Counter Pit League Season 2",
+  "Match 1": {
+    "Chiefs": 16,
+    "Map": "cache",
+    "TRIDENT": 5
+  },
+  "Match 2": {
+    "Chiefs": 19,
+    "Map": "inferno",
+    "TRIDENT": 17
+  },
+  "TRIDENT": {
+    "BombDefused": 0,
+    "BombExploded": 0,
+    "Glicko 15": null,
+    "Glicko 40": null,
+    "Glicko Lifetime": 1528.8,
+    "Players": {
+      " Aidan 'AidanWHO' Priestly": {
+        "adr": 20.5,
+        "death": 41,
+        "kill": 39,
+        "rating": 0.94
+      },
+      " Callum 'BURNRUOk' Henderson": {
+        "adr": 44.7,
+        "death": 39,
+        "kill": 47,
+        "rating": 1.09
+      },
+      " Chris 'yellowwwwwwww' McGillivray": {
+        "adr": 40.0,
+        "death": 39,
+        "kill": 30,
+        "rating": 0.84
+      },
+      " Egor 'LONSDALE' Baranov": {
+        "adr": 40.0,
+        "death": 43,
+        "kill": 20,
+        "rating": 0.55
+      },
+      " Simon 'braKe' Hen": {
+        "adr": 57.1,
+        "death": 47,
+        "kill": 35,
+        "rating": 0.85
+      }
+    },
+    "Score": 22,
+    "Score BO": 0,
+    "my_prediction": null,
+    "prediction_15": null,
+    "prediction_40": null,
+    "prediction_life": 46.04
+  },
+  "Url": "http://www.hltv.org/match/2299600-chiefs-trident-counter-pit-league-season-2"
+}

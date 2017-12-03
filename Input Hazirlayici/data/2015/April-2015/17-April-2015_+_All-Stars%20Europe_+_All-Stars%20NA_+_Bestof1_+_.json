@@ -1,0 +1,102 @@
+{
+    "All-Stars Europe": {
+        "BombDefused": 0,
+        "BombExploded": 0,
+        "Glicko 15": null,
+        "Glicko 40": null,
+        "Glicko Lifetime": 1500.0,
+        "Players": {
+            " Filip 'NEO' Kubski": {
+                "adr": 66.7,
+                "death": 15,
+                "kill": 12,
+                "rating": 0.88
+            },
+            " Jesper 'JW' Wecksell": {
+                "adr": 33.3,
+                "death": 22,
+                "kill": 24,
+                "rating": 1.12
+            },
+            " Kenny 'kennyS' Schrub": {
+                "adr": 34.4,
+                "death": 17,
+                "kill": 32,
+                "rating": 1.69
+            },
+            " Nikola 'NiKo' Kova\u010d": {
+                "adr": 58.3,
+                "death": 18,
+                "kill": 12,
+                "rating": 0.71
+            },
+            " Olof 'olofmeister' Kajbjer": {
+                "adr": 63.2,
+                "death": 21,
+                "kill": 19,
+                "rating": 0.96
+            }
+        },
+        "Score": 16,
+        "Score BO": 1,
+        "my_prediction": null,
+        "prediction_15": null,
+        "prediction_40": null,
+        "prediction_life": null
+    },
+    "All-Stars NA": {
+        "BombDefused": 0,
+        "BombExploded": 0,
+        "Glicko 15": null,
+        "Glicko 40": null,
+        "Glicko Lifetime": 1500.0,
+        "Players": {
+            " Jordan 'n0thing' Gilbert": {
+                "adr": 38.9,
+                "death": 18,
+                "kill": 18,
+                "rating": 1.01
+            },
+            " Mike 'shroud' Grzesiek": {
+                "adr": 51.9,
+                "death": 18,
+                "kill": 27,
+                "rating": 1.45
+            },
+            " Tarik 'tarik' Celik": {
+                "adr": 62.5,
+                "death": 21,
+                "kill": 16,
+                "rating": 0.74
+            },
+            " Timothy 'autimatic' Ta": {
+                "adr": 43.8,
+                "death": 21,
+                "kill": 16,
+                "rating": 0.81
+            },
+            " Todd 'anger' Williams": {
+                "adr": 56.3,
+                "death": 21,
+                "kill": 16,
+                "rating": 0.74
+            }
+        },
+        "Score": 12,
+        "Score BO": 0,
+        "my_prediction": null,
+        "prediction_15": null,
+        "prediction_40": null,
+        "prediction_life": null
+    },
+    "Date": "17-April-2015",
+    "FileName": "17-April-2015_+_All-Stars%20Europe_+_All-Stars%20NA_+_Bestof1_+_.json",
+    "GameFormat": "Best of 1",
+    "League": "ESEA Invite Season 18 All-Star",
+    "Match 1": {
+        "All-Stars Europe": 16,
+        "All-Stars NA": 12,
+        "Map": "dust2"
+    },
+    "Url": "http://www.hltv.org/match/2295273-all-stars-europe-all-stars-na-esea-invite-season-18-all-star"
+}

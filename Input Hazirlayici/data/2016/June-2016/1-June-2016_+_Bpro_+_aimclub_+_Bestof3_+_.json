@@ -1,0 +1,112 @@
+{
+  "Bpro": {
+    "BombDefused": 0,
+    "BombExploded": 0,
+    "Glicko 15": 1420.05,
+    "Glicko 40": 1448.17,
+    "Glicko Lifetime": 1523.24,
+    "Players": {
+      " Ivan 'Rock1nG' Stratiev": {
+        "adr": 76.2,
+        "death": 50,
+        "kill": 46,
+        "rating": 0.92
+      },
+      " Nikola 'NK4Y' Radushev": {
+        "adr": 81.7,
+        "death": 44,
+        "kill": 55,
+        "rating": 1.25
+      },
+      " Nikolay 'niki1' Pantaleev": {
+        "adr": 93.3,
+        "death": 48,
+        "kill": 61,
+        "rating": 1.21
+      },
+      " Teodor 'psycho' Dimov": {
+        "adr": 73.3,
+        "death": 39,
+        "kill": 46,
+        "rating": 1.08
+      },
+      " Valuntine 'xek' Dinev": {
+        "adr": 80.9,
+        "death": 45,
+        "kill": 55,
+        "rating": 1.11
+      }
+    },
+    "Score": 40,
+    "Score BO": 2,
+    "my_prediction": 42.48,
+    "prediction_15": 41.94,
+    "prediction_40": 37.66,
+    "prediction_life": 43.3
+  },
+  "Date": "1-June-2016",
+  "FileName": "1-June-2016_+_Bpro_+_aimclub_+_Bestof3_+_.json",
+  "GameFormat": "Best of 3",
+  "League": "Balkan Championship Season 3",
+  "Match 1": {
+    "Bpro": 16,
+    "Map": "mirage",
+    "aimclub": 8
+  },
+  "Match 2": {
+    "Bpro": 8,
+    "Map": "cobblestone",
+    "aimclub": 16
+  },
+  "Match 3": {
+    "Bpro": 16,
+    "Map": "dust2",
+    "aimclub": 6
+  },
+  "Url": "http://www.hltv.org/match/2302906-bpro-aimclub-balkan-championship-season-3",
+  "aimclub": {
+    "BombDefused": 0,
+    "BombExploded": 0,
+    "Glicko 15": 1476.79,
+    "Glicko 40": 1535.98,
+    "Glicko Lifetime": 1570.2,
+    "Players": {
+      " Catalin-Ionut 'BTN' Stanescu": {
+        "adr": 67.5,
+        "death": 55,
+        "kill": 40,
+        "rating": 0.76
+      },
+      " Costin 'XAj' Vr\u00eenceanu": {
+        "adr": 77.3,
+        "death": 56,
+        "kill": 48,
+        "rating": 0.97
+      },
+      " Martynas 'meesHa' Mockevi\u010dius": {
+        "adr": 65.7,
+        "death": 47,
+        "kill": 43,
+        "rating": 0.88
+      },
+      " Michael 'Freestyle' Rauh": {
+        "adr": 71.9,
+        "death": 52,
+        "kill": 42,
+        "rating": 0.83
+      },
+      " Radu 'REAL' Popescu": {
+        "adr": 77.0,
+        "death": 53,
+        "kill": 52,
+        "rating": 1.01
+      }
+    },
+    "Score": 30,
+    "Score BO": 1,
+    "my_prediction": 57.52,
+    "prediction_15": 58.06,
+    "prediction_40": 62.34,
+    "prediction_life": 56.7
+  }
+}

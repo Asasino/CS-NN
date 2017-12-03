@@ -1,0 +1,112 @@
+{
+  "ALTERNATE aTTaX": {
+    "BombDefused": 0,
+    "BombExploded": 0,
+    "Glicko 15": 1510.95,
+    "Glicko 40": 1515.87,
+    "Glicko Lifetime": 1502.83,
+    "Players": {
+      " Christian 'crisby' Schmitt": {
+        "adr": 70.6,
+        "death": 58,
+        "kill": 60,
+        "rating": 1.04
+      },
+      " Kevin 'keev' Bartholom\u00e4us": {
+        "adr": 93.5,
+        "death": 59,
+        "kill": 84,
+        "rating": 1.36
+      },
+      " Oliver 'kzy' Heck": {
+        "adr": 82.1,
+        "death": 56,
+        "kill": 64,
+        "rating": 1.15
+      },
+      " Stefan 'stfN' Seier": {
+        "adr": 85.7,
+        "death": 68,
+        "kill": 64,
+        "rating": 0.92
+      },
+      " Tizian 'tiziaN' Feldbusch": {
+        "adr": 63.8,
+        "death": 66,
+        "kill": 52,
+        "rating": 0.79
+      }
+    },
+    "Score": 49,
+    "Score BO": 2,
+    "my_prediction": 46.6,
+    "prediction_15": 60.3,
+    "prediction_40": 52.12,
+    "prediction_life": 45.53
+  },
+  "Date": "1-March-2016",
+  "FileName": "1-March-2016_+_ALTERNATE%20aTTaX_+_Torpedo_+_Bestof3_+_.json",
+  "GameFormat": "Best of 3",
+  "League": "Operation: Kinguin #2",
+  "Match 1": {
+    "ALTERNATE aTTaX": 16,
+    "Map": "overpass",
+    "Torpedo": 7
+  },
+  "Match 2": {
+    "ALTERNATE aTTaX": 17,
+    "Map": "cache",
+    "Torpedo": 19
+  },
+  "Match 3": {
+    "ALTERNATE aTTaX": 16,
+    "Map": "train",
+    "Torpedo": 14
+  },
+  "Torpedo": {
+    "BombDefused": 0,
+    "BombExploded": 0,
+    "Glicko 15": 1437.89,
+    "Glicko 40": 1501.08,
+    "Glicko Lifetime": 1534.0,
+    "Players": {
+      " Joachim 'darti' Fornstedt": {
+        "adr": 71.6,
+        "death": 71,
+        "kill": 53,
+        "rating": 0.76
+      },
+      " Mattias 'malle' Lindberg": {
+        "adr": 78.9,
+        "death": 61,
+        "kill": 73,
+        "rating": 1.12
+      },
+      " Samuel 'decent' Oldenburg": {
+        "adr": 58.6,
+        "death": 68,
+        "kill": 48,
+        "rating": 0.73
+      },
+      " Simon 'atter' Atterstam": {
+        "adr": 95.1,
+        "death": 66,
+        "kill": 75,
+        "rating": 1.16
+      },
+      " Simon 'downie' Storm": {
+        "adr": 77.1,
+        "death": 59,
+        "kill": 58,
+        "rating": 1.01
+      }
+    },
+    "Score": 40,
+    "Score BO": 1,
+    "my_prediction": 53.4,
+    "prediction_15": 39.7,
+    "prediction_40": 47.88,
+    "prediction_life": 54.47
+  },
+  "Url": "http://www.hltv.org/match/2301179-alternate-attax-torpedo-operation-kinguin-2"
+}

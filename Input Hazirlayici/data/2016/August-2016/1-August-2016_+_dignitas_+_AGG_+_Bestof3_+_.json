@@ -1,0 +1,112 @@
+{
+  "AGG": {
+    "BombDefused": 0,
+    "BombExploded": 0,
+    "Glicko 15": 1488.02,
+    "Glicko 40": 1455.0,
+    "Glicko Lifetime": 1581.64,
+    "Players": {
+      " Bartosz 'Hyper' Wolny": {
+        "adr": 58.5,
+        "death": 54,
+        "kill": 35,
+        "rating": 0.7
+      },
+      " Damian 'Furlan' Kislowski": {
+        "adr": 68.3,
+        "death": 54,
+        "kill": 49,
+        "rating": 0.92
+      },
+      " Dominik 'GruBy' Swiderski": {
+        "adr": 67.2,
+        "death": 60,
+        "kill": 42,
+        "rating": 0.67
+      },
+      " Karol 'rallen' Rodowicz": {
+        "adr": 78.4,
+        "death": 54,
+        "kill": 46,
+        "rating": 0.86
+      },
+      " Piotr 'peet' \u0106wikli\u0144ski": {
+        "adr": 59.2,
+        "death": 55,
+        "kill": 32,
+        "rating": 0.65
+      }
+    },
+    "Score": 25,
+    "Score BO": 1,
+    "my_prediction": 48.51,
+    "prediction_15": null,
+    "prediction_40": 48.7,
+    "prediction_life": 48.46
+  },
+  "Date": "1-August-2016",
+  "FileName": "1-August-2016_+_dignitas_+_AGG_+_Bestof3_+_.json",
+  "GameFormat": "Best of 3",
+  "League": "SL i-League S2 Europe Qualifier",
+  "Match 1": {
+    "AGG": 16,
+    "Map": "mirage",
+    "dignitas": 14
+  },
+  "Match 2": {
+    "AGG": 8,
+    "Map": "cobblestone",
+    "dignitas": 16
+  },
+  "Match 3": {
+    "AGG": 1,
+    "Map": "nuke",
+    "dignitas": 16
+  },
+  "Url": "http://www.hltv.org/match/2303705-dignitas-agg-sl-i-league-s2-europe-qualifier",
+  "dignitas": {
+    "BombDefused": 0,
+    "BombExploded": 0,
+    "Glicko 15": null,
+    "Glicko 40": 1464.02,
+    "Glicko Lifetime": 1592.37,
+    "Players": {
+      " Casper 'ruggah' Due": {
+        "adr": 52.5,
+        "death": 45,
+        "kill": 32,
+        "rating": 0.77
+      },
+      " Emil 'Magiskb0Y' Reif": {
+        "adr": 83.7,
+        "death": 33,
+        "kill": 60,
+        "rating": 1.4
+      },
+      " Kristian 'k0nfig' Wienecke": {
+        "adr": 95.9,
+        "death": 42,
+        "kill": 64,
+        "rating": 1.34
+      },
+      " Mathias 'MSL' Lauridsen": {
+        "adr": 95.5,
+        "death": 49,
+        "kill": 59,
+        "rating": 1.2
+      },
+      " Ren\u00e9 'cajunb' Borg": {
+        "adr": 90.3,
+        "death": 35,
+        "kill": 62,
+        "rating": 1.31
+      }
+    },
+    "Score": 46,
+    "Score BO": 2,
+    "my_prediction": 51.49,
+    "prediction_15": null,
+    "prediction_40": 51.3,
+    "prediction_life": 51.54
+  }
+}

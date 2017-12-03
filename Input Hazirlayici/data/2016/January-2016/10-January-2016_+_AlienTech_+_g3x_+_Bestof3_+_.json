@@ -1,0 +1,112 @@
+{
+  "AlienTech": {
+    "BombDefused": 0,
+    "BombExploded": 0,
+    "Glicko 15": 1512.65,
+    "Glicko 40": 1439.25,
+    "Glicko Lifetime": 1502.36,
+    "Players": {
+      " Caio 'zqkS' Fonseca": {
+        "adr": 24.3,
+        "death": 49,
+        "kill": 70,
+        "rating": 1.22
+      },
+      " Felipe 'fbm' Mengue": {
+        "adr": 67.9,
+        "death": 56,
+        "kill": 53,
+        "rating": 0.91
+      },
+      " Rafael 'zakk' Fernandes": {
+        "adr": 54.0,
+        "death": 58,
+        "kill": 50,
+        "rating": 0.85
+      },
+      " Ricardo 's1' Shinji": {
+        "adr": 32.4,
+        "death": 55,
+        "kill": 74,
+        "rating": 1.25
+      },
+      " Willian 'LuL4' Elias": {
+        "adr": 37.2,
+        "death": 65,
+        "kill": 78,
+        "rating": 1.2
+      }
+    },
+    "Score": 48,
+    "Score BO": 2,
+    "my_prediction": 52.15,
+    "prediction_15": 59.29,
+    "prediction_40": 41.37,
+    "prediction_life": 53.85
+  },
+  "Date": "10-January-2016",
+  "FileName": "10-January-2016_+_AlienTech_+_g3x_+_Bestof3_+_.json",
+  "GameFormat": "Best of 3",
+  "League": "MAX5 Invitational",
+  "Match 1": {
+    "AlienTech": 16,
+    "Map": "mirage",
+    "g3x": 14
+  },
+  "Match 2": {
+    "AlienTech": 16,
+    "Map": "dust2",
+    "g3x": 19
+  },
+  "Match 3": {
+    "AlienTech": 16,
+    "Map": "inferno",
+    "g3x": 7
+  },
+  "Url": "http://www.hltv.org/match/2300227-g3x-alientech-max5-invitational",
+  "g3x": {
+    "BombDefused": 0,
+    "BombExploded": 0,
+    "Glicko 15": 1446.96,
+    "Glicko 40": 1499.97,
+    "Glicko Lifetime": 1475.52,
+    "Players": {
+      " Arthur 'maeda' Maeda": {
+        "adr": 25.0,
+        "death": 71,
+        "kill": 40,
+        "rating": 0.65
+      },
+      " Gustavo 'yeL' Knittel": {
+        "adr": 27.0,
+        "death": 62,
+        "kill": 74,
+        "rating": 1.23
+      },
+      " Jo\u00e3o 'knight' Lourencin": {
+        "adr": 48.1,
+        "death": 63,
+        "kill": 52,
+        "rating": 0.85
+      },
+      " Victor 'kenshex' Santana": {
+        "adr": 53.6,
+        "death": 67,
+        "kill": 56,
+        "rating": 0.88
+      },
+      " Vinicios 'PKL' Coelho": {
+        "adr": 37.7,
+        "death": 67,
+        "kill": 61,
+        "rating": 0.95
+      }
+    },
+    "Score": 40,
+    "Score BO": 1,
+    "my_prediction": 47.85,
+    "prediction_15": 40.71,
+    "prediction_40": 58.63,
+    "prediction_life": 46.15
+  }
+}

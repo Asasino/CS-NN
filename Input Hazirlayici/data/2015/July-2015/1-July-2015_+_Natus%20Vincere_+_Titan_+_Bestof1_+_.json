@@ -1,0 +1,102 @@
+{
+    "Date": "1-July-2015",
+    "FileName": "1-July-2015_+_Natus%20Vincere_+_Titan_+_Bestof1_+_.json",
+    "GameFormat": "Best of 1",
+    "League": "FACEIT League 2015 Stage 2",
+    "Match 1": {
+        "Map": "cobblestone",
+        "Natus Vincere": 16,
+        "Titan": 3
+    },
+    "Natus Vincere": {
+        "BombDefused": 0,
+        "BombExploded": 0,
+        "Glicko 15": 1529.01,
+        "Glicko 40": 1506.69,
+        "Glicko Lifetime": 1568.15,
+        "Players": {
+            " Danylo 'Zeus' Teslenko": {
+                "adr": 33.3,
+                "death": 9,
+                "kill": 12,
+                "rating": 1.08
+            },
+            " Denis 'seized' Kostin": {
+                "adr": 50.0,
+                "death": 6,
+                "kill": 28,
+                "rating": 2.4
+            },
+            " Egor 'flamie' Vasilyev": {
+                "adr": 52.6,
+                "death": 9,
+                "kill": 19,
+                "rating": 1.48
+            },
+            " Ioann 'Edward' Sukhariev": {
+                "adr": 33.3,
+                "death": 10,
+                "kill": 9,
+                "rating": 0.81
+            },
+            " Ladislav 'GuardiaN' Kov\u00e1cs": {
+                "adr": 26.3,
+                "death": 5,
+                "kill": 19,
+                "rating": 1.71
+            }
+        },
+        "Score": 16,
+        "Score BO": 1,
+        "my_prediction": 51.57,
+        "prediction_15": 49.0,
+        "prediction_40": 52.51,
+        "prediction_life": 51.44
+    },
+    "Titan": {
+        "BombDefused": 0,
+        "BombExploded": 0,
+        "Glicko 15": 1535.94,
+        "Glicko 40": 1489.17,
+        "Glicko Lifetime": 1558.1,
+        "Players": {
+            " C\u00e9dric 'RpK' Guipouy": {
+                "adr": 60.0,
+                "death": 18,
+                "kill": 5,
+                "rating": 0.45
+            },
+            " Dan 'apEX' Madesclaire": {
+                "adr": 37.5,
+                "death": 18,
+                "kill": 8,
+                "rating": 0.39
+            },
+            " Kenny 'kennyS' Schrub": {
+                "adr": 42.9,
+                "death": 17,
+                "kill": 7,
+                "rating": 0.45
+            },
+            " K\u00e9vin 'Ex6TenZ' Droolans": {
+                "adr": 50.0,
+                "death": 16,
+                "kill": 8,
+                "rating": 0.51
+            },
+            " Mathieu 'Maniac' Quiquerez": {
+                "adr": 27.3,
+                "death": 18,
+                "kill": 11,
+                "rating": 0.68
+            }
+        },
+        "Score": 3,
+        "Score BO": 0,
+        "my_prediction": 48.43,
+        "prediction_15": 51.0,
+        "prediction_40": 47.49,
+        "prediction_life": 48.56
+    },
+    "Url": "http://www.hltv.org/match/2296783-natus-vincere-titan-faceit-league-2015-stage-2"
+}

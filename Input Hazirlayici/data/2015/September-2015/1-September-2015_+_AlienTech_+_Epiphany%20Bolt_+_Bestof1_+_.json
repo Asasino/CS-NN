@@ -1,0 +1,102 @@
+{
+    "AlienTech": {
+        "BombDefused": 0,
+        "BombExploded": 0,
+        "Glicko 15": 1630.61,
+        "Glicko 40": 1605.33,
+        "Glicko Lifetime": 1420.92,
+        "Players": {
+            " F\u00e1bio 'zneiL' Vasconcelos": {
+                "adr": 30.0,
+                "death": 20,
+                "kill": 10,
+                "rating": 0.59
+            },
+            " Joao 'KillDreaM' Ferreira": {
+                "adr": 33.3,
+                "death": 20,
+                "kill": 15,
+                "rating": 0.84
+            },
+            " Lu\u00eds 'ZELIN' Lousada": {
+                "adr": 38.7,
+                "death": 19,
+                "kill": 31,
+                "rating": 1.45
+            },
+            " Ricardo 'zlynx' Matos": {
+                "adr": 40.0,
+                "death": 24,
+                "kill": 25,
+                "rating": 1.11
+            },
+            " Vitor 'ScRm' Vale": {
+                "adr": 15.8,
+                "death": 23,
+                "kill": 19,
+                "rating": 0.84
+            }
+        },
+        "Score": 16,
+        "Score BO": 1,
+        "my_prediction": null,
+        "prediction_15": 64.62,
+        "prediction_40": 74.87,
+        "prediction_life": 36.41
+    },
+    "Date": "1-September-2015",
+    "Epiphany Bolt": {
+        "BombDefused": 0,
+        "BombExploded": 0,
+        "Glicko 15": 1524.27,
+        "Glicko 40": 1412.46,
+        "Glicko Lifetime": 1518.46,
+        "Players": {
+            " Eetu 'sAw' Saha": {
+                "adr": 50.0,
+                "death": 20,
+                "kill": 26,
+                "rating": 1.19
+            },
+            " Lasse 'ZOREE' Uronen": {
+                "adr": 35.7,
+                "death": 22,
+                "kill": 14,
+                "rating": 0.65
+            },
+            " Saku 'SAGGERTON' Jokinen": {
+                "adr": 31.6,
+                "death": 22,
+                "kill": 19,
+                "rating": 0.79
+            },
+            " Sami 'xseveN' Laasanen": {
+                "adr": 57.1,
+                "death": 20,
+                "kill": 21,
+                "rating": 0.93
+            },
+            " Slaava 'Twista' R\u00e4s\u00e4nen": {
+                "adr": 19.2,
+                "death": 16,
+                "kill": 26,
+                "rating": 1.32
+            }
+        },
+        "Score": 14,
+        "Score BO": 0,
+        "my_prediction": null,
+        "prediction_15": 35.38,
+        "prediction_40": 25.13,
+        "prediction_life": 63.59
+    },
+    "FileName": "1-September-2015_+_AlienTech_+_Epiphany%20Bolt_+_Bestof1_+_.json",
+    "GameFormat": "Best of 1",
+    "League": "AlienTech CS:GO European Cup I",
+    "Match 1": {
+        "AlienTech": 16,
+        "Epiphany Bolt": 14,
+        "Map": "cobblestone"
+    },
+    "Url": "http://www.hltv.org/match/2297675-epiphany-bolt-alientech-alientech-csgo-european-cup-i"
+}

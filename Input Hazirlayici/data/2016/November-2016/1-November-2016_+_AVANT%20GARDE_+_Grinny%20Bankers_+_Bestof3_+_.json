@@ -1,0 +1,112 @@
+{
+  "AVANT GARDE": {
+    "BombDefused": 0,
+    "BombExploded": 0,
+    "Glicko 15": 1407.3,
+    "Glicko 40": 1442.48,
+    "Glicko Lifetime": 1555.63,
+    "Players": {
+      " Alec 'Noisia' Gulabovski": {
+        "adr": 70.4,
+        "death": 22,
+        "kill": 33,
+        "rating": 1.16
+      },
+      " Bobby 'zedzke' Johnson": {
+        "adr": 82.0,
+        "death": 26,
+        "kill": 39,
+        "rating": 1.29
+      },
+      " Georgio 'SK' Poumpoulidis": {
+        "adr": 98.3,
+        "death": 31,
+        "kill": 38,
+        "rating": 1.17
+      },
+      " Iyen 'IyeN' Raju": {
+        "adr": 104.0,
+        "death": 28,
+        "kill": 50,
+        "rating": 1.69
+      },
+      " Raymond 'Dezibel' Odisho": {
+        "adr": 80.8,
+        "death": 24,
+        "kill": 33,
+        "rating": 1.14
+      }
+    },
+    "Score": 32,
+    "Score BO": 2,
+    "my_prediction": null,
+    "prediction_15": 41.45,
+    "prediction_40": 38.68,
+    "prediction_life": 58.7
+  },
+  "Date": "1-November-2016",
+  "FileName": "1-November-2016_+_AVANT%20GARDE_+_Grinny%20Bankers_+_Bestof3_+_.json",
+  "GameFormat": "Best of 3",
+  "Grinny Bankers": {
+    "BombDefused": 0,
+    "BombExploded": 0,
+    "Glicko 15": 1467.54,
+    "Glicko 40": 1522.75,
+    "Glicko Lifetime": 1494.44,
+    "Players": {
+      " Matthew 'Texta' O'Rourke": {
+        "adr": 83.1,
+        "death": 36,
+        "kill": 34,
+        "rating": 0.98
+      },
+      " Mitchell 'mswag' Pritchard": {
+        "adr": 39.3,
+        "death": 40,
+        "kill": 12,
+        "rating": 0.35
+      },
+      " Sam 'flickz' Jones": {
+        "adr": 57.3,
+        "death": 40,
+        "kill": 21,
+        "rating": 0.59
+      },
+      " Sebastian 'BASS' Bou-Samra": {
+        "adr": 80.6,
+        "death": 39,
+        "kill": 36,
+        "rating": 1.06
+      },
+      " Willem 'badge' Clarke": {
+        "adr": 59.9,
+        "death": 38,
+        "kill": 28,
+        "rating": 0.85
+      }
+    },
+    "Score": 14,
+    "Score BO": 0,
+    "my_prediction": null,
+    "prediction_15": 58.55,
+    "prediction_40": 61.32,
+    "prediction_life": 41.3
+  },
+  "League": "CyberGamer Pro League Season 9",
+  "Match 1": {
+    "AVANT GARDE": 16,
+    "Grinny Bankers": 7,
+    "Map": "cache"
+  },
+  "Match 2": {
+    "AVANT GARDE": 16,
+    "Grinny Bankers": 7,
+    "Map": "overpass"
+  },
+  "Match 3": {
+    "AVANT GARDE": null,
+    "Grinny Bankers": null,
+    "Map": "cobblestone"
+  },
+  "Url": "http://www.hltv.org/match/2306305-grinny-bankers-avant-garde-cybergamer-pro-league-season-9"
+}

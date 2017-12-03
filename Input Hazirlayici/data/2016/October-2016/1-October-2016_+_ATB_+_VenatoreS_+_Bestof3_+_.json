@@ -1,0 +1,112 @@
+{
+  "ATB": {
+    "BombDefused": 0,
+    "BombExploded": 0,
+    "Glicko 15": null,
+    "Glicko 40": null,
+    "Glicko Lifetime": 1500.0,
+    "Players": {
+      " Kacper 'darko' \u015aciera": {
+        "adr": 76.5,
+        "death": 32,
+        "kill": 36,
+        "rating": 1.08
+      },
+      " Karol 'tecek' Kapczy\u0144ski": {
+        "adr": 80.7,
+        "death": 35,
+        "kill": 37,
+        "rating": 0.97
+      },
+      " Mateusz 'matty' Ko\u0142odziejczyk": {
+        "adr": 84.3,
+        "death": 37,
+        "kill": 41,
+        "rating": 1.08
+      },
+      " Micha\u0142 'michi' Majkowski": {
+        "adr": 104.2,
+        "death": 33,
+        "kill": 57,
+        "rating": 1.56
+      },
+      " Patryk 'ponczek' Wites": {
+        "adr": 57.9,
+        "death": 32,
+        "kill": 26,
+        "rating": 0.82
+      }
+    },
+    "Score": 32,
+    "Score BO": 2,
+    "my_prediction": null,
+    "prediction_15": null,
+    "prediction_40": null,
+    "prediction_life": null
+  },
+  "Date": "1-October-2016",
+  "FileName": "1-October-2016_+_ATB_+_VenatoreS_+_Bestof3_+_.json",
+  "GameFormat": "Best of 3",
+  "League": "ESL Polish Championship 2016",
+  "Match 1": {
+    "ATB": 16,
+    "Map": "dust2",
+    "VenatoreS": 11
+  },
+  "Match 2": {
+    "ATB": 16,
+    "Map": "cache",
+    "VenatoreS": 9
+  },
+  "Match 3": {
+    "ATB": null,
+    "Map": "overpass",
+    "VenatoreS": null
+  },
+  "Url": "http://www.hltv.org/match/2305219-venatores-atb-esl-polish-championship-2016",
+  "VenatoreS": {
+    "BombDefused": 0,
+    "BombExploded": 0,
+    "Glicko 15": null,
+    "Glicko 40": null,
+    "Glicko Lifetime": 1500.0,
+    "Players": {
+      " Bart\u0142omiej 'seton' Malenga": {
+        "adr": 55.5,
+        "death": 39,
+        "kill": 24,
+        "rating": 0.61
+      },
+      " Emil 'emems' Car": {
+        "adr": 105.4,
+        "death": 38,
+        "kill": 47,
+        "rating": 1.23
+      },
+      " Jacek 'Nexo' Szmulkis": {
+        "adr": 68.9,
+        "death": 44,
+        "kill": 32,
+        "rating": 0.81
+      },
+      " Konrad 'koyot' Hada\u0142a": {
+        "adr": 56.4,
+        "death": 41,
+        "kill": 22,
+        "rating": 0.63
+      },
+      " Micha\u0142 'crank' Krystyniak": {
+        "adr": 79.1,
+        "death": 36,
+        "kill": 44,
+        "rating": 1.11
+      }
+    },
+    "Score": 20,
+    "Score BO": 0,
+    "my_prediction": null,
+    "prediction_15": null,
+    "prediction_40": null,
+    "prediction_life": null
+  }
+}

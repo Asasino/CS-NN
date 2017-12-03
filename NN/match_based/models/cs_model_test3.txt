@@ -1,0 +1,26 @@
+batch_size = 2
+nb_epoch = 20
+
+model = Sequential()
+model.add(LSTM(100, batch_input_shape=(batch_size, timesteps, dim), consume_less="mem", stateful=True))
+model.add(Dropout(0.02))
+model.add(Dense(100, activation="tanh"))
+model.add(Dense(1, activation="sigmoid"))
+model.summary()
+model.compile(loss='binary_crossentropy',
+    optimizer="adam",
+    metrics=['accuracy'])
+
+Total Accuracy: 0.671497584541
+
+
+for 50 - 55 in 136 match, success is:  47.0588235294 %
+for 55 - 60 in 141 match, success is:  46.8085106383 %
+for 60 - 65 in 140 match, success is:  57.1428571429 %
+for 65 - 70 in 145 match, success is:  56.5517241379 %
+for 70 - 75 in 185 match, success is:  58.9189189189 %
+for 75 - 80 in 206 match, success is:  65.0485436893 %
+for 80 - 85 in 202 match, success is:  62.3762376238 %
+for 85 - 90 in 260 match, success is:  66.5384615385 %
+for 90 - 95 in 382 match, success is:  71.2041884817 %
+for 95 - 100 in 368 match, success is:  81.7934782609 %

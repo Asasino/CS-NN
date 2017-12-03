@@ -1,0 +1,3062 @@
+{
+    ".Norway": {
+        "match_count": 6,
+        "rating": 1609.27,
+        "rating_deviation": 32.26,
+        "volatility": 0.0403
+    },
+    ".Russia": {
+        "match_count": 8,
+        "rating": 1684.75,
+        "rating_deviation": 24.99,
+        "volatility": 0.0404
+    },
+    "31337": {
+        "match_count": 2,
+        "rating": 1431.22,
+        "rating_deviation": 94.49,
+        "volatility": 0.04
+    },
+    "3P": {
+        "match_count": 8,
+        "rating": 1514.54,
+        "rating_deviation": 30.06,
+        "volatility": 0.04
+    },
+    "3xTeam": {
+        "match_count": 4,
+        "rating": 1514.31,
+        "rating_deviation": 29.75,
+        "volatility": 0.04
+    },
+    "4dimensioN": {
+        "match_count": 7,
+        "rating": 1459.27,
+        "rating_deviation": 24.4,
+        "volatility": 0.04
+    },
+    "5FRAGS": {
+        "match_count": 18,
+        "rating": 1493.3,
+        "rating_deviation": 22.61,
+        "volatility": 0.04
+    },
+    "5POWER": {
+        "match_count": 17,
+        "rating": 1554.52,
+        "rating_deviation": 16.68,
+        "volatility": 0.0402
+    },
+    "5cent": {
+        "match_count": 3,
+        "rating": 1473.42,
+        "rating_deviation": 64.35,
+        "volatility": 0.0401
+    },
+    "8)": {
+        "match_count": 2,
+        "rating": 1000.0,
+        "rating_deviation": 68.99,
+        "volatility": 0.04
+    },
+    "AE": {
+        "match_count": 5,
+        "rating": 1495.51,
+        "rating_deviation": 32.48,
+        "volatility": 0.04
+    },
+    "ALLIN": {
+        "match_count": 10,
+        "rating": 1673.18,
+        "rating_deviation": 22.1,
+        "volatility": 0.0401
+    },
+    "ALTERNATE aTTaX": {
+        "match_count": 28,
+        "rating": 1569.16,
+        "rating_deviation": 19.09,
+        "volatility": 0.0414
+    },
+    "ANOX": {
+        "match_count": 4,
+        "rating": 1415.75,
+        "rating_deviation": 39.17,
+        "volatility": 0.0403
+    },
+    "AT POWERHOUSE": {
+        "match_count": 2,
+        "rating": 1385.97,
+        "rating_deviation": 67.49,
+        "volatility": 0.04
+    },
+    "ATB": {
+        "match_count": 6,
+        "rating": 1621.18,
+        "rating_deviation": 23.7,
+        "volatility": 0.0401
+    },
+    "AVANT GARDE": {
+        "match_count": 30,
+        "rating": 1536.25,
+        "rating_deviation": 18.6,
+        "volatility": 0.0406
+    },
+    "AWTR": {
+        "match_count": 2,
+        "rating": 1568.61,
+        "rating_deviation": 66.32,
+        "volatility": 0.04
+    },
+    "Above the Rest": {
+        "match_count": 3,
+        "rating": 1399.34,
+        "rating_deviation": 62.38,
+        "volatility": 0.04
+    },
+    "Accuracy": {
+        "match_count": 2,
+        "rating": 1451.64,
+        "rating_deviation": 48.3,
+        "volatility": 0.04
+    },
+    "Adroit": {
+        "match_count": 2,
+        "rating": 1433.65,
+        "rating_deviation": 42.47,
+        "volatility": 0.04
+    },
+    "AlienTech": {
+        "match_count": 3,
+        "rating": 1423.21,
+        "rating_deviation": 36.59,
+        "volatility": 0.04
+    },
+    "AlienTech fe": {
+        "match_count": 5,
+        "rating": 1452.23,
+        "rating_deviation": 39.51,
+        "volatility": 0.04
+    },
+    "AllGamers": {
+        "match_count": 11,
+        "rating": 1548.67,
+        "rating_deviation": 23.62,
+        "volatility": 0.0404
+    },
+    "Alpha": {
+        "match_count": 21,
+        "rating": 1595.04,
+        "rating_deviation": 18.84,
+        "volatility": 0.0412
+    },
+    "Ambition": {
+        "match_count": 4,
+        "rating": 1366.8,
+        "rating_deviation": 41.07,
+        "volatility": 0.04
+    },
+    "Ancient": {
+        "match_count": 2,
+        "rating": 1517.46,
+        "rating_deviation": 54.98,
+        "volatility": 0.04
+    },
+    "Aperture": {
+        "match_count": 3,
+        "rating": 1534.04,
+        "rating_deviation": 42.72,
+        "volatility": 0.04
+    },
+    "Aquiver": {
+        "match_count": 7,
+        "rating": 1507.86,
+        "rating_deviation": 29.24,
+        "volatility": 0.0401
+    },
+    "Arcade": {
+        "match_count": 2,
+        "rating": 1517.2,
+        "rating_deviation": 46.99,
+        "volatility": 0.04
+    },
+    "ArchAngels": {
+        "match_count": 19,
+        "rating": 1611.8,
+        "rating_deviation": 18.92,
+        "volatility": 0.0426
+    },
+    "Argentina": {
+        "match_count": 20,
+        "rating": 1619.21,
+        "rating_deviation": 20.0,
+        "volatility": 0.0417
+    },
+    "Asterion": {
+        "match_count": 8,
+        "rating": 1553.37,
+        "rating_deviation": 28.12,
+        "volatility": 0.04
+    },
+    "Astralis": {
+        "match_count": 34,
+        "rating": 1623.25,
+        "rating_deviation": 20.44,
+        "volatility": 0.0404
+    },
+    "Athletico": {
+        "match_count": 46,
+        "rating": 1614.8,
+        "rating_deviation": 18.41,
+        "volatility": 0.0416
+    },
+    "AweR": {
+        "match_count": 3,
+        "rating": 1457.35,
+        "rating_deviation": 47.58,
+        "volatility": 0.0402
+    },
+    "B.O.O.T": {
+        "match_count": 20,
+        "rating": 1501.31,
+        "rating_deviation": 18.15,
+        "volatility": 0.0408
+    },
+    "BE INFAMOUS": {
+        "match_count": 3,
+        "rating": 1327.91,
+        "rating_deviation": 44.71,
+        "volatility": 0.04
+    },
+    "BFAIM": {
+        "match_count": 2,
+        "rating": 1493.19,
+        "rating_deviation": 53.42,
+        "volatility": 0.04
+    },
+    "BOT": {
+        "match_count": 12,
+        "rating": 1561.16,
+        "rating_deviation": 20.1,
+        "volatility": 0.0403
+    },
+    "BX3": {
+        "match_count": 7,
+        "rating": 1540.06,
+        "rating_deviation": 19.19,
+        "volatility": 0.0403
+    },
+    "Belgium": {
+        "match_count": 2,
+        "rating": 1622.06,
+        "rating_deviation": 51.09,
+        "volatility": 0.04
+    },
+    "BigGods": {
+        "match_count": 16,
+        "rating": 1575.31,
+        "rating_deviation": 17.98,
+        "volatility": 0.041
+    },
+    "Black Dragons": {
+        "match_count": 10,
+        "rating": 1527.54,
+        "rating_deviation": 22.74,
+        "volatility": 0.0402
+    },
+    "Born Of Fire": {
+        "match_count": 16,
+        "rating": 1594.33,
+        "rating_deviation": 18.07,
+        "volatility": 0.0405
+    },
+    "Bpro": {
+        "match_count": 23,
+        "rating": 1625.8,
+        "rating_deviation": 21.91,
+        "volatility": 0.0407
+    },
+    "Braindead": {
+        "match_count": 2,
+        "rating": 1486.37,
+        "rating_deviation": 59.49,
+        "volatility": 0.04
+    },
+    "Bravado": {
+        "match_count": 10,
+        "rating": 1573.32,
+        "rating_deviation": 20.82,
+        "volatility": 0.0405
+    },
+    "Brewtopia": {
+        "match_count": 13,
+        "rating": 1611.56,
+        "rating_deviation": 22.17,
+        "volatility": 0.0402
+    },
+    "Brutality": {
+        "match_count": 6,
+        "rating": 1433.36,
+        "rating_deviation": 33.96,
+        "volatility": 0.04
+    },
+    "Bulldozer": {
+        "match_count": 4,
+        "rating": 1569.17,
+        "rating_deviation": 37.08,
+        "volatility": 0.04
+    },
+    "Bunkergg": {
+        "match_count": 5,
+        "rating": 1443.49,
+        "rating_deviation": 35.81,
+        "volatility": 0.0401
+    },
+    "CANADA": {
+        "match_count": 3,
+        "rating": 1579.15,
+        "rating_deviation": 38.58,
+        "volatility": 0.04
+    },
+    "CAZ": {
+        "match_count": 7,
+        "rating": 1502.94,
+        "rating_deviation": 36.15,
+        "volatility": 0.0401
+    },
+    "CLG": {
+        "match_count": 32,
+        "rating": 1544.04,
+        "rating_deviation": 21.64,
+        "volatility": 0.0407
+    },
+    "CLG Red": {
+        "match_count": 7,
+        "rating": 1440.42,
+        "rating_deviation": 30.48,
+        "volatility": 0.0401
+    },
+    "CNB": {
+        "match_count": 14,
+        "rating": 1593.43,
+        "rating_deviation": 19.22,
+        "volatility": 0.0405
+    },
+    "CPH Flames": {
+        "match_count": 5,
+        "rating": 1594.97,
+        "rating_deviation": 26.74,
+        "volatility": 0.0401
+    },
+    "CPH Wolves": {
+        "match_count": 5,
+        "rating": 1539.93,
+        "rating_deviation": 23.47,
+        "volatility": 0.04
+    },
+    "CQM": {
+        "match_count": 3,
+        "rating": 1478.75,
+        "rating_deviation": 39.04,
+        "volatility": 0.04
+    },
+    "CSGL": {
+        "match_count": 4,
+        "rating": 1584.33,
+        "rating_deviation": 32.63,
+        "volatility": 0.04
+    },
+    "CSGO.one": {
+        "match_count": 2,
+        "rating": 1495.37,
+        "rating_deviation": 44.37,
+        "volatility": 0.04
+    },
+    "CYBERIA": {
+        "match_count": 4,
+        "rating": 1231.52,
+        "rating_deviation": 35.1,
+        "volatility": 0.0403
+    },
+    "Canada": {
+        "match_count": 9,
+        "rating": 1569.97,
+        "rating_deviation": 26.27,
+        "volatility": 0.0402
+    },
+    "Chiefs": {
+        "match_count": 29,
+        "rating": 1589.91,
+        "rating_deviation": 17.0,
+        "volatility": 0.0403
+    },
+    "Chosen5": {
+        "match_count": 7,
+        "rating": 1612.0,
+        "rating_deviation": 31.3,
+        "volatility": 0.0407
+    },
+    "Cipangu.GO": {
+        "match_count": 4,
+        "rating": 1431.3,
+        "rating_deviation": 39.41,
+        "volatility": 0.04
+    },
+    "Cloud9": {
+        "match_count": 43,
+        "rating": 1628.62,
+        "rating_deviation": 21.09,
+        "volatility": 0.0404
+    },
+    "Colombia": {
+        "match_count": 8,
+        "rating": 1637.02,
+        "rating_deviation": 25.98,
+        "volatility": 0.0402
+    },
+    "Conquer": {
+        "match_count": 3,
+        "rating": 1514.57,
+        "rating_deviation": 37.29,
+        "volatility": 0.04
+    },
+    "Cortex": {
+        "match_count": 2,
+        "rating": 1456.57,
+        "rating_deviation": 96.55,
+        "volatility": 0.04
+    },
+    "Crowns": {
+        "match_count": 7,
+        "rating": 1511.81,
+        "rating_deviation": 23.02,
+        "volatility": 0.04
+    },
+    "Cursive": {
+        "match_count": 4,
+        "rating": 1364.54,
+        "rating_deviation": 47.9,
+        "volatility": 0.04
+    },
+    "Cypher": {
+        "match_count": 6,
+        "rating": 1440.69,
+        "rating_deviation": 25.49,
+        "volatility": 0.0401
+    },
+    "DEMONIO": {
+        "match_count": 2,
+        "rating": 1507.23,
+        "rating_deviation": 49.37,
+        "volatility": 0.04
+    },
+    "DICKHOUSE": {
+        "match_count": 5,
+        "rating": 1510.42,
+        "rating_deviation": 33.69,
+        "volatility": 0.0401
+    },
+    "DIVIZON": {
+        "match_count": 3,
+        "rating": 1489.78,
+        "rating_deviation": 33.36,
+        "volatility": 0.04
+    },
+    "Dai Dai": {
+        "match_count": 2,
+        "rating": 1421.49,
+        "rating_deviation": 46.75,
+        "volatility": 0.04
+    },
+    "Damage Control": {
+        "match_count": 6,
+        "rating": 1229.96,
+        "rating_deviation": 35.35,
+        "volatility": 0.0403
+    },
+    "Dank Deaglez": {
+        "match_count": 5,
+        "rating": 1243.09,
+        "rating_deviation": 49.45,
+        "volatility": 0.04
+    },
+    "Dare2Dream": {
+        "match_count": 2,
+        "rating": 1557.38,
+        "rating_deviation": 86.31,
+        "volatility": 0.04
+    },
+    "Dark Sided": {
+        "match_count": 6,
+        "rating": 1430.73,
+        "rating_deviation": 26.8,
+        "volatility": 0.0403
+    },
+    "DarkPassage": {
+        "match_count": 33,
+        "rating": 1631.38,
+        "rating_deviation": 19.96,
+        "volatility": 0.0406
+    },
+    "DatZit": {
+        "match_count": 6,
+        "rating": 1431.79,
+        "rating_deviation": 30.43,
+        "volatility": 0.04
+    },
+    "DeToNator": {
+        "match_count": 7,
+        "rating": 1467.84,
+        "rating_deviation": 26.0,
+        "volatility": 0.0401
+    },
+    "DenDD": {
+        "match_count": 9,
+        "rating": 1557.78,
+        "rating_deviation": 21.13,
+        "volatility": 0.0403
+    },
+    "Denial": {
+        "match_count": 2,
+        "rating": 1457.84,
+        "rating_deviation": 47.03,
+        "volatility": 0.04
+    },
+    "Denmark": {
+        "match_count": 10,
+        "rating": 1617.41,
+        "rating_deviation": 22.99,
+        "volatility": 0.04
+    },
+    "Destructive 5": {
+        "match_count": 4,
+        "rating": 1511.13,
+        "rating_deviation": 37.81,
+        "volatility": 0.04
+    },
+    "Devious": {
+        "match_count": 3,
+        "rating": 1463.81,
+        "rating_deviation": 61.22,
+        "volatility": 0.04
+    },
+    "Dimension 5": {
+        "match_count": 3,
+        "rating": 1484.84,
+        "rating_deviation": 41.97,
+        "volatility": 0.04
+    },
+    "Doges": {
+        "match_count": 2,
+        "rating": 1383.45,
+        "rating_deviation": 57.98,
+        "volatility": 0.04
+    },
+    "DreamRAR": {
+        "match_count": 5,
+        "rating": 1299.0,
+        "rating_deviation": 62.89,
+        "volatility": 0.04
+    },
+    "Dutch Prodigy": {
+        "match_count": 8,
+        "rating": 1488.6,
+        "rating_deviation": 29.44,
+        "volatility": 0.0401
+    },
+    "Dynamo": {
+        "match_count": 2,
+        "rating": 1431.35,
+        "rating_deviation": 56.93,
+        "volatility": 0.04
+    },
+    "Dynasty": {
+        "match_count": 2,
+        "rating": 1366.36,
+        "rating_deviation": 99.57,
+        "volatility": 0.04
+    },
+    "E-frag.net": {
+        "match_count": 5,
+        "rating": 1617.75,
+        "rating_deviation": 28.38,
+        "volatility": 0.0402
+    },
+    "ECLOT": {
+        "match_count": 2,
+        "rating": 1360.73,
+        "rating_deviation": 71.87,
+        "volatility": 0.04
+    },
+    "EDG": {
+        "match_count": 11,
+        "rating": 1569.49,
+        "rating_deviation": 19.7,
+        "volatility": 0.0403
+    },
+    "EHOME": {
+        "match_count": 13,
+        "rating": 1463.71,
+        "rating_deviation": 19.32,
+        "volatility": 0.0406
+    },
+    "EHOME.Female": {
+        "match_count": 4,
+        "rating": 1255.33,
+        "rating_deviation": 50.26,
+        "volatility": 0.04
+    },
+    "ELIM": {
+        "match_count": 2,
+        "rating": 1331.32,
+        "rating_deviation": 52.57,
+        "volatility": 0.04
+    },
+    "ENCE": {
+        "match_count": 23,
+        "rating": 1618.47,
+        "rating_deviation": 17.59,
+        "volatility": 0.0413
+    },
+    "ENCORE": {
+        "match_count": 7,
+        "rating": 1612.66,
+        "rating_deviation": 22.54,
+        "volatility": 0.0403
+    },
+    "ENTiTY.Blue": {
+        "match_count": 3,
+        "rating": 1582.11,
+        "rating_deviation": 40.5,
+        "volatility": 0.04
+    },
+    "ENTiTY.Gold": {
+        "match_count": 7,
+        "rating": 1600.41,
+        "rating_deviation": 22.96,
+        "volatility": 0.04
+    },
+    "ENZO": {
+        "match_count": 9,
+        "rating": 1566.37,
+        "rating_deviation": 19.85,
+        "volatility": 0.0405
+    },
+    "EU4IA": {
+        "match_count": 5,
+        "rating": 1449.04,
+        "rating_deviation": 32.14,
+        "volatility": 0.04
+    },
+    "EURONICS": {
+        "match_count": 6,
+        "rating": 1584.3,
+        "rating_deviation": 23.0,
+        "volatility": 0.0402
+    },
+    "EYESports": {
+        "match_count": 13,
+        "rating": 1485.82,
+        "rating_deviation": 22.88,
+        "volatility": 0.0402
+    },
+    "Earthroot": {
+        "match_count": 2,
+        "rating": 1346.4,
+        "rating_deviation": 50.07,
+        "volatility": 0.04
+    },
+    "Eat My Potato": {
+        "match_count": 2,
+        "rating": 1241.5,
+        "rating_deviation": 52.82,
+        "volatility": 0.04
+    },
+    "Echo Fox": {
+        "match_count": 13,
+        "rating": 1551.07,
+        "rating_deviation": 19.67,
+        "volatility": 0.0405
+    },
+    "ElDonz": {
+        "match_count": 2,
+        "rating": 1295.33,
+        "rating_deviation": 70.16,
+        "volatility": 0.04
+    },
+    "Elite Wolves": {
+        "match_count": 7,
+        "rating": 1695.17,
+        "rating_deviation": 31.24,
+        "volatility": 0.0404
+    },
+    "Emc": {
+        "match_count": 8,
+        "rating": 1557.37,
+        "rating_deviation": 28.32,
+        "volatility": 0.0403
+    },
+    "Empire": {
+        "match_count": 2,
+        "rating": 1510.52,
+        "rating_deviation": 47.42,
+        "volatility": 0.04
+    },
+    "EnVyUs": {
+        "match_count": 42,
+        "rating": 1598.26,
+        "rating_deviation": 19.84,
+        "volatility": 0.0405
+    },
+    "Endpoint": {
+        "match_count": 7,
+        "rating": 1449.81,
+        "rating_deviation": 35.26,
+        "volatility": 0.0401
+    },
+    "Enemy": {
+        "match_count": 2,
+        "rating": 1692.79,
+        "rating_deviation": 53.85,
+        "volatility": 0.04
+    },
+    "Energy Pacemaker": {
+        "match_count": 11,
+        "rating": 1482.52,
+        "rating_deviation": 20.32,
+        "volatility": 0.0402
+    },
+    "Enso": {
+        "match_count": 4,
+        "rating": 1472.51,
+        "rating_deviation": 55.96,
+        "volatility": 0.0402
+    },
+    "Entity": {
+        "match_count": 2,
+        "rating": 1177.88,
+        "rating_deviation": 79.34,
+        "volatility": 0.04
+    },
+    "Epiphany Bolt": {
+        "match_count": 8,
+        "rating": 1497.31,
+        "rating_deviation": 24.06,
+        "volatility": 0.0405
+    },
+    "Epsilon": {
+        "match_count": 30,
+        "rating": 1639.92,
+        "rating_deviation": 18.33,
+        "volatility": 0.0415
+    },
+    "Epsilon Hype": {
+        "match_count": 13,
+        "rating": 1564.86,
+        "rating_deviation": 18.12,
+        "volatility": 0.0406
+    },
+    "Evazust": {
+        "match_count": 2,
+        "rating": 1333.1,
+        "rating_deviation": 57.11,
+        "volatility": 0.04
+    },
+    "Evil Monkeys": {
+        "match_count": 2,
+        "rating": 1346.02,
+        "rating_deviation": 76.77,
+        "volatility": 0.04
+    },
+    "ExAequo": {
+        "match_count": 5,
+        "rating": 1445.91,
+        "rating_deviation": 42.49,
+        "volatility": 0.04
+    },
+    "Excelsior": {
+        "match_count": 3,
+        "rating": 1375.56,
+        "rating_deviation": 71.58,
+        "volatility": 0.04
+    },
+    "Exile5": {
+        "match_count": 14,
+        "rating": 1535.58,
+        "rating_deviation": 16.83,
+        "volatility": 0.0406
+    },
+    "Exodus": {
+        "match_count": 2,
+        "rating": 1407.6,
+        "rating_deviation": 69.27,
+        "volatility": 0.04
+    },
+    "Exotic Island": {
+        "match_count": 2,
+        "rating": 1396.52,
+        "rating_deviation": 69.89,
+        "volatility": 0.04
+    },
+    "Expendables": {
+        "match_count": 6,
+        "rating": 1432.15,
+        "rating_deviation": 26.45,
+        "volatility": 0.0402
+    },
+    "FENNEC": {
+        "match_count": 4,
+        "rating": 1272.4,
+        "rating_deviation": 51.07,
+        "volatility": 0.04
+    },
+    "FIVE": {
+        "match_count": 24,
+        "rating": 1570.24,
+        "rating_deviation": 17.81,
+        "volatility": 0.0418
+    },
+    "FPL": {
+        "match_count": 2,
+        "rating": 1401.42,
+        "rating_deviation": 45.64,
+        "volatility": 0.04
+    },
+    "FPLC": {
+        "match_count": 2,
+        "rating": 1441.84,
+        "rating_deviation": 76.32,
+        "volatility": 0.04
+    },
+    "FT": {
+        "match_count": 2,
+        "rating": 1223.53,
+        "rating_deviation": 79.01,
+        "volatility": 0.04
+    },
+    "FTW": {
+        "match_count": 4,
+        "rating": 1488.72,
+        "rating_deviation": 28.33,
+        "volatility": 0.04
+    },
+    "FTW.Evo Twitch": {
+        "match_count": 3,
+        "rating": 1530.28,
+        "rating_deviation": 40.91,
+        "volatility": 0.04
+    },
+    "FTW.PRO": {
+        "match_count": 3,
+        "rating": 1537.98,
+        "rating_deviation": 41.51,
+        "volatility": 0.04
+    },
+    "FaZe": {
+        "match_count": 38,
+        "rating": 1662.33,
+        "rating_deviation": 18.84,
+        "volatility": 0.0404
+    },
+    "Faith Unity": {
+        "match_count": 4,
+        "rating": 1460.44,
+        "rating_deviation": 44.89,
+        "volatility": 0.04
+    },
+    "Famou5": {
+        "match_count": 2,
+        "rating": 1340.16,
+        "rating_deviation": 54.39,
+        "volatility": 0.04
+    },
+    "Feel the Glory": {
+        "match_count": 2,
+        "rating": 1339.36,
+        "rating_deviation": 52.39,
+        "volatility": 0.04
+    },
+    "FiRENATiON": {
+        "match_count": 5,
+        "rating": 1504.77,
+        "rating_deviation": 40.84,
+        "volatility": 0.04
+    },
+    "Fictitious": {
+        "match_count": 2,
+        "rating": 1458.31,
+        "rating_deviation": 55.61,
+        "volatility": 0.04
+    },
+    "Fire Dragoon": {
+        "match_count": 16,
+        "rating": 1620.39,
+        "rating_deviation": 19.83,
+        "volatility": 0.0401
+    },
+    "FlipSid3": {
+        "match_count": 25,
+        "rating": 1509.22,
+        "rating_deviation": 18.25,
+        "volatility": 0.0417
+    },
+    "For Gamers": {
+        "match_count": 2,
+        "rating": 1290.97,
+        "rating_deviation": 75.58,
+        "volatility": 0.04
+    },
+    "Force of Nature": {
+        "match_count": 8,
+        "rating": 1591.55,
+        "rating_deviation": 23.83,
+        "volatility": 0.0403
+    },
+    "Fragsport": {
+        "match_count": 2,
+        "rating": 1319.85,
+        "rating_deviation": 76.19,
+        "volatility": 0.04
+    },
+    "Fragsters": {
+        "match_count": 4,
+        "rating": 1395.47,
+        "rating_deviation": 47.45,
+        "volatility": 0.04
+    },
+    "France": {
+        "match_count": 10,
+        "rating": 1655.86,
+        "rating_deviation": 22.99,
+        "volatility": 0.0404
+    },
+    "Fraternitas": {
+        "match_count": 3,
+        "rating": 1479.85,
+        "rating_deviation": 39.2,
+        "volatility": 0.04
+    },
+    "FreeSlot": {
+        "match_count": 2,
+        "rating": 1406.12,
+        "rating_deviation": 70.24,
+        "volatility": 0.04
+    },
+    "From the Ashes": {
+        "match_count": 2,
+        "rating": 1320.57,
+        "rating_deviation": 74.03,
+        "volatility": 0.04
+    },
+    "Funky Monkeys": {
+        "match_count": 3,
+        "rating": 1438.66,
+        "rating_deviation": 45.78,
+        "volatility": 0.04
+    },
+    "Furious": {
+        "match_count": 7,
+        "rating": 1513.08,
+        "rating_deviation": 26.29,
+        "volatility": 0.04
+    },
+    "G1WOLVES": {
+        "match_count": 2,
+        "rating": 1485.2,
+        "rating_deviation": 50.43,
+        "volatility": 0.04
+    },
+    "G2": {
+        "match_count": 36,
+        "rating": 1620.37,
+        "rating_deviation": 19.82,
+        "volatility": 0.0404
+    },
+    "GEX": {
+        "match_count": 4,
+        "rating": 1391.21,
+        "rating_deviation": 38.09,
+        "volatility": 0.04
+    },
+    "GODSENT": {
+        "match_count": 31,
+        "rating": 1619.56,
+        "rating_deviation": 20.01,
+        "volatility": 0.0404
+    },
+    "GODSENT Academy": {
+        "match_count": 8,
+        "rating": 1509.8,
+        "rating_deviation": 23.46,
+        "volatility": 0.0402
+    },
+    "Gambit": {
+        "match_count": 22,
+        "rating": 1614.76,
+        "rating_deviation": 18.31,
+        "volatility": 0.0411
+    },
+    "Game4Glory": {
+        "match_count": 6,
+        "rating": 1541.2,
+        "rating_deviation": 28.74,
+        "volatility": 0.04
+    },
+    "GameAgents": {
+        "match_count": 3,
+        "rating": 1521.37,
+        "rating_deviation": 50.9,
+        "volatility": 0.04
+    },
+    "GamePub": {
+        "match_count": 2,
+        "rating": 1379.4,
+        "rating_deviation": 60.69,
+        "volatility": 0.04
+    },
+    "GameplayDNA": {
+        "match_count": 4,
+        "rating": 1404.58,
+        "rating_deviation": 47.6,
+        "volatility": 0.04
+    },
+    "Games Academy": {
+        "match_count": 3,
+        "rating": 1617.95,
+        "rating_deviation": 39.02,
+        "volatility": 0.04
+    },
+    "Gatekeepers": {
+        "match_count": 3,
+        "rating": 1567.59,
+        "rating_deviation": 36.07,
+        "volatility": 0.04
+    },
+    "Geekunit": {
+        "match_count": 4,
+        "rating": 1418.09,
+        "rating_deviation": 38.93,
+        "volatility": 0.04
+    },
+    "GoSu": {
+        "match_count": 2,
+        "rating": 1334.49,
+        "rating_deviation": 73.29,
+        "volatility": 0.04
+    },
+    "Golden Children": {
+        "match_count": 4,
+        "rating": 1571.27,
+        "rating_deviation": 38.9,
+        "volatility": 0.0402
+    },
+    "Gosu": {
+        "match_count": 2,
+        "rating": 1258.77,
+        "rating_deviation": 78.94,
+        "volatility": 0.04
+    },
+    "Granted": {
+        "match_count": 3,
+        "rating": 1566.47,
+        "rating_deviation": 32.85,
+        "volatility": 0.04
+    },
+    "Grinny Bankers": {
+        "match_count": 10,
+        "rating": 1520.76,
+        "rating_deviation": 18.61,
+        "volatility": 0.0402
+    },
+    "Guerilla Method": {
+        "match_count": 9,
+        "rating": 1593.89,
+        "rating_deviation": 28.12,
+        "volatility": 0.0403
+    },
+    "Guerreros del Mouse": {
+        "match_count": 4,
+        "rating": 1547.47,
+        "rating_deviation": 35.01,
+        "volatility": 0.0402
+    },
+    "HEADSHOTBG": {
+        "match_count": 2,
+        "rating": 1539.46,
+        "rating_deviation": 63.62,
+        "volatility": 0.04
+    },
+    "HEXAGONE": {
+        "match_count": 2,
+        "rating": 1314.78,
+        "rating_deviation": 53.12,
+        "volatility": 0.04
+    },
+    "HG": {
+        "match_count": 10,
+        "rating": 1482.71,
+        "rating_deviation": 23.86,
+        "volatility": 0.0401
+    },
+    "HOM9k": {
+        "match_count": 2,
+        "rating": 1389.52,
+        "rating_deviation": 97.79,
+        "volatility": 0.04
+    },
+    "HOMESENT": {
+        "match_count": 3,
+        "rating": 1550.88,
+        "rating_deviation": 32.13,
+        "volatility": 0.04
+    },
+    "Hangover": {
+        "match_count": 2,
+        "rating": 1114.7,
+        "rating_deviation": 82.94,
+        "volatility": 0.04
+    },
+    "Hardknocks": {
+        "match_count": 2,
+        "rating": 1426.64,
+        "rating_deviation": 39.9,
+        "volatility": 0.04
+    },
+    "HellRaisers": {
+        "match_count": 25,
+        "rating": 1601.76,
+        "rating_deviation": 17.91,
+        "volatility": 0.0402
+    },
+    "Heroic": {
+        "match_count": 32,
+        "rating": 1588.8,
+        "rating_deviation": 19.15,
+        "volatility": 0.0404
+    },
+    "Huutista": {
+        "match_count": 2,
+        "rating": 1329.21,
+        "rating_deviation": 52.08,
+        "volatility": 0.04
+    },
+    "Hyper": {
+        "match_count": 2,
+        "rating": 1275.2,
+        "rating_deviation": 76.4,
+        "volatility": 0.04
+    },
+    "INTZ": {
+        "match_count": 9,
+        "rating": 1597.23,
+        "rating_deviation": 20.14,
+        "volatility": 0.0407
+    },
+    "Imanity": {
+        "match_count": 2,
+        "rating": 1368.27,
+        "rating_deviation": 50.98,
+        "volatility": 0.04
+    },
+    "Immortals": {
+        "match_count": 43,
+        "rating": 1605.96,
+        "rating_deviation": 20.39,
+        "volatility": 0.0407
+    },
+    "Immunity": {
+        "match_count": 29,
+        "rating": 1561.23,
+        "rating_deviation": 16.63,
+        "volatility": 0.0404
+    },
+    "Imperial Dragons": {
+        "match_count": 2,
+        "rating": 1301.3,
+        "rating_deviation": 51.45,
+        "volatility": 0.04
+    },
+    "Incept": {
+        "match_count": 3,
+        "rating": 1421.71,
+        "rating_deviation": 58.79,
+        "volatility": 0.04
+    },
+    "Incursion": {
+        "match_count": 2,
+        "rating": 1374.23,
+        "rating_deviation": 75.95,
+        "volatility": 0.04
+    },
+    "Infused": {
+        "match_count": 2,
+        "rating": 1780.69,
+        "rating_deviation": 110.21,
+        "volatility": 0.04
+    },
+    "Inside": {
+        "match_count": 3,
+        "rating": 1589.78,
+        "rating_deviation": 41.51,
+        "volatility": 0.04
+    },
+    "Insidious": {
+        "match_count": 2,
+        "rating": 1534.3,
+        "rating_deviation": 54.12,
+        "volatility": 0.04
+    },
+    "Insomnia": {
+        "match_count": 6,
+        "rating": 1445.81,
+        "rating_deviation": 26.65,
+        "volatility": 0.04
+    },
+    "Iwku": {
+        "match_count": 4,
+        "rating": 1522.8,
+        "rating_deviation": 35.04,
+        "volatility": 0.0401
+    },
+    "JMDaiM2GaME": {
+        "match_count": 2,
+        "rating": 1332.33,
+        "rating_deviation": 70.65,
+        "volatility": 0.04
+    },
+    "K23": {
+        "match_count": 7,
+        "rating": 1708.12,
+        "rating_deviation": 23.79,
+        "volatility": 0.0401
+    },
+    "K29": {
+        "match_count": 3,
+        "rating": 1538.5,
+        "rating_deviation": 37.91,
+        "volatility": 0.04
+    },
+    "KPI": {
+        "match_count": 4,
+        "rating": 1628.95,
+        "rating_deviation": 30.16,
+        "volatility": 0.04
+    },
+    "Kafan": {
+        "match_count": 2,
+        "rating": 1314.55,
+        "rating_deviation": 103.44,
+        "volatility": 0.04
+    },
+    "Kinguin": {
+        "match_count": 31,
+        "rating": 1638.39,
+        "rating_deviation": 17.57,
+        "volatility": 0.0417
+    },
+    "Kiwi Pride": {
+        "match_count": 2,
+        "rating": 1516.2,
+        "rating_deviation": 45.55,
+        "volatility": 0.04
+    },
+    "KoN Denmark": {
+        "match_count": 7,
+        "rating": 1445.38,
+        "rating_deviation": 28.9,
+        "volatility": 0.04
+    },
+    "KoN Finland": {
+        "match_count": 9,
+        "rating": 1553.09,
+        "rating_deviation": 27.52,
+        "volatility": 0.04
+    },
+    "KoN Iceland": {
+        "match_count": 4,
+        "rating": 1355.67,
+        "rating_deviation": 40.77,
+        "volatility": 0.04
+    },
+    "KoN Norway": {
+        "match_count": 7,
+        "rating": 1460.01,
+        "rating_deviation": 30.43,
+        "volatility": 0.04
+    },
+    "KoN Sweden": {
+        "match_count": 8,
+        "rating": 1547.51,
+        "rating_deviation": 29.97,
+        "volatility": 0.04
+    },
+    "L4SALARY": {
+        "match_count": 2,
+        "rating": 1328.79,
+        "rating_deviation": 44.41,
+        "volatility": 0.04
+    },
+    "LDLC": {
+        "match_count": 20,
+        "rating": 1601.01,
+        "rating_deviation": 17.5,
+        "volatility": 0.0405
+    },
+    "LDLC Blue": {
+        "match_count": 3,
+        "rating": 1508.76,
+        "rating_deviation": 32.29,
+        "volatility": 0.04
+    },
+    "LDLC Espoir": {
+        "match_count": 5,
+        "rating": 1326.59,
+        "rating_deviation": 46.37,
+        "volatility": 0.04
+    },
+    "LDLC White": {
+        "match_count": 4,
+        "rating": 1385.93,
+        "rating_deviation": 34.78,
+        "volatility": 0.0405
+    },
+    "LDLC fe": {
+        "match_count": 6,
+        "rating": 1520.77,
+        "rating_deviation": 31.57,
+        "volatility": 0.04
+    },
+    "LEFTOVERS": {
+        "match_count": 2,
+        "rating": 1347.87,
+        "rating_deviation": 72.57,
+        "volatility": 0.04
+    },
+    "LGD": {
+        "match_count": 11,
+        "rating": 1472.67,
+        "rating_deviation": 21.0,
+        "volatility": 0.04
+    },
+    "LGR": {
+        "match_count": 4,
+        "rating": 1693.97,
+        "rating_deviation": 31.76,
+        "volatility": 0.0401
+    },
+    "Leapfrog": {
+        "match_count": 7,
+        "rating": 1602.67,
+        "rating_deviation": 23.46,
+        "volatility": 0.0401
+    },
+    "Legacy": {
+        "match_count": 23,
+        "rating": 1462.42,
+        "rating_deviation": 21.56,
+        "volatility": 0.0402
+    },
+    "Liquid": {
+        "match_count": 45,
+        "rating": 1563.62,
+        "rating_deviation": 21.15,
+        "volatility": 0.0408
+    },
+    "LowLandLions": {
+        "match_count": 8,
+        "rating": 1603.68,
+        "rating_deviation": 30.74,
+        "volatility": 0.04
+    },
+    "Luccini": {
+        "match_count": 2,
+        "rating": 1069.66,
+        "rating_deviation": 86.31,
+        "volatility": 0.04
+    },
+    "Luminosity": {
+        "match_count": 28,
+        "rating": 1574.42,
+        "rating_deviation": 20.89,
+        "volatility": 0.0404
+    },
+    "MK": {
+        "match_count": 2,
+        "rating": 1684.25,
+        "rating_deviation": 48.48,
+        "volatility": 0.04
+    },
+    "MVP PK": {
+        "match_count": 7,
+        "rating": 1476.41,
+        "rating_deviation": 24.99,
+        "volatility": 0.0401
+    },
+    "MVP Project": {
+        "match_count": 5,
+        "rating": 1619.5,
+        "rating_deviation": 27.47,
+        "volatility": 0.0401
+    },
+    "MVP project": {
+        "match_count": 24,
+        "rating": 1626.42,
+        "rating_deviation": 18.35,
+        "volatility": 0.0403
+    },
+    "MVP.karnal": {
+        "match_count": 10,
+        "rating": 1619.57,
+        "rating_deviation": 19.08,
+        "volatility": 0.0408
+    },
+    "Maaischguet": {
+        "match_count": 5,
+        "rating": 1534.69,
+        "rating_deviation": 41.68,
+        "volatility": 0.04
+    },
+    "Magistra": {
+        "match_count": 12,
+        "rating": 1570.79,
+        "rating_deviation": 22.13,
+        "volatility": 0.04
+    },
+    "Magnum Monsters": {
+        "match_count": 2,
+        "rating": 1532.25,
+        "rating_deviation": 91.51,
+        "volatility": 0.04
+    },
+    "Majestic": {
+        "match_count": 2,
+        "rating": 1111.49,
+        "rating_deviation": 56.76,
+        "volatility": 0.04
+    },
+    "Make it Happen": {
+        "match_count": 3,
+        "rating": 1673.97,
+        "rating_deviation": 44.83,
+        "volatility": 0.04
+    },
+    "Master Grade": {
+        "match_count": 5,
+        "rating": 1442.76,
+        "rating_deviation": 32.65,
+        "volatility": 0.0401
+    },
+    "MaveN Crew": {
+        "match_count": 2,
+        "rating": 1212.89,
+        "rating_deviation": 76.33,
+        "volatility": 0.04
+    },
+    "Mazaalai": {
+        "match_count": 2,
+        "rating": 1404.61,
+        "rating_deviation": 67.26,
+        "volatility": 0.04
+    },
+    "Method": {
+        "match_count": 3,
+        "rating": 1613.18,
+        "rating_deviation": 47.53,
+        "volatility": 0.04
+    },
+    "MiTH": {
+        "match_count": 17,
+        "rating": 1558.7,
+        "rating_deviation": 21.9,
+        "volatility": 0.0413
+    },
+    "Mighty44": {
+        "match_count": 5,
+        "rating": 1604.23,
+        "rating_deviation": 40.19,
+        "volatility": 0.0401
+    },
+    "Millenium": {
+        "match_count": 9,
+        "rating": 1542.0,
+        "rating_deviation": 20.42,
+        "volatility": 0.0402
+    },
+    "Millenium fe": {
+        "match_count": 5,
+        "rating": 1493.16,
+        "rating_deviation": 44.34,
+        "volatility": 0.04
+    },
+    "Mineski": {
+        "match_count": 14,
+        "rating": 1529.42,
+        "rating_deviation": 20.21,
+        "volatility": 0.0401
+    },
+    "Mociustempler": {
+        "match_count": 6,
+        "rating": 1511.89,
+        "rating_deviation": 27.37,
+        "volatility": 0.0401
+    },
+    "Moral Alliance": {
+        "match_count": 3,
+        "rating": 1391.53,
+        "rating_deviation": 38.18,
+        "volatility": 0.04
+    },
+    "Muffin Lightning": {
+        "match_count": 9,
+        "rating": 1486.03,
+        "rating_deviation": 20.58,
+        "volatility": 0.0401
+    },
+    "NRG": {
+        "match_count": 31,
+        "rating": 1536.83,
+        "rating_deviation": 20.65,
+        "volatility": 0.0402
+    },
+    "Napalm": {
+        "match_count": 2,
+        "rating": 1353.2,
+        "rating_deviation": 77.07,
+        "volatility": 0.04
+    },
+    "Natus Vincere": {
+        "match_count": 29,
+        "rating": 1594.21,
+        "rating_deviation": 20.39,
+        "volatility": 0.0407
+    },
+    "Neolution": {
+        "match_count": 2,
+        "rating": 1450.07,
+        "rating_deviation": 92.97,
+        "volatility": 0.04
+    },
+    "Netland": {
+        "match_count": 2,
+        "rating": 1546.06,
+        "rating_deviation": 42.27,
+        "volatility": 0.04
+    },
+    "Nevereverland": {
+        "match_count": 2,
+        "rating": 1721.41,
+        "rating_deviation": 46.34,
+        "volatility": 0.04
+    },
+    "New ReVoL": {
+        "match_count": 5,
+        "rating": 1460.46,
+        "rating_deviation": 30.15,
+        "volatility": 0.04
+    },
+    "New4": {
+        "match_count": 27,
+        "rating": 1562.58,
+        "rating_deviation": 17.35,
+        "volatility": 0.042
+    },
+    "New4.wolf": {
+        "match_count": 4,
+        "rating": 1414.31,
+        "rating_deviation": 43.37,
+        "volatility": 0.04
+    },
+    "Newullst": {
+        "match_count": 2,
+        "rating": 1320.4,
+        "rating_deviation": 68.86,
+        "volatility": 0.04
+    },
+    "Nexus": {
+        "match_count": 17,
+        "rating": 1597.2,
+        "rating_deviation": 22.7,
+        "volatility": 0.0401
+    },
+    "Nface": {
+        "match_count": 8,
+        "rating": 1519.46,
+        "rating_deviation": 24.94,
+        "volatility": 0.04
+    },
+    "NiP": {
+        "match_count": 41,
+        "rating": 1643.76,
+        "rating_deviation": 17.8,
+        "volatility": 0.0403
+    },
+    "NiceShot": {
+        "match_count": 8,
+        "rating": 1642.83,
+        "rating_deviation": 22.84,
+        "volatility": 0.0401
+    },
+    "No Problem!": {
+        "match_count": 5,
+        "rating": 1430.41,
+        "rating_deviation": 31.46,
+        "volatility": 0.04
+    },
+    "NoX": {
+        "match_count": 2,
+        "rating": 1406.38,
+        "rating_deviation": 56.93,
+        "volatility": 0.04
+    },
+    "Nocturns": {
+        "match_count": 8,
+        "rating": 1498.5,
+        "rating_deviation": 27.13,
+        "volatility": 0.0403
+    },
+    "NokSuKao": {
+        "match_count": 3,
+        "rating": 1497.58,
+        "rating_deviation": 51.94,
+        "volatility": 0.04
+    },
+    "Norse": {
+        "match_count": 7,
+        "rating": 1615.41,
+        "rating_deviation": 21.31,
+        "volatility": 0.0403
+    },
+    "NorthSideWolves": {
+        "match_count": 2,
+        "rating": 1233.89,
+        "rating_deviation": 80.64,
+        "volatility": 0.04
+    },
+    "Nostalgie": {
+        "match_count": 2,
+        "rating": 1482.54,
+        "rating_deviation": 54.98,
+        "volatility": 0.04
+    },
+    "Not Today": {
+        "match_count": 3,
+        "rating": 1582.73,
+        "rating_deviation": 52.22,
+        "volatility": 0.0401
+    },
+    "ONEGODLIKE": {
+        "match_count": 3,
+        "rating": 1424.49,
+        "rating_deviation": 48.47,
+        "volatility": 0.0401
+    },
+    "Obey.Alliance": {
+        "match_count": 2,
+        "rating": 1497.17,
+        "rating_deviation": 51.73,
+        "volatility": 0.04
+    },
+    "OnlineBOTS": {
+        "match_count": 2,
+        "rating": 1424.88,
+        "rating_deviation": 82.9,
+        "volatility": 0.04
+    },
+    "OpTic": {
+        "match_count": 46,
+        "rating": 1611.01,
+        "rating_deviation": 19.47,
+        "volatility": 0.0403
+    },
+    "Operation Kino": {
+        "match_count": 5,
+        "rating": 1531.23,
+        "rating_deviation": 36.2,
+        "volatility": 0.04
+    },
+    "Orange": {
+        "match_count": 11,
+        "rating": 1508.77,
+        "rating_deviation": 19.62,
+        "volatility": 0.0401
+    },
+    "Orgless": {
+        "match_count": 2,
+        "rating": 1724.8,
+        "rating_deviation": 76.4,
+        "volatility": 0.04
+    },
+    "Outlaws": {
+        "match_count": 16,
+        "rating": 1592.0,
+        "rating_deviation": 22.73,
+        "volatility": 0.0403
+    },
+    "Overcome": {
+        "match_count": 5,
+        "rating": 1415.23,
+        "rating_deviation": 38.32,
+        "volatility": 0.04
+    },
+    "Overpowered": {
+        "match_count": 7,
+        "rating": 1600.21,
+        "rating_deviation": 22.75,
+        "volatility": 0.0409
+    },
+    "Overrated": {
+        "match_count": 3,
+        "rating": 1512.39,
+        "rating_deviation": 60.95,
+        "volatility": 0.04
+    },
+    "PANTERS": {
+        "match_count": 3,
+        "rating": 1466.4,
+        "rating_deviation": 34.98,
+        "volatility": 0.04
+    },
+    "PENTA": {
+        "match_count": 16,
+        "rating": 1559.18,
+        "rating_deviation": 18.41,
+        "volatility": 0.0403
+    },
+    "PRIDE": {
+        "match_count": 12,
+        "rating": 1604.5,
+        "rating_deviation": 18.94,
+        "volatility": 0.0401
+    },
+    "PROGRESSiON": {
+        "match_count": 8,
+        "rating": 1427.81,
+        "rating_deviation": 31.21,
+        "volatility": 0.04
+    },
+    "Parallax": {
+        "match_count": 29,
+        "rating": 1570.17,
+        "rating_deviation": 17.97,
+        "volatility": 0.0412
+    },
+    "Paranoia": {
+        "match_count": 2,
+        "rating": 1396.64,
+        "rating_deviation": 55.9,
+        "volatility": 0.04
+    },
+    "Pathless": {
+        "match_count": 5,
+        "rating": 1549.73,
+        "rating_deviation": 29.33,
+        "volatility": 0.0401
+    },
+    "PiTER": {
+        "match_count": 4,
+        "rating": 1623.78,
+        "rating_deviation": 29.98,
+        "volatility": 0.04
+    },
+    "Pixel": {
+        "match_count": 23,
+        "rating": 1554.58,
+        "rating_deviation": 21.11,
+        "volatility": 0.0404
+    },
+    "Planetkey": {
+        "match_count": 3,
+        "rating": 1601.03,
+        "rating_deviation": 43.44,
+        "volatility": 0.04
+    },
+    "Platinium": {
+        "match_count": 7,
+        "rating": 1627.98,
+        "rating_deviation": 24.76,
+        "volatility": 0.0402
+    },
+    "Preparation": {
+        "match_count": 13,
+        "rating": 1632.09,
+        "rating_deviation": 19.36,
+        "volatility": 0.0417
+    },
+    "Preparation.Yellow": {
+        "match_count": 5,
+        "rating": 1473.29,
+        "rating_deviation": 34.74,
+        "volatility": 0.04
+    },
+    "Prime5": {
+        "match_count": 2,
+        "rating": 1360.99,
+        "rating_deviation": 58.61,
+        "volatility": 0.04
+    },
+    "Pro Era": {
+        "match_count": 3,
+        "rating": 1656.01,
+        "rating_deviation": 42.82,
+        "volatility": 0.04
+    },
+    "ProGaming": {
+        "match_count": 5,
+        "rating": 1594.26,
+        "rating_deviation": 25.65,
+        "volatility": 0.04
+    },
+    "Project Lunacy": {
+        "match_count": 3,
+        "rating": 1599.9,
+        "rating_deviation": 41.04,
+        "volatility": 0.04
+    },
+    "Property fe": {
+        "match_count": 5,
+        "rating": 1381.18,
+        "rating_deviation": 46.88,
+        "volatility": 0.0401
+    },
+    "PuDI": {
+        "match_count": 2,
+        "rating": 1440.99,
+        "rating_deviation": 57.52,
+        "volatility": 0.04
+    },
+    "PuddiPuddi": {
+        "match_count": 4,
+        "rating": 1462.04,
+        "rating_deviation": 54.48,
+        "volatility": 0.04
+    },
+    "Puppet5": {
+        "match_count": 2,
+        "rating": 1318.49,
+        "rating_deviation": 54.18,
+        "volatility": 0.04
+    },
+    "Quantum Bellator": {
+        "match_count": 12,
+        "rating": 1490.07,
+        "rating_deviation": 26.12,
+        "volatility": 0.0402
+    },
+    "Quantum Bellator Fire": {
+        "match_count": 18,
+        "rating": 1520.76,
+        "rating_deviation": 21.64,
+        "volatility": 0.0405
+    },
+    "QuetzaL": {
+        "match_count": 10,
+        "rating": 1640.44,
+        "rating_deviation": 20.74,
+        "volatility": 0.0403
+    },
+    "QuietPlease": {
+        "match_count": 3,
+        "rating": 1123.75,
+        "rating_deviation": 42.31,
+        "volatility": 0.04
+    },
+    "RCTIC": {
+        "match_count": 2,
+        "rating": 1461.0,
+        "rating_deviation": 53.79,
+        "volatility": 0.04
+    },
+    "RED": {
+        "match_count": 2,
+        "rating": 1369.99,
+        "rating_deviation": 67.49,
+        "volatility": 0.04
+    },
+    "RED CANIDS": {
+        "match_count": 5,
+        "rating": 1440.28,
+        "rating_deviation": 26.52,
+        "volatility": 0.0401
+    },
+    "RHD": {
+        "match_count": 2,
+        "rating": 2000.0,
+        "rating_deviation": 105.42,
+        "volatility": 0.04
+    },
+    "RJ Absolute": {
+        "match_count": 6,
+        "rating": 1511.28,
+        "rating_deviation": 21.92,
+        "volatility": 0.0401
+    },
+    "RONIN": {
+        "match_count": 5,
+        "rating": 1420.92,
+        "rating_deviation": 29.13,
+        "volatility": 0.04
+    },
+    "Radical": {
+        "match_count": 2,
+        "rating": 1168.61,
+        "rating_deviation": 79.1,
+        "volatility": 0.04
+    },
+    "Rampage Killers": {
+        "match_count": 2,
+        "rating": 1506.24,
+        "rating_deviation": 56.93,
+        "volatility": 0.04
+    },
+    "Rascal Jester": {
+        "match_count": 2,
+        "rating": 1311.24,
+        "rating_deviation": 75.17,
+        "volatility": 0.04
+    },
+    "ReVamped": {
+        "match_count": 2,
+        "rating": 1184.9,
+        "rating_deviation": 80.9,
+        "volatility": 0.04
+    },
+    "Reason fe": {
+        "match_count": 7,
+        "rating": 1595.53,
+        "rating_deviation": 27.43,
+        "volatility": 0.04
+    },
+    "Reawakened": {
+        "match_count": 2,
+        "rating": 1341.44,
+        "rating_deviation": 101.45,
+        "volatility": 0.04
+    },
+    "Rebellion": {
+        "match_count": 5,
+        "rating": 1537.37,
+        "rating_deviation": 32.03,
+        "volatility": 0.0429
+    },
+    "Rebels": {
+        "match_count": 2,
+        "rating": 1305.05,
+        "rating_deviation": 50.46,
+        "volatility": 0.04
+    },
+    "Recca": {
+        "match_count": 2,
+        "rating": 1595.08,
+        "rating_deviation": 61.26,
+        "volatility": 0.04
+    },
+    "Red Instinct": {
+        "match_count": 7,
+        "rating": 1566.87,
+        "rating_deviation": 25.35,
+        "volatility": 0.0403
+    },
+    "Refuse": {
+        "match_count": 2,
+        "rating": 1532.25,
+        "rating_deviation": 91.51,
+        "volatility": 0.04
+    },
+    "Remo Brave": {
+        "match_count": 6,
+        "rating": 1355.32,
+        "rating_deviation": 35.05,
+        "volatility": 0.0403
+    },
+    "Renegades": {
+        "match_count": 17,
+        "rating": 1627.04,
+        "rating_deviation": 18.86,
+        "volatility": 0.0405
+    },
+    "RevivaL": {
+        "match_count": 2,
+        "rating": 1456.58,
+        "rating_deviation": 43.57,
+        "volatility": 0.04
+    },
+    "Revolte": {
+        "match_count": 16,
+        "rating": 1529.87,
+        "rating_deviation": 22.42,
+        "volatility": 0.0401
+    },
+    "Rippers": {
+        "match_count": 3,
+        "rating": 1504.4,
+        "rating_deviation": 33.63,
+        "volatility": 0.04
+    },
+    "Risky": {
+        "match_count": 17,
+        "rating": 1591.56,
+        "rating_deviation": 19.78,
+        "volatility": 0.0404
+    },
+    "RivaL": {
+        "match_count": 2,
+        "rating": 1475.4,
+        "rating_deviation": 42.29,
+        "volatility": 0.04
+    },
+    "RoX": {
+        "match_count": 4,
+        "rating": 1446.67,
+        "rating_deviation": 43.66,
+        "volatility": 0.04
+    },
+    "Rogue": {
+        "match_count": 20,
+        "rating": 1624.8,
+        "rating_deviation": 17.92,
+        "volatility": 0.0403
+    },
+    "Rush": {
+        "match_count": 2,
+        "rating": 1513.22,
+        "rating_deviation": 41.06,
+        "volatility": 0.04
+    },
+    "RvN": {
+        "match_count": 5,
+        "rating": 1599.18,
+        "rating_deviation": 34.01,
+        "volatility": 0.0401
+    },
+    "SHAAVEJI": {
+        "match_count": 3,
+        "rating": 1833.42,
+        "rating_deviation": 41.6,
+        "volatility": 0.04
+    },
+    "SK": {
+        "match_count": 66,
+        "rating": 1660.69,
+        "rating_deviation": 18.19,
+        "volatility": 0.0413
+    },
+    "SKDC": {
+        "match_count": 4,
+        "rating": 1453.67,
+        "rating_deviation": 34.75,
+        "volatility": 0.0401
+    },
+    "SSU White": {
+        "match_count": 3,
+        "rating": 1298.13,
+        "rating_deviation": 69.26,
+        "volatility": 0.04
+    },
+    "STORM.CN": {
+        "match_count": 2,
+        "rating": 1451.22,
+        "rating_deviation": 68.93,
+        "volatility": 0.04
+    },
+    "STRONG3R": {
+        "match_count": 2,
+        "rating": 1588.92,
+        "rating_deviation": 96.1,
+        "volatility": 0.04
+    },
+    "SV": {
+        "match_count": 2,
+        "rating": 1418.3,
+        "rating_deviation": 68.66,
+        "volatility": 0.04
+    },
+    "SYF": {
+        "match_count": 10,
+        "rating": 1448.05,
+        "rating_deviation": 21.09,
+        "volatility": 0.0404
+    },
+    "Sabertooth": {
+        "match_count": 10,
+        "rating": 1540.43,
+        "rating_deviation": 22.34,
+        "volatility": 0.0403
+    },
+    "Savor the Fear": {
+        "match_count": 5,
+        "rating": 1505.32,
+        "rating_deviation": 26.82,
+        "volatility": 0.0401
+    },
+    "Secret fe": {
+        "match_count": 7,
+        "rating": 1717.12,
+        "rating_deviation": 33.2,
+        "volatility": 0.0401
+    },
+    "Sector One": {
+        "match_count": 4,
+        "rating": 1477.5,
+        "rating_deviation": 35.75,
+        "volatility": 0.04
+    },
+    "Selfless": {
+        "match_count": 20,
+        "rating": 1619.52,
+        "rating_deviation": 18.6,
+        "volatility": 0.0413
+    },
+    "Selfless fe": {
+        "match_count": 8,
+        "rating": 1655.33,
+        "rating_deviation": 25.9,
+        "volatility": 0.0402
+    },
+    "SetToDestroyX": {
+        "match_count": 3,
+        "rating": 1406.89,
+        "rating_deviation": 35.07,
+        "volatility": 0.04
+    },
+    "Shadows": {
+        "match_count": 5,
+        "rating": 1613.37,
+        "rating_deviation": 38.77,
+        "volatility": 0.04
+    },
+    "Sharksys": {
+        "match_count": 2,
+        "rating": 1494.47,
+        "rating_deviation": 70.83,
+        "volatility": 0.04
+    },
+    "Shukufuku Sunshine": {
+        "match_count": 8,
+        "rating": 1554.71,
+        "rating_deviation": 24.92,
+        "volatility": 0.0401
+    },
+    "Signature": {
+        "match_count": 27,
+        "rating": 1590.42,
+        "rating_deviation": 19.02,
+        "volatility": 0.0408
+    },
+    "Singapore": {
+        "match_count": 9,
+        "rating": 1475.24,
+        "rating_deviation": 28.64,
+        "volatility": 0.0401
+    },
+    "Singularity": {
+        "match_count": 15,
+        "rating": 1595.15,
+        "rating_deviation": 18.95,
+        "volatility": 0.0401
+    },
+    "SkitLite": {
+        "match_count": 3,
+        "rating": 1488.34,
+        "rating_deviation": 43.87,
+        "volatility": 0.04
+    },
+    "Skyfire": {
+        "match_count": 16,
+        "rating": 1529.72,
+        "rating_deviation": 17.81,
+        "volatility": 0.0401
+    },
+    "Sneaky Assasins": {
+        "match_count": 3,
+        "rating": 1401.24,
+        "rating_deviation": 42.19,
+        "volatility": 0.04
+    },
+    "South Africa": {
+        "match_count": 5,
+        "rating": 1258.81,
+        "rating_deviation": 56.49,
+        "volatility": 0.04
+    },
+    "Space Academy": {
+        "match_count": 2,
+        "rating": 1219.31,
+        "rating_deviation": 110.21,
+        "volatility": 0.04
+    },
+    "Space Soldiers": {
+        "match_count": 21,
+        "rating": 1566.46,
+        "rating_deviation": 17.92,
+        "volatility": 0.0408
+    },
+    "Spirit": {
+        "match_count": 13,
+        "rating": 1587.84,
+        "rating_deviation": 19.56,
+        "volatility": 0.0418
+    },
+    "Splyce": {
+        "match_count": 19,
+        "rating": 1531.36,
+        "rating_deviation": 20.14,
+        "volatility": 0.0406
+    },
+    "Sweden": {
+        "match_count": 9,
+        "rating": 1629.85,
+        "rating_deviation": 24.71,
+        "volatility": 0.0402
+    },
+    "SweetNSour": {
+        "match_count": 2,
+        "rating": 1281.73,
+        "rating_deviation": 57.87,
+        "volatility": 0.04
+    },
+    "Swift": {
+        "match_count": 4,
+        "rating": 1488.93,
+        "rating_deviation": 44.29,
+        "volatility": 0.04
+    },
+    "S\u00f8rby": {
+        "match_count": 4,
+        "rating": 1377.3,
+        "rating_deviation": 46.06,
+        "volatility": 0.04
+    },
+    "TES": {
+        "match_count": 2,
+        "rating": 1616.55,
+        "rating_deviation": 57.98,
+        "volatility": 0.04
+    },
+    "TINPLATE": {
+        "match_count": 2,
+        "rating": 1431.22,
+        "rating_deviation": 94.49,
+        "volatility": 0.04
+    },
+    "TRIDENT": {
+        "match_count": 5,
+        "rating": 1497.03,
+        "rating_deviation": 25.8,
+        "volatility": 0.04
+    },
+    "TSM": {
+        "match_count": 25,
+        "rating": 1544.78,
+        "rating_deviation": 20.96,
+        "volatility": 0.0405
+    },
+    "TShow": {
+        "match_count": 7,
+        "rating": 1570.57,
+        "rating_deviation": 21.0,
+        "volatility": 0.04
+    },
+    "TYSKER": {
+        "match_count": 2,
+        "rating": 1258.74,
+        "rating_deviation": 77.24,
+        "volatility": 0.04
+    },
+    "Taiwan Z": {
+        "match_count": 3,
+        "rating": 1492.76,
+        "rating_deviation": 37.34,
+        "volatility": 0.04
+    },
+    "TamuluS": {
+        "match_count": 3,
+        "rating": 1432.23,
+        "rating_deviation": 61.33,
+        "volatility": 0.04
+    },
+    "Team of Miracles": {
+        "match_count": 2,
+        "rating": 1427.88,
+        "rating_deviation": 58.35,
+        "volatility": 0.04
+    },
+    "Team123": {
+        "match_count": 2,
+        "rating": 1556.27,
+        "rating_deviation": 78.49,
+        "volatility": 0.04
+    },
+    "TeamOne": {
+        "match_count": 19,
+        "rating": 1568.03,
+        "rating_deviation": 18.05,
+        "volatility": 0.0407
+    },
+    "Tectonic": {
+        "match_count": 5,
+        "rating": 1545.77,
+        "rating_deviation": 40.06,
+        "volatility": 0.04
+    },
+    "Temp.no": {
+        "match_count": 4,
+        "rating": 1564.31,
+        "rating_deviation": 23.22,
+        "volatility": 0.0402
+    },
+    "Tengri": {
+        "match_count": 12,
+        "rating": 1486.58,
+        "rating_deviation": 20.27,
+        "volatility": 0.0404
+    },
+    "ThaiFrilla": {
+        "match_count": 4,
+        "rating": 1471.75,
+        "rating_deviation": 30.44,
+        "volatility": 0.04
+    },
+    "The Burgermen": {
+        "match_count": 2,
+        "rating": 1477.14,
+        "rating_deviation": 66.5,
+        "volatility": 0.04
+    },
+    "The Trash Pandas": {
+        "match_count": 2,
+        "rating": 1140.11,
+        "rating_deviation": 115.54,
+        "volatility": 0.04
+    },
+    "The Untouchables": {
+        "match_count": 8,
+        "rating": 1387.68,
+        "rating_deviation": 32.27,
+        "volatility": 0.0401
+    },
+    "TheMongolz": {
+        "match_count": 21,
+        "rating": 1650.31,
+        "rating_deviation": 18.61,
+        "volatility": 0.0413
+    },
+    "TheOwls": {
+        "match_count": 3,
+        "rating": 1509.23,
+        "rating_deviation": 58.21,
+        "volatility": 0.04
+    },
+    "Threats": {
+        "match_count": 8,
+        "rating": 1572.99,
+        "rating_deviation": 27.25,
+        "volatility": 0.04
+    },
+    "TomorrowLAN": {
+        "match_count": 2,
+        "rating": 1391.4,
+        "rating_deviation": 38.35,
+        "volatility": 0.04
+    },
+    "Torpedo": {
+        "match_count": 4,
+        "rating": 1565.67,
+        "rating_deviation": 24.89,
+        "volatility": 0.04
+    },
+    "TransacT": {
+        "match_count": 2,
+        "rating": 1241.54,
+        "rating_deviation": 78.11,
+        "volatility": 0.04
+    },
+    "Tricked": {
+        "match_count": 19,
+        "rating": 1640.83,
+        "rating_deviation": 19.52,
+        "volatility": 0.0406
+    },
+    "Tunisia": {
+        "match_count": 9,
+        "rating": 1418.68,
+        "rating_deviation": 33.39,
+        "volatility": 0.0401
+    },
+    "Turkey": {
+        "match_count": 12,
+        "rating": 1653.8,
+        "rating_deviation": 21.49,
+        "volatility": 0.0401
+    },
+    "TyLoo": {
+        "match_count": 38,
+        "rating": 1569.85,
+        "rating_deviation": 20.35,
+        "volatility": 0.0409
+    },
+    "USSR": {
+        "match_count": 3,
+        "rating": 1498.31,
+        "rating_deviation": 76.28,
+        "volatility": 0.04
+    },
+    "Ukraine": {
+        "match_count": 7,
+        "rating": 1562.97,
+        "rating_deviation": 26.08,
+        "volatility": 0.0401
+    },
+    "Ulti": {
+        "match_count": 5,
+        "rating": 1472.04,
+        "rating_deviation": 32.1,
+        "volatility": 0.04
+    },
+    "Universe": {
+        "match_count": 3,
+        "rating": 1511.85,
+        "rating_deviation": 41.64,
+        "volatility": 0.04
+    },
+    "VG.CyberZen": {
+        "match_count": 53,
+        "rating": 1650.28,
+        "rating_deviation": 19.31,
+        "volatility": 0.0417
+    },
+    "VG.Potential": {
+        "match_count": 9,
+        "rating": 1353.48,
+        "rating_deviation": 28.31,
+        "volatility": 0.0401
+    },
+    "VIP": {
+        "match_count": 2,
+        "rating": 1000.0,
+        "rating_deviation": 96.95,
+        "volatility": 0.04
+    },
+    "VatosLocos": {
+        "match_count": 2,
+        "rating": 1253.79,
+        "rating_deviation": 107.81,
+        "volatility": 0.04
+    },
+    "Vault": {
+        "match_count": 5,
+        "rating": 1571.76,
+        "rating_deviation": 25.52,
+        "volatility": 0.0401
+    },
+    "VenatoreS": {
+        "match_count": 8,
+        "rating": 1522.54,
+        "rating_deviation": 23.83,
+        "volatility": 0.04
+    },
+    "Vengeance": {
+        "match_count": 2,
+        "rating": 1314.55,
+        "rating_deviation": 103.44,
+        "volatility": 0.04
+    },
+    "Venko": {
+        "match_count": 8,
+        "rating": 1551.89,
+        "rating_deviation": 31.61,
+        "volatility": 0.04
+    },
+    "VexX": {
+        "match_count": 2,
+        "rating": 1426.05,
+        "rating_deviation": 65.32,
+        "volatility": 0.04
+    },
+    "Vexed": {
+        "match_count": 3,
+        "rating": 1668.15,
+        "rating_deviation": 40.32,
+        "volatility": 0.0401
+    },
+    "Vibby": {
+        "match_count": 2,
+        "rating": 1386.88,
+        "rating_deviation": 52.32,
+        "volatility": 0.04
+    },
+    "Vikings.Vortex": {
+        "match_count": 4,
+        "rating": 1619.77,
+        "rating_deviation": 31.72,
+        "volatility": 0.0401
+    },
+    "Vinkelparty": {
+        "match_count": 2,
+        "rating": 1487.95,
+        "rating_deviation": 55.93,
+        "volatility": 0.04
+    },
+    "Virtus.pro": {
+        "match_count": 49,
+        "rating": 1583.46,
+        "rating_deviation": 21.55,
+        "volatility": 0.0407
+    },
+    "Vulcan": {
+        "match_count": 2,
+        "rating": 1366.36,
+        "rating_deviation": 99.57,
+        "volatility": 0.04
+    },
+    "VwS": {
+        "match_count": 20,
+        "rating": 1551.98,
+        "rating_deviation": 20.98,
+        "volatility": 0.0404
+    },
+    "WOOSAH": {
+        "match_count": 2,
+        "rating": 1275.94,
+        "rating_deviation": 53.3,
+        "volatility": 0.04
+    },
+    "WaSiStLoWs": {
+        "match_count": 2,
+        "rating": 1354.88,
+        "rating_deviation": 74.53,
+        "volatility": 0.04
+    },
+    "WarMonkeys": {
+        "match_count": 3,
+        "rating": 1659.27,
+        "rating_deviation": 45.01,
+        "volatility": 0.04
+    },
+    "Wild": {
+        "match_count": 2,
+        "rating": 1542.56,
+        "rating_deviation": 60.0,
+        "volatility": 0.04
+    },
+    "Winterfox": {
+        "match_count": 16,
+        "rating": 1550.19,
+        "rating_deviation": 20.74,
+        "volatility": 0.0403
+    },
+    "Wizard": {
+        "match_count": 2,
+        "rating": 1441.16,
+        "rating_deviation": 43.43,
+        "volatility": 0.04
+    },
+    "Wolsung": {
+        "match_count": 2,
+        "rating": 1334.49,
+        "rating_deviation": 73.29,
+        "volatility": 0.04
+    },
+    "Wyvern": {
+        "match_count": 3,
+        "rating": 1513.03,
+        "rating_deviation": 46.1,
+        "volatility": 0.04
+    },
+    "XFXQ": {
+        "match_count": 4,
+        "rating": 1315.91,
+        "rating_deviation": 44.69,
+        "volatility": 0.04
+    },
+    "XPC": {
+        "match_count": 6,
+        "rating": 1556.6,
+        "rating_deviation": 28.91,
+        "volatility": 0.0402
+    },
+    "XPRESIV'E": {
+        "match_count": 6,
+        "rating": 1471.29,
+        "rating_deviation": 38.01,
+        "volatility": 0.0402
+    },
+    "YETTI 5": {
+        "match_count": 13,
+        "rating": 1529.49,
+        "rating_deviation": 22.22,
+        "volatility": 0.0401
+    },
+    "YP": {
+        "match_count": 4,
+        "rating": 1492.23,
+        "rating_deviation": 34.92,
+        "volatility": 0.0401
+    },
+    "ZDM": {
+        "match_count": 7,
+        "rating": 1476.2,
+        "rating_deviation": 22.31,
+        "volatility": 0.04
+    },
+    "Zaga Talent": {
+        "match_count": 2,
+        "rating": 1258.74,
+        "rating_deviation": 77.24,
+        "volatility": 0.04
+    },
+    "Zeta Strike": {
+        "match_count": 5,
+        "rating": 1529.72,
+        "rating_deviation": 31.53,
+        "volatility": 0.04
+    },
+    "Zeta Strike AR": {
+        "match_count": 2,
+        "rating": 1416.82,
+        "rating_deviation": 49.06,
+        "volatility": 0.04
+    },
+    "a-game raise": {
+        "match_count": 2,
+        "rating": 1356.87,
+        "rating_deviation": 46.3,
+        "volatility": 0.04
+    },
+    "apexfrag": {
+        "match_count": 3,
+        "rating": 1489.88,
+        "rating_deviation": 66.11,
+        "volatility": 0.04
+    },
+    "auRa": {
+        "match_count": 5,
+        "rating": 1459.59,
+        "rating_deviation": 24.95,
+        "volatility": 0.0402
+    },
+    "beGenius": {
+        "match_count": 2,
+        "rating": 1314.55,
+        "rating_deviation": 103.44,
+        "volatility": 0.04
+    },
+    "carboN": {
+        "match_count": 6,
+        "rating": 1448.43,
+        "rating_deviation": 29.21,
+        "volatility": 0.0402
+    },
+    "cleanup crew": {
+        "match_count": 2,
+        "rating": 1406.67,
+        "rating_deviation": 66.38,
+        "volatility": 0.04
+    },
+    "compLexity": {
+        "match_count": 41,
+        "rating": 1509.86,
+        "rating_deviation": 19.12,
+        "volatility": 0.0413
+    },
+    "dd": {
+        "match_count": 6,
+        "rating": 1571.63,
+        "rating_deviation": 28.02,
+        "volatility": 0.0401
+    },
+    "dignitas": {
+        "match_count": 52,
+        "rating": 1622.81,
+        "rating_deviation": 20.33,
+        "volatility": 0.0408
+    },
+    "don't be so cool": {
+        "match_count": 2,
+        "rating": 1204.68,
+        "rating_deviation": 79.94,
+        "volatility": 0.04
+    },
+    "doyoueven fe": {
+        "match_count": 5,
+        "rating": 1328.12,
+        "rating_deviation": 41.68,
+        "volatility": 0.0401
+    },
+    "dream[S]cape": {
+        "match_count": 21,
+        "rating": 1604.73,
+        "rating_deviation": 18.79,
+        "volatility": 0.043
+    },
+    "dreamchasers": {
+        "match_count": 6,
+        "rating": 1602.97,
+        "rating_deviation": 25.33,
+        "volatility": 0.0402
+    },
+    "eFuture": {
+        "match_count": 11,
+        "rating": 1449.1,
+        "rating_deviation": 21.07,
+        "volatility": 0.0404
+    },
+    "eL'quvet": {
+        "match_count": 4,
+        "rating": 1512.99,
+        "rating_deviation": 47.59,
+        "volatility": 0.04
+    },
+    "eSportsLab Black": {
+        "match_count": 5,
+        "rating": 1517.92,
+        "rating_deviation": 48.03,
+        "volatility": 0.04
+    },
+    "eSuba": {
+        "match_count": 14,
+        "rating": 1594.22,
+        "rating_deviation": 19.73,
+        "volatility": 0.0411
+    },
+    "eUnited": {
+        "match_count": 9,
+        "rating": 1390.25,
+        "rating_deviation": 29.18,
+        "volatility": 0.0401
+    },
+    "eXplosive": {
+        "match_count": 3,
+        "rating": 1503.01,
+        "rating_deviation": 31.78,
+        "volatility": 0.04
+    },
+    "eXtatus": {
+        "match_count": 12,
+        "rating": 1585.66,
+        "rating_deviation": 18.64,
+        "volatility": 0.0405
+    },
+    "elements": {
+        "match_count": 2,
+        "rating": 1485.84,
+        "rating_deviation": 72.96,
+        "volatility": 0.04
+    },
+    "elixe4": {
+        "match_count": 2,
+        "rating": 1438.45,
+        "rating_deviation": 63.48,
+        "volatility": 0.04
+    },
+    "esq.wind": {
+        "match_count": 2,
+        "rating": 1276.33,
+        "rating_deviation": 73.91,
+        "volatility": 0.04
+    },
+    "ex-31337": {
+        "match_count": 3,
+        "rating": 1547.55,
+        "rating_deviation": 35.32,
+        "volatility": 0.0402
+    },
+    "ex-Astral Authority": {
+        "match_count": 4,
+        "rating": 1463.58,
+        "rating_deviation": 39.61,
+        "volatility": 0.04
+    },
+    "ex-Titan": {
+        "match_count": 3,
+        "rating": 1678.61,
+        "rating_deviation": 49.7,
+        "volatility": 0.04
+    },
+    "expert fe": {
+        "match_count": 6,
+        "rating": 1506.54,
+        "rating_deviation": 26.83,
+        "volatility": 0.04
+    },
+    "ezOKplease": {
+        "match_count": 2,
+        "rating": 1254.57,
+        "rating_deviation": 81.47,
+        "volatility": 0.04
+    },
+    "f3rr4ri": {
+        "match_count": 2,
+        "rating": 1094.32,
+        "rating_deviation": 118.51,
+        "volatility": 0.04
+    },
+    "fish123": {
+        "match_count": 5,
+        "rating": 1412.0,
+        "rating_deviation": 39.33,
+        "volatility": 0.04
+    },
+    "fm-eSports": {
+        "match_count": 14,
+        "rating": 1557.11,
+        "rating_deviation": 20.78,
+        "volatility": 0.0402
+    },
+    "fnatic": {
+        "match_count": 42,
+        "rating": 1570.31,
+        "rating_deviation": 20.32,
+        "volatility": 0.0401
+    },
+    "fnatic Academy": {
+        "match_count": 15,
+        "rating": 1581.83,
+        "rating_deviation": 17.13,
+        "volatility": 0.0402
+    },
+    "fruits": {
+        "match_count": 4,
+        "rating": 1795.89,
+        "rating_deviation": 38.37,
+        "volatility": 0.0402
+    },
+    "g3x": {
+        "match_count": 23,
+        "rating": 1598.96,
+        "rating_deviation": 19.15,
+        "volatility": 0.0414
+    },
+    "ggrabb": {
+        "match_count": 2,
+        "rating": 1429.68,
+        "rating_deviation": 70.28,
+        "volatility": 0.04
+    },
+    "glassysky": {
+        "match_count": 2,
+        "rating": 2000.0,
+        "rating_deviation": 68.27,
+        "volatility": 0.04
+    },
+    "harambeGOD": {
+        "match_count": 3,
+        "rating": 1466.3,
+        "rating_deviation": 50.0,
+        "volatility": 0.04
+    },
+    "iGame.com": {
+        "match_count": 26,
+        "rating": 1586.83,
+        "rating_deviation": 18.0,
+        "volatility": 0.0416
+    },
+    "iGamerWorld": {
+        "match_count": 2,
+        "rating": 1285.42,
+        "rating_deviation": 105.56,
+        "volatility": 0.04
+    },
+    "iNETKOXTV": {
+        "match_count": 12,
+        "rating": 1554.32,
+        "rating_deviation": 20.16,
+        "volatility": 0.0402
+    },
+    "iNTRO": {
+        "match_count": 4,
+        "rating": 1451.21,
+        "rating_deviation": 30.29,
+        "volatility": 0.04
+    },
+    "iNation": {
+        "match_count": 31,
+        "rating": 1631.3,
+        "rating_deviation": 20.9,
+        "volatility": 0.0409
+    },
+    "illusion": {
+        "match_count": 2,
+        "rating": 1341.44,
+        "rating_deviation": 101.45,
+        "volatility": 0.04
+    },
+    "jalapeno": {
+        "match_count": 4,
+        "rating": 1575.43,
+        "rating_deviation": 36.44,
+        "volatility": 0.04
+    },
+    "k1ck": {
+        "match_count": 15,
+        "rating": 1545.92,
+        "rating_deviation": 19.71,
+        "volatility": 0.0406
+    },
+    "k1ck oldschool": {
+        "match_count": 12,
+        "rating": 1554.37,
+        "rating_deviation": 19.82,
+        "volatility": 0.0403
+    },
+    "kexpz": {
+        "match_count": 2,
+        "rating": 1360.73,
+        "rating_deviation": 71.87,
+        "volatility": 0.04
+    },
+    "legacy": {
+        "match_count": 2,
+        "rating": 1419.51,
+        "rating_deviation": 53.3,
+        "volatility": 0.04
+    },
+    "m0nster": {
+        "match_count": 15,
+        "rating": 1539.32,
+        "rating_deviation": 19.35,
+        "volatility": 0.0406
+    },
+    "m0nster white": {
+        "match_count": 8,
+        "rating": 1465.65,
+        "rating_deviation": 23.55,
+        "volatility": 0.0401
+    },
+    "m0nsterOS": {
+        "match_count": 3,
+        "rating": 1392.07,
+        "rating_deviation": 49.39,
+        "volatility": 0.0401
+    },
+    "mCon": {
+        "match_count": 8,
+        "rating": 1461.29,
+        "rating_deviation": 29.73,
+        "volatility": 0.04
+    },
+    "malefiQ": {
+        "match_count": 3,
+        "rating": 1711.35,
+        "rating_deviation": 42.32,
+        "volatility": 0.04
+    },
+    "mousesports": {
+        "match_count": 37,
+        "rating": 1600.32,
+        "rating_deviation": 19.68,
+        "volatility": 0.0404
+    },
+    "n0_0rg": {
+        "match_count": 2,
+        "rating": 1349.34,
+        "rating_deviation": 58.64,
+        "volatility": 0.04
+    },
+    "nEophyte": {
+        "match_count": 3,
+        "rating": 1367.56,
+        "rating_deviation": 31.43,
+        "volatility": 0.04
+    },
+    "nGse": {
+        "match_count": 4,
+        "rating": 1508.77,
+        "rating_deviation": 33.45,
+        "volatility": 0.04
+    },
+    "nerdRage": {
+        "match_count": 3,
+        "rating": 1344.7,
+        "rating_deviation": 34.57,
+        "volatility": 0.0402
+    },
+    "newlyweds": {
+        "match_count": 2,
+        "rating": 1517.85,
+        "rating_deviation": 63.04,
+        "volatility": 0.04
+    },
+    "nxl": {
+        "match_count": 17,
+        "rating": 1627.8,
+        "rating_deviation": 22.54,
+        "volatility": 0.0404
+    },
+    "onestop": {
+        "match_count": 24,
+        "rating": 1510.77,
+        "rating_deviation": 19.59,
+        "volatility": 0.0407
+    },
+    "paiN": {
+        "match_count": 13,
+        "rating": 1585.54,
+        "rating_deviation": 18.18,
+        "volatility": 0.0405
+    },
+    "panic": {
+        "match_count": 2,
+        "rating": 1320.57,
+        "rating_deviation": 74.03,
+        "volatility": 0.04
+    },
+    "plusvee": {
+        "match_count": 7,
+        "rating": 1539.55,
+        "rating_deviation": 20.47,
+        "volatility": 0.0402
+    },
+    "puLse": {
+        "match_count": 2,
+        "rating": 1306.08,
+        "rating_deviation": 74.8,
+        "volatility": 0.04
+    },
+    "rUNITED": {
+        "match_count": 2,
+        "rating": 1502.06,
+        "rating_deviation": 48.8,
+        "volatility": 0.04
+    },
+    "s4s": {
+        "match_count": 3,
+        "rating": 1540.13,
+        "rating_deviation": 45.48,
+        "volatility": 0.0401
+    },
+    "subtLe": {
+        "match_count": 10,
+        "rating": 1626.79,
+        "rating_deviation": 20.05,
+        "volatility": 0.0405
+    },
+    "sylloM": {
+        "match_count": 3,
+        "rating": 1574.8,
+        "rating_deviation": 53.07,
+        "volatility": 0.04
+    },
+    "v0rtex 5": {
+        "match_count": 7,
+        "rating": 1558.27,
+        "rating_deviation": 25.55,
+        "volatility": 0.0401
+    },
+    "vVv": {
+        "match_count": 3,
+        "rating": 1433.85,
+        "rating_deviation": 48.76,
+        "volatility": 0.0401
+    },
+    "xTc": {
+        "match_count": 2,
+        "rating": 1000.0,
+        "rating_deviation": 76.91,
+        "volatility": 0.04
+    },
+    "zARLANS": {
+        "match_count": 7,
+        "rating": 1511.48,
+        "rating_deviation": 28.25,
+        "volatility": 0.0401
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Belgium": {
+        "BombDefused": 0,
+        "BombExploded": 0,
+        "Glicko 15": 1592.32,
+        "Glicko 40": 1592.32,
+        "Glicko Lifetime": 1553.3,
+        "Players": {
+            " Adil 'ScreaM' Benrlitom": {
+                "adr": 70.0,
+                "death": 12,
+                "kill": 17,
+                "rating": 1.21
+            },
+            " Antoine 'to1nou' Pirard": {
+                "adr": 115.6,
+                "death": 11,
+                "kill": 26,
+                "rating": 1.72
+            },
+            " David 'Davidp' Prince": {
+                "adr": 92.0,
+                "death": 13,
+                "kill": 20,
+                "rating": 1.23
+            },
+            " K\u00e9vin 'Ex6TenZ' Droolans": {
+                "adr": 69.8,
+                "death": 13,
+                "kill": 17,
+                "rating": 1.07
+            },
+            " Younes 'YOUYOU' Ait Lalla": {
+                "adr": 67.7,
+                "death": 15,
+                "kill": 13,
+                "rating": 0.88
+            }
+        },
+        "Score": 16,
+        "Score BO": 1,
+        "my_prediction": null,
+        "prediction_15": 40.65,
+        "prediction_40": 40.65,
+        "prediction_life": 34.879999999999995
+    },
+    "Date": "1-September-2016",
+    "FileName": "1-September-2016_+_Belgium_+_Russia_+_Bestof1_+_.json",
+    "GameFormat": "Best of 1",
+    "League": "World Championships 2016 European Qualifier",
+    "Match 1": {
+        "Belgium": 16,
+        "Map": "cobblestone",
+        "Russia": 7
+    },
+    "Russia": {
+        "BombDefused": 0,
+        "BombExploded": 0,
+        "Glicko 15": 1659.53,
+        "Glicko 40": 1659.53,
+        "Glicko Lifetime": 1661.97,
+        "Players": {
+            " Denis 'seized' Kostin": {
+                "adr": 77.3,
+                "death": 18,
+                "kill": 16,
+                "rating": 0.88
+            },
+            " Dmitry 'hooch' Bogdanov": {
+                "adr": 44.4,
+                "death": 16,
+                "kill": 9,
+                "rating": 0.63
+            },
+            " Egor 'flamie' Vasilyev": {
+                "adr": 70.4,
+                "death": 19,
+                "kill": 12,
+                "rating": 0.65
+            },
+            " Georgi 'WorldEdit' Yaskin": {
+                "adr": 45.3,
+                "death": 21,
+                "kill": 9,
+                "rating": 0.45
+            },
+            " Mihail 'Dosia' Stolyarov": {
+                "adr": 93.1,
+                "death": 20,
+                "kill": 18,
+                "rating": 0.91
+            }
+        },
+        "Score": 7,
+        "Score BO": 0,
+        "my_prediction": null,
+        "prediction_15": 59.35,
+        "prediction_40": 59.35,
+        "prediction_life": 65.12
+    },
+    "Url": "http://www.hltv.org/match/2304382-russia-belgium-world-championships-2016-european-qualifier"
+}

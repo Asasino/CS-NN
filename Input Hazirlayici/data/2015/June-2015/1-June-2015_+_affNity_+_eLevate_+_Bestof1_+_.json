@@ -1,0 +1,102 @@
+{
+    "Date": "1-June-2015",
+    "FileName": "1-June-2015_+_affNity_+_eLevate_+_Bestof1_+_.json",
+    "GameFormat": "Best of 1",
+    "League": "ESL ESEA Pro League Season 1",
+    "Match 1": {
+        "Map": "inferno",
+        "affNity": 16,
+        "eLevate": 10
+    },
+    "Url": "http://www.hltv.org/match/2296113-elevate-affnity-esl-esea-pro-league-season-1",
+    "affNity": {
+        "BombDefused": 0,
+        "BombExploded": 0,
+        "Glicko 15": 1508.72,
+        "Glicko 40": 1475.19,
+        "Glicko Lifetime": 1439.73,
+        "Players": {
+            " Abraham 'abE' Fazli": {
+                "adr": 47.6,
+                "death": 18,
+                "kill": 21,
+                "rating": 1.17
+            },
+            " Arya 'arya' Hekmat": {
+                "adr": 33.3,
+                "death": 18,
+                "kill": 18,
+                "rating": 1.02
+            },
+            " David 'DAVEY' Stafford": {
+                "adr": 66.7,
+                "death": 16,
+                "kill": 15,
+                "rating": 0.83
+            },
+            " Jason 'focs' Mauery": {
+                "adr": 42.1,
+                "death": 17,
+                "kill": 19,
+                "rating": 1.09
+            },
+            " Jason 'jasonR' Ruchelski": {
+                "adr": 36.4,
+                "death": 16,
+                "kill": 22,
+                "rating": 1.31
+            }
+        },
+        "Score": 16,
+        "Score BO": 1,
+        "my_prediction": 49.53,
+        "prediction_15": 53.62,
+        "prediction_40": 51.44,
+        "prediction_life": 49.17
+    },
+    "eLevate": {
+        "BombDefused": 0,
+        "BombExploded": 0,
+        "Glicko 15": 1483.45,
+        "Glicko 40": 1465.13,
+        "Glicko Lifetime": 1445.52,
+        "Players": {
+            " Daniel 'roca' Gustaferri": {
+                "adr": 50.0,
+                "death": 18,
+                "kill": 26,
+                "rating": 1.56
+            },
+            " David 'Xp3' Garrido": {
+                "adr": 63.6,
+                "death": 19,
+                "kill": 11,
+                "rating": 0.62
+            },
+            " Derek 'desi' Branchen": {
+                "adr": 33.3,
+                "death": 17,
+                "kill": 18,
+                "rating": 0.95
+            },
+            " Tyler 'Storm' Wood": {
+                "adr": 56.3,
+                "death": 21,
+                "kill": 16,
+                "rating": 0.83
+            },
+            " Will 'RUSH' Wierzba": {
+                "adr": 42.9,
+                "death": 20,
+                "kill": 14,
+                "rating": 0.65
+            }
+        },
+        "Score": 10,
+        "Score BO": 0,
+        "my_prediction": 50.47,
+        "prediction_15": 46.38,
+        "prediction_40": 48.56,
+        "prediction_life": 50.83
+    }
+}

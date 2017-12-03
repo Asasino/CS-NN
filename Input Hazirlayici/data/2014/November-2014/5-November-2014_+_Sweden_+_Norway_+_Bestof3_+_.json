@@ -1,0 +1,112 @@
+{
+  "Date": "5-November-2014",
+  "FileName": "5-November-2014_+_Sweden_+_Norway_+_Bestof3_+_.json",
+  "GameFormat": "Best of 3",
+  "League": "European Championship 2014",
+  "Match 1": {
+    "Map": "mirage",
+    "Norway": 22,
+    "Sweden": 20
+  },
+  "Match 2": {
+    "Map": "cache",
+    "Norway": 14,
+    "Sweden": 16
+  },
+  "Match 3": {
+    "Map": "inferno",
+    "Norway": 17,
+    "Sweden": 19
+  },
+  "Norway": {
+    "BombDefused": 0,
+    "BombExploded": 0,
+    "Glicko 15": null,
+    "Glicko 40": null,
+    "Glicko Lifetime": 1450.07,
+    "Players": {
+      " Adrian 'hoyland' Johansen": {
+        "adr": 56.5,
+        "death": 77,
+        "kill": 69,
+        "rating": 0.92
+      },
+      " Kenneth 'REASTEN' Kristiansen": {
+        "adr": 43.7,
+        "death": 75,
+        "kill": 71,
+        "rating": 0.98
+      },
+      " Markus 'maak' Karlsen": {
+        "adr": 39.7,
+        "death": 80,
+        "kill": 78,
+        "rating": 1.04
+      },
+      " P\u00e5l 'Polly' Kammen": {
+        "adr": 21.3,
+        "death": 76,
+        "kill": 80,
+        "rating": 1.05
+      },
+      " Sebastian 'ensa' Aas": {
+        "adr": 28.8,
+        "death": 70,
+        "kill": 73,
+        "rating": 1.01
+      }
+    },
+    "Score": 53,
+    "Score BO": 1,
+    "my_prediction": null,
+    "prediction_15": null,
+    "prediction_40": null,
+    "prediction_life": 58.44
+  },
+  "Sweden": {
+    "BombDefused": 0,
+    "BombExploded": 0,
+    "Glicko 15": null,
+    "Glicko 40": null,
+    "Glicko Lifetime": 1388.3,
+    "Players": {
+      " Andreas 'znajder' Lindberg": {
+        "adr": 40.0,
+        "death": 73,
+        "kill": 75,
+        "rating": 1.02
+      },
+      " Dennis 'dennis' Edman": {
+        "adr": 50.8,
+        "death": 79,
+        "kill": 67,
+        "rating": 0.9
+      },
+      " Jesper 'JW' Wecksell": {
+        "adr": 36.4,
+        "death": 74,
+        "kill": 88,
+        "rating": 1.14
+      },
+      " Markus 'pronax' Wallsten": {
+        "adr": 42.6,
+        "death": 74,
+        "kill": 61,
+        "rating": 0.79
+      },
+      " Robin 'flusha' R\u00f6nnquist": {
+        "adr": 43.7,
+        "death": 72,
+        "kill": 87,
+        "rating": 1.13
+      }
+    },
+    "Score": 55,
+    "Score BO": 2,
+    "my_prediction": null,
+    "prediction_15": null,
+    "prediction_40": null,
+    "prediction_life": 41.56
+  },
+  "Url": "http://www.hltv.org/match/2293401-sweden-norway-european-championship-2014"
+}

@@ -1,0 +1,9658 @@
+{
+  ".Norway": {
+    "cache": {
+      "Deviation": 71.89,
+      "Rating": 1353.87
+    },
+    "dust2": {
+      "Deviation": 38.36,
+      "Rating": 1624.5
+    },
+    "mirage": {
+      "Deviation": 68.33,
+      "Rating": 1688.42
+    },
+    "train": {
+      "Deviation": 44.2,
+      "Rating": 1613.9
+    }
+  },
+  ".Russia": {
+    "cache": {
+      "Deviation": 74.8,
+      "Rating": 1693.93
+    },
+    "cobblestone": {
+      "Deviation": 29.61,
+      "Rating": 1550.12
+    },
+    "mirage": {
+      "Deviation": 31.63,
+      "Rating": 1695.14
+    },
+    "overpass": {
+      "Deviation": 31.25,
+      "Rating": 1637.98
+    }
+  },
+  "31337": {
+    "cache": {
+      "Deviation": 94.49,
+      "Rating": 1431.22
+    }
+  },
+  "3P": {
+    "cache": {
+      "Deviation": 48.07,
+      "Rating": 1590.33
+    },
+    "cobblestone": {
+      "Deviation": 65.26,
+      "Rating": 1342.22
+    },
+    "mirage": {
+      "Deviation": 46.48,
+      "Rating": 1435.99
+    }
+  },
+  "3xTeam": {
+    "cache": {
+      "Deviation": 31.21,
+      "Rating": 1560.87
+    },
+    "cobblestone": {
+      "Deviation": 49.22,
+      "Rating": 1688.39
+    },
+    "dust2": {
+      "Deviation": 72.57,
+      "Rating": 1347.86
+    },
+    "mirage": {
+      "Deviation": 53.32,
+      "Rating": 1609.35
+    },
+    "train": {
+      "Deviation": 33.28,
+      "Rating": 1532.61
+    }
+  },
+  "4dimensioN": {
+    "cache": {
+      "Deviation": 33.38,
+      "Rating": 1410.53
+    },
+    "cobblestone": {
+      "Deviation": 42.23,
+      "Rating": 1547.18
+    },
+    "dust2": {
+      "Deviation": 46.1,
+      "Rating": 1531.79
+    },
+    "mirage": {
+      "Deviation": 34.7,
+      "Rating": 1465.98
+    },
+    "overpass": {
+      "Deviation": 29.74,
+      "Rating": 1379.3
+    }
+  },
+  "5FRAGS": {
+    "cache": {
+      "Deviation": 57.8,
+      "Rating": 1516.72
+    },
+    "cobblestone": {
+      "Deviation": 35.01,
+      "Rating": 1518.86
+    },
+    "dust2": {
+      "Deviation": 38.4,
+      "Rating": 1461.62
+    },
+    "mirage": {
+      "Deviation": 27.18,
+      "Rating": 1528.45
+    },
+    "nuke": {
+      "Deviation": 50.65,
+      "Rating": 1357.12
+    },
+    "overpass": {
+      "Deviation": 36.82,
+      "Rating": 1475.48
+    },
+    "train": {
+      "Deviation": 49.07,
+      "Rating": 1455.71
+    }
+  },
+  "5POWER": {
+    "cache": {
+      "Deviation": 19.11,
+      "Rating": 1543.05
+    },
+    "cobblestone": {
+      "Deviation": 25.25,
+      "Rating": 1582.71
+    },
+    "dust2": {
+      "Deviation": 19.45,
+      "Rating": 1580.31
+    },
+    "mirage": {
+      "Deviation": 19.12,
+      "Rating": 1625.87
+    },
+    "nuke": {
+      "Deviation": 31.02,
+      "Rating": 1611.7
+    },
+    "train": {
+      "Deviation": 21.88,
+      "Rating": 1604.83
+    }
+  },
+  "5cent": {
+    "dust2": {
+      "Deviation": 67.42,
+      "Rating": 1448.65
+    },
+    "train": {
+      "Deviation": 82.12,
+      "Rating": 1296.3
+    }
+  },
+  "8)": {
+    "cache": {
+      "Deviation": 78.07,
+      "Rating": 1000
+    },
+    "cobblestone": {
+      "Deviation": 82.94,
+      "Rating": 1142.33
+    },
+    "train": {
+      "Deviation": 82.94,
+      "Rating": 1142.33
+    }
+  },
+  "AE": {
+    "cache": {
+      "Deviation": 49.68,
+      "Rating": 1443.5
+    },
+    "cobblestone": {
+      "Deviation": 71.2,
+      "Rating": 1373.11
+    },
+    "dust2": {
+      "Deviation": 67.82,
+      "Rating": 1559.08
+    },
+    "mirage": {
+      "Deviation": 48.79,
+      "Rating": 1430.19
+    }
+  },
+  "ALLIN": {
+    "cache": {
+      "Deviation": 40.62,
+      "Rating": 1632.21
+    },
+    "dust2": {
+      "Deviation": 25.7,
+      "Rating": 1667.02
+    },
+    "mirage": {
+      "Deviation": 27.78,
+      "Rating": 1665.11
+    },
+    "overpass": {
+      "Deviation": 33.39,
+      "Rating": 1672.01
+    },
+    "train": {
+      "Deviation": 40.28,
+      "Rating": 1891.99
+    }
+  },
+  "ALTERNATE aTTaX": {
+    "cache": {
+      "Deviation": 22.69,
+      "Rating": 1615.31
+    },
+    "cobblestone": {
+      "Deviation": 22.53,
+      "Rating": 1545.48
+    },
+    "dust2": {
+      "Deviation": 21.96,
+      "Rating": 1557.84
+    },
+    "mirage": {
+      "Deviation": 32.72,
+      "Rating": 1469.55
+    },
+    "nuke": {
+      "Deviation": 32.9,
+      "Rating": 1451.64
+    },
+    "overpass": {
+      "Deviation": 23.53,
+      "Rating": 1548.17
+    },
+    "train": {
+      "Deviation": 26.32,
+      "Rating": 1479.7
+    }
+  },
+  "ANOX": {
+    "cobblestone": {
+      "Deviation": 53.68,
+      "Rating": 1215.53
+    },
+    "dust2": {
+      "Deviation": 49.52,
+      "Rating": 1406.34
+    },
+    "mirage": {
+      "Deviation": 34.29,
+      "Rating": 1468.62
+    },
+    "overpass": {
+      "Deviation": 42.12,
+      "Rating": 1409.4
+    },
+    "train": {
+      "Deviation": 41.16,
+      "Rating": 1906.57
+    }
+  },
+  "AT POWERHOUSE": {
+    "cache": {
+      "Deviation": 67.49,
+      "Rating": 1385.97
+    },
+    "dust2": {
+      "Deviation": 67.49,
+      "Rating": 1385.97
+    },
+    "mirage": {
+      "Deviation": 67.49,
+      "Rating": 1385.97
+    }
+  },
+  "ATB": {
+    "cache": {
+      "Deviation": 26.11,
+      "Rating": 1555.91
+    },
+    "cobblestone": {
+      "Deviation": 49.92,
+      "Rating": 1432.81
+    },
+    "dust2": {
+      "Deviation": 31.08,
+      "Rating": 1577.68
+    },
+    "mirage": {
+      "Deviation": 37.61,
+      "Rating": 1613.77
+    },
+    "nuke": {
+      "Deviation": 37.61,
+      "Rating": 1613.77
+    },
+    "overpass": {
+      "Deviation": 44.86,
+      "Rating": 1539.33
+    },
+    "train": {
+      "Deviation": 32.15,
+      "Rating": 1473.71
+    }
+  },
+  "AVANT GARDE": {
+    "cache": {
+      "Deviation": 27.63,
+      "Rating": 1515.87
+    },
+    "cobblestone": {
+      "Deviation": 30.52,
+      "Rating": 1606.17
+    },
+    "dust2": {
+      "Deviation": 24.65,
+      "Rating": 1542.48
+    },
+    "mirage": {
+      "Deviation": 23.37,
+      "Rating": 1492.52
+    },
+    "nuke": {
+      "Deviation": 35.25,
+      "Rating": 1548.27
+    },
+    "overpass": {
+      "Deviation": 23.38,
+      "Rating": 1537.78
+    },
+    "train": {
+      "Deviation": 47.56,
+      "Rating": 1375.37
+    }
+  },
+  "AWTR": {
+    "mirage": {
+      "Deviation": 67.35,
+      "Rating": 1587.33
+    }
+  },
+  "Above the Rest": {
+    "cobblestone": {
+      "Deviation": 92.97,
+      "Rating": 1450.07
+    },
+    "mirage": {
+      "Deviation": 78.01,
+      "Rating": 1369.44
+    }
+  },
+  "Accuracy": {
+    "cache": {
+      "Deviation": 50.23,
+      "Rating": 1309.03
+    },
+    "cobblestone": {
+      "Deviation": 70.54,
+      "Rating": 1385.03
+    },
+    "mirage": {
+      "Deviation": 48.87,
+      "Rating": 1358.1
+    }
+  },
+  "Adroit": {
+    "cache": {
+      "Deviation": 43.13,
+      "Rating": 1566.8
+    },
+    "dust2": {
+      "Deviation": 42.15,
+      "Rating": 1456.1
+    },
+    "mirage": {
+      "Deviation": 42.29,
+      "Rating": 1447.65
+    }
+  },
+  "AlienTech": {
+    "cobblestone": {
+      "Deviation": 41.33,
+      "Rating": 1349.21
+    },
+    "dust2": {
+      "Deviation": 42.65,
+      "Rating": 1334.4
+    },
+    "inferno": {
+      "Deviation": 46.98,
+      "Rating": 1361.25
+    },
+    "train": {
+      "Deviation": 74.03,
+      "Rating": 1320.57
+    }
+  },
+  "AlienTech fe": {
+    "cache": {
+      "Deviation": 105.56,
+      "Rating": 1285.41
+    },
+    "dust2": {
+      "Deviation": 72.26,
+      "Rating": 1466.67
+    },
+    "mirage": {
+      "Deviation": 94.49,
+      "Rating": 1431.22
+    },
+    "overpass": {
+      "Deviation": 91.51,
+      "Rating": 1532.25
+    }
+  },
+  "AllGamers": {
+    "cache": {
+      "Deviation": 30.46,
+      "Rating": 1467.07
+    },
+    "cobblestone": {
+      "Deviation": 38.79,
+      "Rating": 1567.38
+    },
+    "default": {
+      "Deviation": 99.57,
+      "Rating": 1366.36
+    },
+    "dust2": {
+      "Deviation": 39.95,
+      "Rating": 1641.34
+    },
+    "mirage": {
+      "Deviation": 39.88,
+      "Rating": 1494.13
+    },
+    "train": {
+      "Deviation": 34.47,
+      "Rating": 1458.63
+    }
+  },
+  "Alpha": {
+    "cache": {
+      "Deviation": 25.67,
+      "Rating": 1570.33
+    },
+    "cobblestone": {
+      "Deviation": 22.64,
+      "Rating": 1577.81
+    },
+    "dust2": {
+      "Deviation": 74.03,
+      "Rating": 1320.57
+    },
+    "mirage": {
+      "Deviation": 21.16,
+      "Rating": 1590.19
+    },
+    "nuke": {
+      "Deviation": 24.18,
+      "Rating": 1442.01
+    },
+    "overpass": {
+      "Deviation": 30.63,
+      "Rating": 1651.82
+    },
+    "train": {
+      "Deviation": 24.7,
+      "Rating": 1537.4
+    }
+  },
+  "Ambition": {
+    "cache": {
+      "Deviation": 49.51,
+      "Rating": 1340.48
+    },
+    "cobblestone": {
+      "Deviation": 72.82,
+      "Rating": 1436.52
+    }
+  },
+  "Ancient": {
+    "cobblestone": {
+      "Deviation": 54.98,
+      "Rating": 1517.46
+    },
+    "inferno": {
+      "Deviation": 54.98,
+      "Rating": 1517.46
+    },
+    "overpass": {
+      "Deviation": 54.98,
+      "Rating": 1517.46
+    }
+  },
+  "Aperture": {
+    "cobblestone": {
+      "Deviation": 53.43,
+      "Rating": 1564.77
+    },
+    "dust2": {
+      "Deviation": 74.8,
+      "Rating": 1693.93
+    },
+    "mirage": {
+      "Deviation": 48.7,
+      "Rating": 1400.3
+    },
+    "overpass": {
+      "Deviation": 74.8,
+      "Rating": 1693.93
+    },
+    "train": {
+      "Deviation": 43.58,
+      "Rating": 1512.15
+    }
+  },
+  "Aquiver": {
+    "cache": {
+      "Deviation": 68.15,
+      "Rating": 1678.55
+    },
+    "cobblestone": {
+      "Deviation": 61.81,
+      "Rating": 1491.2
+    },
+    "dust2": {
+      "Deviation": 66.67,
+      "Rating": 1447.54
+    },
+    "overpass": {
+      "Deviation": 84.64,
+      "Rating": 1635.65
+    },
+    "train": {
+      "Deviation": 52.65,
+      "Rating": 1415.81
+    }
+  },
+  "Arcade": {
+    "mirage": {
+      "Deviation": 46.28,
+      "Rating": 1470.97
+    },
+    "overpass": {
+      "Deviation": 48.39,
+      "Rating": 1555.51
+    },
+    "train": {
+      "Deviation": 48.2,
+      "Rating": 1552.93
+    }
+  },
+  "ArchAngels": {
+    "cobblestone": {
+      "Deviation": 22.78,
+      "Rating": 1551.75
+    },
+    "dust2": {
+      "Deviation": 45.17,
+      "Rating": 1454.08
+    },
+    "mirage": {
+      "Deviation": 22.81,
+      "Rating": 1636.46
+    },
+    "nuke": {
+      "Deviation": 31.14,
+      "Rating": 1512.12
+    },
+    "overpass": {
+      "Deviation": 25.25,
+      "Rating": 1730.66
+    },
+    "train": {
+      "Deviation": 21.43,
+      "Rating": 1597.56
+    }
+  },
+  "Argentina": {
+    "cache": {
+      "Deviation": 27.05,
+      "Rating": 1545.69
+    },
+    "cobblestone": {
+      "Deviation": 25.19,
+      "Rating": 1645.71
+    },
+    "dust2": {
+      "Deviation": 33.9,
+      "Rating": 1562.38
+    },
+    "mirage": {
+      "Deviation": 33.53,
+      "Rating": 1497.1
+    },
+    "overpass": {
+      "Deviation": 25.79,
+      "Rating": 1395.28
+    },
+    "train": {
+      "Deviation": 29.89,
+      "Rating": 1698.09
+    }
+  },
+  "Asterion": {
+    "cache": {
+      "Deviation": 92.97,
+      "Rating": 1549.93
+    },
+    "cobblestone": {
+      "Deviation": 90.83,
+      "Rating": 1923.32
+    },
+    "mirage": {
+      "Deviation": 33.79,
+      "Rating": 1525.02
+    }
+  },
+  "Astralis": {
+    "dust2": {
+      "Deviation": 27.15,
+      "Rating": 1529.82
+    },
+    "mirage": {
+      "Deviation": 25.74,
+      "Rating": 1632.36
+    },
+    "nuke": {
+      "Deviation": 41.59,
+      "Rating": 1587.79
+    },
+    "overpass": {
+      "Deviation": 27.7,
+      "Rating": 1598.26
+    },
+    "train": {
+      "Deviation": 26.49,
+      "Rating": 1558.14
+    }
+  },
+  "Athletico": {
+    "cache": {
+      "Deviation": 23.25,
+      "Rating": 1701.06
+    },
+    "cobblestone": {
+      "Deviation": 27.09,
+      "Rating": 1540.76
+    },
+    "dust2": {
+      "Deviation": 22.47,
+      "Rating": 1586.06
+    },
+    "mirage": {
+      "Deviation": 22.25,
+      "Rating": 1602.47
+    },
+    "nuke": {
+      "Deviation": 23.26,
+      "Rating": 1603.08
+    },
+    "overpass": {
+      "Deviation": 21.6,
+      "Rating": 1633.44
+    },
+    "train": {
+      "Deviation": 21.45,
+      "Rating": 1558.59
+    }
+  },
+  "AweR": {
+    "cache": {
+      "Deviation": 62.66,
+      "Rating": 1552.67
+    },
+    "cobblestone": {
+      "Deviation": 82.94,
+      "Rating": 1857.67
+    },
+    "mirage": {
+      "Deviation": 55.24,
+      "Rating": 1291.21
+    },
+    "overpass": {
+      "Deviation": 57.73,
+      "Rating": 1172.55
+    },
+    "train": {
+      "Deviation": 82.94,
+      "Rating": 1857.67
+    }
+  },
+  "B.O.O.T": {
+    "cache": {
+      "Deviation": 21.94,
+      "Rating": 1439.35
+    },
+    "cobblestone": {
+      "Deviation": 21.92,
+      "Rating": 1522.13
+    },
+    "dust2": {
+      "Deviation": 27.84,
+      "Rating": 1461.05
+    },
+    "mirage": {
+      "Deviation": 22.12,
+      "Rating": 1601.19
+    },
+    "nuke": {
+      "Deviation": 39.9,
+      "Rating": 1448.54
+    },
+    "overpass": {
+      "Deviation": 66.93,
+      "Rating": 1551.76
+    },
+    "train": {
+      "Deviation": 30.9,
+      "Rating": 1559.72
+    }
+  },
+  "BE INFAMOUS": {
+    "cache": {
+      "Deviation": 76.4,
+      "Rating": 1275.2
+    },
+    "dust2": {
+      "Deviation": 76.4,
+      "Rating": 1275.2
+    },
+    "mirage": {
+      "Deviation": 55.4,
+      "Rating": 1321.26
+    },
+    "nuke": {
+      "Deviation": 71.2,
+      "Rating": 1373.11
+    },
+    "train": {
+      "Deviation": 49.66,
+      "Rating": 1350.36
+    }
+  },
+  "BFAIM": {
+    "cobblestone": {
+      "Deviation": 51.08,
+      "Rating": 1436.0
+    },
+    "dust2": {
+      "Deviation": 50.34,
+      "Rating": 1369.19
+    },
+    "mirage": {
+      "Deviation": 54.32,
+      "Rating": 1508.64
+    }
+  },
+  "BOT": {
+    "cache": {
+      "Deviation": 25.57,
+      "Rating": 1497.26
+    },
+    "cobblestone": {
+      "Deviation": 25.22,
+      "Rating": 1569.21
+    },
+    "dust2": {
+      "Deviation": 26.01,
+      "Rating": 1549.38
+    },
+    "nuke": {
+      "Deviation": 59.53,
+      "Rating": 1463.11
+    },
+    "train": {
+      "Deviation": 25.98,
+      "Rating": 1604.26
+    }
+  },
+  "BX3": {
+    "cache": {
+      "Deviation": 57.12,
+      "Rating": 1385.53
+    },
+    "cobblestone": {
+      "Deviation": 27.27,
+      "Rating": 1536.64
+    },
+    "dust2": {
+      "Deviation": 24.89,
+      "Rating": 1568.17
+    },
+    "mirage": {
+      "Deviation": 25.25,
+      "Rating": 1523.28
+    },
+    "overpass": {
+      "Deviation": 45.72,
+      "Rating": 1220.98
+    },
+    "train": {
+      "Deviation": 24.23,
+      "Rating": 1520.65
+    }
+  },
+  "Belgium": {
+    "cache": {
+      "Deviation": 63.24,
+      "Rating": 1834.46
+    },
+    "cobblestone": {
+      "Deviation": 49.68,
+      "Rating": 1587.85
+    },
+    "overpass": {
+      "Deviation": 46.31,
+      "Rating": 1433.81
+    }
+  },
+  "BigGods": {
+    "cache": {
+      "Deviation": 23.5,
+      "Rating": 1582.32
+    },
+    "cobblestone": {
+      "Deviation": 24.9,
+      "Rating": 1746.45
+    },
+    "dust2": {
+      "Deviation": 21.95,
+      "Rating": 1605.65
+    },
+    "mirage": {
+      "Deviation": 23.76,
+      "Rating": 1590.97
+    },
+    "nuke": {
+      "Deviation": 55.93,
+      "Rating": 1528.75
+    },
+    "overpass": {
+      "Deviation": 30.55,
+      "Rating": 1544.38
+    },
+    "train": {
+      "Deviation": 21.85,
+      "Rating": 1542.35
+    }
+  },
+  "Black Dragons": {
+    "cache": {
+      "Deviation": 38.4,
+      "Rating": 1587.28
+    },
+    "cobblestone": {
+      "Deviation": 105.56,
+      "Rating": 1285.41
+    },
+    "dust2": {
+      "Deviation": 31.34,
+      "Rating": 1521.14
+    },
+    "mirage": {
+      "Deviation": 28.83,
+      "Rating": 1492.19
+    },
+    "nuke": {
+      "Deviation": 54.96,
+      "Rating": 1522.85
+    },
+    "overpass": {
+      "Deviation": 33.45,
+      "Rating": 1505.64
+    },
+    "train": {
+      "Deviation": 49.35,
+      "Rating": 1389.9
+    }
+  },
+  "Born Of Fire": {
+    "cache": {
+      "Deviation": 24.67,
+      "Rating": 1471.76
+    },
+    "cobblestone": {
+      "Deviation": 24.22,
+      "Rating": 1642.71
+    },
+    "dust2": {
+      "Deviation": 23.44,
+      "Rating": 1527.73
+    },
+    "mirage": {
+      "Deviation": 22.0,
+      "Rating": 1680.52
+    },
+    "nuke": {
+      "Deviation": 43.1,
+      "Rating": 1529.47
+    },
+    "overpass": {
+      "Deviation": 42.0,
+      "Rating": 1413.02
+    },
+    "train": {
+      "Deviation": 25.77,
+      "Rating": 1620.28
+    }
+  },
+  "Bpro": {
+    "cache": {
+      "Deviation": 32.39,
+      "Rating": 1593.59
+    },
+    "dust2": {
+      "Deviation": 30.26,
+      "Rating": 1483.34
+    },
+    "mirage": {
+      "Deviation": 30.87,
+      "Rating": 1650.44
+    },
+    "nuke": {
+      "Deviation": 69.17,
+      "Rating": 1431.81
+    },
+    "overpass": {
+      "Deviation": 41.8,
+      "Rating": 1474.81
+    },
+    "train": {
+      "Deviation": 30.19,
+      "Rating": 1626.25
+    }
+  },
+  "Braindead": {
+    "cobblestone": {
+      "Deviation": 59.49,
+      "Rating": 1486.37
+    },
+    "mirage": {
+      "Deviation": 59.49,
+      "Rating": 1486.37
+    },
+    "overpass": {
+      "Deviation": 59.49,
+      "Rating": 1486.37
+    }
+  },
+  "Bravado": {
+    "cache": {
+      "Deviation": 30.76,
+      "Rating": 1435.87
+    },
+    "cobblestone": {
+      "Deviation": 42.75,
+      "Rating": 1647.96
+    },
+    "dust2": {
+      "Deviation": 36.7,
+      "Rating": 1470.22
+    },
+    "mirage": {
+      "Deviation": 39.23,
+      "Rating": 1529.98
+    },
+    "nuke": {
+      "Deviation": 59.49,
+      "Rating": 1595.41
+    },
+    "overpass": {
+      "Deviation": 40.99,
+      "Rating": 1561.09
+    },
+    "train": {
+      "Deviation": 28.71,
+      "Rating": 1622.05
+    }
+  },
+  "Brewtopia": {
+    "cache": {
+      "Deviation": 102.38,
+      "Rating": 1127.59
+    },
+    "cobblestone": {
+      "Deviation": 34.26,
+      "Rating": 1590.9
+    },
+    "mirage": {
+      "Deviation": 25.55,
+      "Rating": 1615.71
+    },
+    "overpass": {
+      "Deviation": 82.52,
+      "Rating": 1148.09
+    },
+    "train": {
+      "Deviation": 33.76,
+      "Rating": 1512.22
+    }
+  },
+  "Brutality": {
+    "cache": {
+      "Deviation": 91.13,
+      "Rating": 1248.59
+    },
+    "cobblestone": {
+      "Deviation": 118.51,
+      "Rating": 1040.2
+    },
+    "default": {
+      "Deviation": 118.51,
+      "Rating": 1040.2
+    },
+    "dust2": {
+      "Deviation": 47.12,
+      "Rating": 1516.93
+    },
+    "mirage": {
+      "Deviation": 63.43,
+      "Rating": 1411.42
+    },
+    "nuke": {
+      "Deviation": 58.15,
+      "Rating": 1352.56
+    },
+    "overpass": {
+      "Deviation": 40.41,
+      "Rating": 1445.1
+    },
+    "train": {
+      "Deviation": 44.26,
+      "Rating": 1457.78
+    }
+  },
+  "Bulldozer": {
+    "dust2": {
+      "Deviation": 43.39,
+      "Rating": 1590.76
+    },
+    "mirage": {
+      "Deviation": 46.37,
+      "Rating": 1439.84
+    },
+    "overpass": {
+      "Deviation": 45.61,
+      "Rating": 1565.86
+    }
+  },
+  "Bunkergg": {
+    "cache": {
+      "Deviation": 97.79,
+      "Rating": 1610.49
+    },
+    "dust2": {
+      "Deviation": 49.42,
+      "Rating": 1410.43
+    },
+    "mirage": {
+      "Deviation": 40.6,
+      "Rating": 1467.93
+    },
+    "train": {
+      "Deviation": 71.87,
+      "Rating": 1360.73
+    }
+  },
+  "CANADA": {
+    "cache": {
+      "Deviation": 38.63,
+      "Rating": 1578.77
+    },
+    "cobblestone": {
+      "Deviation": 38.63,
+      "Rating": 1578.77
+    },
+    "mirage": {
+      "Deviation": 50.19,
+      "Rating": 1549.33
+    }
+  },
+  "CAZ": {
+    "cache": {
+      "Deviation": 61.87,
+      "Rating": 1315.55
+    },
+    "dust2": {
+      "Deviation": 65.12,
+      "Rating": 1612.83
+    },
+    "nuke": {
+      "Deviation": 70.44,
+      "Rating": 1458.33
+    },
+    "train": {
+      "Deviation": 104.67,
+      "Rating": 1359.73
+    }
+  },
+  "CLG": {
+    "cobblestone": {
+      "Deviation": 115.54,
+      "Rating": 1140.09
+    },
+    "dust2": {
+      "Deviation": 27.63,
+      "Rating": 1519.65
+    },
+    "mirage": {
+      "Deviation": 26.83,
+      "Rating": 1533.51
+    },
+    "nuke": {
+      "Deviation": 58.44,
+      "Rating": 1619.16
+    },
+    "overpass": {
+      "Deviation": 28.86,
+      "Rating": 1373.4
+    },
+    "train": {
+      "Deviation": 34.25,
+      "Rating": 1528.41
+    }
+  },
+  "CLG Red": {
+    "cobblestone": {
+      "Deviation": 91.51,
+      "Rating": 1532.25
+    },
+    "dust2": {
+      "Deviation": 91.51,
+      "Rating": 1532.25
+    },
+    "mirage": {
+      "Deviation": 66.2,
+      "Rating": 1169.03
+    },
+    "nuke": {
+      "Deviation": 57.86,
+      "Rating": 1458.21
+    },
+    "overpass": {
+      "Deviation": 73.01,
+      "Rating": 1666.07
+    },
+    "train": {
+      "Deviation": 63.04,
+      "Rating": 1321.18
+    }
+  },
+  "CNB": {
+    "cache": {
+      "Deviation": 26.68,
+      "Rating": 1659.37
+    },
+    "cobblestone": {
+      "Deviation": 31.21,
+      "Rating": 1736.41
+    },
+    "dust2": {
+      "Deviation": 29.34,
+      "Rating": 1665.96
+    },
+    "mirage": {
+      "Deviation": 24.02,
+      "Rating": 1596.81
+    },
+    "nuke": {
+      "Deviation": 55.37,
+      "Rating": 1495.71
+    },
+    "train": {
+      "Deviation": 33.17,
+      "Rating": 1521.75
+    }
+  },
+  "CPH Flames": {
+    "cache": {
+      "Deviation": 45.5,
+      "Rating": 1639.06
+    },
+    "cobblestone": {
+      "Deviation": 40.63,
+      "Rating": 1472.86
+    },
+    "dust2": {
+      "Deviation": 35.62,
+      "Rating": 1507.33
+    },
+    "nuke": {
+      "Deviation": 67.84,
+      "Rating": 1368.49
+    },
+    "overpass": {
+      "Deviation": 47.58,
+      "Rating": 1704.68
+    },
+    "train": {
+      "Deviation": 42.88,
+      "Rating": 1548.87
+    }
+  },
+  "CPH Wolves": {
+    "cache": {
+      "Deviation": 73.29,
+      "Rating": 1562.07
+    },
+    "cobblestone": {
+      "Deviation": 30.12,
+      "Rating": 1534.47
+    },
+    "dust2": {
+      "Deviation": 37.75,
+      "Rating": 1474.95
+    },
+    "inferno": {
+      "Deviation": 37.15,
+      "Rating": 1564.75
+    },
+    "mirage": {
+      "Deviation": 42.36,
+      "Rating": 1702.81
+    },
+    "overpass": {
+      "Deviation": 53.22,
+      "Rating": 1450.91
+    },
+    "train": {
+      "Deviation": 39.56,
+      "Rating": 1612.41
+    }
+  },
+  "CQM": {
+    "cobblestone": {
+      "Deviation": 41.89,
+      "Rating": 1473.46
+    },
+    "overpass": {
+      "Deviation": 48.93,
+      "Rating": 1457.88
+    },
+    "train": {
+      "Deviation": 48.68,
+      "Rating": 1434.78
+    }
+  },
+  "CSGL": {
+    "cache": {
+      "Deviation": 56.95,
+      "Rating": 1557.1
+    },
+    "cobblestone": {
+      "Deviation": 69.89,
+      "Rating": 1603.48
+    },
+    "dust2": {
+      "Deviation": 73.29,
+      "Rating": 1334.49
+    },
+    "mirage": {
+      "Deviation": 39.21,
+      "Rating": 1605.49
+    },
+    "train": {
+      "Deviation": 32.99,
+      "Rating": 1582.85
+    }
+  },
+  "CSGO.one": {
+    "cobblestone": {
+      "Deviation": 44.12,
+      "Rating": 1471.44
+    },
+    "dust2": {
+      "Deviation": 45.41,
+      "Rating": 1518.53
+    },
+    "mirage": {
+      "Deviation": 64.81,
+      "Rating": 1435.29
+    }
+  },
+  "CYBERIA": {
+    "cache": {
+      "Deviation": 38.45,
+      "Rating": 1156.13
+    },
+    "cobblestone": {
+      "Deviation": 39.62,
+      "Rating": 1167.6
+    },
+    "dust2": {
+      "Deviation": 71.87,
+      "Rating": 1360.73
+    },
+    "mirage": {
+      "Deviation": 44.55,
+      "Rating": 1305.0
+    },
+    "overpass": {
+      "Deviation": 70.54,
+      "Rating": 1385.03
+    }
+  },
+  "Canada": {
+    "cache": {
+      "Deviation": 50.99,
+      "Rating": 1206.23
+    },
+    "cobblestone": {
+      "Deviation": 72.42,
+      "Rating": 1474.59
+    },
+    "dust2": {
+      "Deviation": 74.27,
+      "Rating": 1777.53
+    },
+    "mirage": {
+      "Deviation": 52.49,
+      "Rating": 1327.19
+    },
+    "train": {
+      "Deviation": 103.44,
+      "Rating": 1314.54
+    }
+  },
+  "Chiefs": {
+    "cache": {
+      "Deviation": 21.91,
+      "Rating": 1649.15
+    },
+    "cobblestone": {
+      "Deviation": 23.32,
+      "Rating": 1588.31
+    },
+    "default": {
+      "Deviation": 102.83,
+      "Rating": 1320.04
+    },
+    "dust2": {
+      "Deviation": 25.91,
+      "Rating": 1586.86
+    },
+    "mirage": {
+      "Deviation": 20.66,
+      "Rating": 1582.64
+    },
+    "nuke": {
+      "Deviation": 29.33,
+      "Rating": 1564.2
+    },
+    "overpass": {
+      "Deviation": 36.33,
+      "Rating": 1481.49
+    },
+    "train": {
+      "Deviation": 21.44,
+      "Rating": 1554.9
+    }
+  },
+  "Chosen5": {
+    "cache": {
+      "Deviation": 64.68,
+      "Rating": 1449.64
+    },
+    "cobblestone": {
+      "Deviation": 37.19,
+      "Rating": 1683.42
+    },
+    "dust2": {
+      "Deviation": 45.1,
+      "Rating": 1465.12
+    },
+    "overpass": {
+      "Deviation": 69.27,
+      "Rating": 1444.56
+    },
+    "train": {
+      "Deviation": 57.63,
+      "Rating": 1480.81
+    }
+  },
+  "Cipangu.GO": {
+    "cache": {
+      "Deviation": 45.65,
+      "Rating": 1388.52
+    },
+    "cobblestone": {
+      "Deviation": 53.5,
+      "Rating": 1444.87
+    },
+    "mirage": {
+      "Deviation": 46.74,
+      "Rating": 1466.17
+    }
+  },
+  "Cloud9": {
+    "cache": {
+      "Deviation": 37.19,
+      "Rating": 1596.7
+    },
+    "cobblestone": {
+      "Deviation": 28.05,
+      "Rating": 1684.79
+    },
+    "dust2": {
+      "Deviation": 24.42,
+      "Rating": 1681.5
+    },
+    "mirage": {
+      "Deviation": 24.35,
+      "Rating": 1614.77
+    },
+    "overpass": {
+      "Deviation": 23.58,
+      "Rating": 1690.32
+    },
+    "train": {
+      "Deviation": 23.7,
+      "Rating": 1632.81
+    }
+  },
+  "Colombia": {
+    "cache": {
+      "Deviation": 31.48,
+      "Rating": 1667.18
+    },
+    "dust2": {
+      "Deviation": 80.9,
+      "Rating": 1815.1
+    },
+    "mirage": {
+      "Deviation": 32.13,
+      "Rating": 1574.97
+    },
+    "overpass": {
+      "Deviation": 44.52,
+      "Rating": 1819.71
+    },
+    "train": {
+      "Deviation": 68.53,
+      "Rating": 1513.49
+    }
+  },
+  "Conquer": {
+    "cache": {
+      "Deviation": 53.79,
+      "Rating": 1539.0
+    },
+    "dust2": {
+      "Deviation": 50.97,
+      "Rating": 1457.52
+    },
+    "mirage": {
+      "Deviation": 53.79,
+      "Rating": 1539.0
+    },
+    "overpass": {
+      "Deviation": 37.12,
+      "Rating": 1471.33
+    },
+    "train": {
+      "Deviation": 52.95,
+      "Rating": 1504.31
+    }
+  },
+  "Cortex": {
+    "cache": {
+      "Deviation": 112.78,
+      "Rating": 1181.56
+    }
+  },
+  "Crowns": {
+    "cache": {
+      "Deviation": 35.13,
+      "Rating": 1478.11
+    },
+    "cobblestone": {
+      "Deviation": 48.22,
+      "Rating": 1528.1
+    },
+    "dust2": {
+      "Deviation": 59.88,
+      "Rating": 1520.72
+    },
+    "mirage": {
+      "Deviation": 26.97,
+      "Rating": 1454.76
+    },
+    "nuke": {
+      "Deviation": 63.96,
+      "Rating": 1674.77
+    },
+    "overpass": {
+      "Deviation": 39.21,
+      "Rating": 1561.93
+    },
+    "train": {
+      "Deviation": 57.99,
+      "Rating": 1409.35
+    }
+  },
+  "Cursive": {
+    "dust2": {
+      "Deviation": 118.51,
+      "Rating": 1094.3
+    },
+    "mirage": {
+      "Deviation": 56.11,
+      "Rating": 1487.53
+    }
+  },
+  "Cypher": {
+    "cobblestone": {
+      "Deviation": 52.64,
+      "Rating": 1320.04
+    },
+    "dust2": {
+      "Deviation": 30.0,
+      "Rating": 1350.38
+    },
+    "mirage": {
+      "Deviation": 26.83,
+      "Rating": 1396.15
+    },
+    "overpass": {
+      "Deviation": 39.71,
+      "Rating": 1509.29
+    }
+  },
+  "DEMONIO": {
+    "cobblestone": {
+      "Deviation": 54.55,
+      "Rating": 1610.41
+    },
+    "dust2": {
+      "Deviation": 49.05,
+      "Rating": 1496.46
+    },
+    "train": {
+      "Deviation": 48.11,
+      "Rating": 1391.35
+    }
+  },
+  "DICKHOUSE": {
+    "cache": {
+      "Deviation": 91.51,
+      "Rating": 1532.25
+    },
+    "mirage": {
+      "Deviation": 44.52,
+      "Rating": 1460.89
+    },
+    "overpass": {
+      "Deviation": 39.54,
+      "Rating": 1441.96
+    },
+    "train": {
+      "Deviation": 62.9,
+      "Rating": 1482.8
+    }
+  },
+  "DIVIZON": {
+    "cache": {
+      "Deviation": 38.38,
+      "Rating": 1456.73
+    },
+    "cobblestone": {
+      "Deviation": 33.34,
+      "Rating": 1456.13
+    },
+    "mirage": {
+      "Deviation": 33.09,
+      "Rating": 1494.39
+    }
+  },
+  "Dai Dai": {
+    "cobblestone": {
+      "Deviation": 59.64,
+      "Rating": 1105.06
+    },
+    "mirage": {
+      "Deviation": 68.07,
+      "Rating": 1428.62
+    }
+  },
+  "Damage Control": {
+    "cache": {
+      "Deviation": 96.87,
+      "Rating": 1000
+    },
+    "cobblestone": {
+      "Deviation": 78.11,
+      "Rating": 1241.53
+    },
+    "dust2": {
+      "Deviation": 61.26,
+      "Rating": 1589.27
+    },
+    "mirage": {
+      "Deviation": 58.19,
+      "Rating": 1143.92
+    },
+    "overpass": {
+      "Deviation": 74.8,
+      "Rating": 1693.93
+    },
+    "train": {
+      "Deviation": 47.01,
+      "Rating": 1401.65
+    }
+  },
+  "Dank Deaglez": {
+    "cache": {
+      "Deviation": 84.47,
+      "Rating": 1290.97
+    },
+    "mirage": {
+      "Deviation": 65.1,
+      "Rating": 1297.8
+    },
+    "overpass": {
+      "Deviation": 96.46,
+      "Rating": 1320.65
+    }
+  },
+  "Dare2Dream": {
+    "train": {
+      "Deviation": 86.31,
+      "Rating": 1557.38
+    }
+  },
+  "Dark Sided": {
+    "cobblestone": {
+      "Deviation": 69.27,
+      "Rating": 1407.6
+    },
+    "dust2": {
+      "Deviation": 40.82,
+      "Rating": 1330.66
+    },
+    "mirage": {
+      "Deviation": 29.85,
+      "Rating": 1378.56
+    },
+    "overpass": {
+      "Deviation": 63.82,
+      "Rating": 1452.93
+    },
+    "train": {
+      "Deviation": 36.69,
+      "Rating": 1357.91
+    }
+  },
+  "DarkPassage": {
+    "cache": {
+      "Deviation": 25.87,
+      "Rating": 1559.2
+    },
+    "cobblestone": {
+      "Deviation": 22.03,
+      "Rating": 1613.01
+    },
+    "dust2": {
+      "Deviation": 25.31,
+      "Rating": 1527.84
+    },
+    "mirage": {
+      "Deviation": 22.63,
+      "Rating": 1635.47
+    },
+    "nuke": {
+      "Deviation": 59.49,
+      "Rating": 1527.26
+    },
+    "overpass": {
+      "Deviation": 33.35,
+      "Rating": 1665.38
+    },
+    "train": {
+      "Deviation": 29.51,
+      "Rating": 1645.69
+    }
+  },
+  "DatZit": {
+    "cache": {
+      "Deviation": 70.54,
+      "Rating": 1385.03
+    },
+    "mirage": {
+      "Deviation": 44.9,
+      "Rating": 1515.28
+    },
+    "overpass": {
+      "Deviation": 39.02,
+      "Rating": 1343.11
+    }
+  },
+  "DeToNator": {
+    "cache": {
+      "Deviation": 40.88,
+      "Rating": 1449.18
+    },
+    "cobblestone": {
+      "Deviation": 58.63,
+      "Rating": 1436.78
+    },
+    "dust2": {
+      "Deviation": 69.89,
+      "Rating": 1396.52
+    },
+    "mirage": {
+      "Deviation": 42.67,
+      "Rating": 1497.94
+    },
+    "nuke": {
+      "Deviation": 107.81,
+      "Rating": 1746.22
+    },
+    "overpass": {
+      "Deviation": 39.39,
+      "Rating": 1492.54
+    },
+    "train": {
+      "Deviation": 48.79,
+      "Rating": 1405.09
+    }
+  },
+  "DenDD": {
+    "cache": {
+      "Deviation": 37.49,
+      "Rating": 1570.25
+    },
+    "cobblestone": {
+      "Deviation": 32.92,
+      "Rating": 1556.42
+    },
+    "dust2": {
+      "Deviation": 30.29,
+      "Rating": 1548.25
+    },
+    "mirage": {
+      "Deviation": 29.32,
+      "Rating": 1600.19
+    },
+    "overpass": {
+      "Deviation": 39.91,
+      "Rating": 1537.46
+    },
+    "train": {
+      "Deviation": 36.61,
+      "Rating": 1479.22
+    }
+  },
+  "Denial": {
+    "cache": {
+      "Deviation": 47.62,
+      "Rating": 1489.27
+    },
+    "cobblestone": {
+      "Deviation": 69.27,
+      "Rating": 1407.6
+    },
+    "mirage": {
+      "Deviation": 49.87,
+      "Rating": 1558.89
+    }
+  },
+  "Denmark": {
+    "cache": {
+      "Deviation": 40.9,
+      "Rating": 1631.11
+    },
+    "cobblestone": {
+      "Deviation": 33.46,
+      "Rating": 1650.23
+    },
+    "dust2": {
+      "Deviation": 44.41,
+      "Rating": 1661.65
+    },
+    "mirage": {
+      "Deviation": 40.04,
+      "Rating": 1493.34
+    },
+    "overpass": {
+      "Deviation": 69.69,
+      "Rating": 1637.27
+    },
+    "train": {
+      "Deviation": 34.34,
+      "Rating": 1687.11
+    }
+  },
+  "Destructive 5": {
+    "cache": {
+      "Deviation": 99.57,
+      "Rating": 1366.36
+    },
+    "cobblestone": {
+      "Deviation": 44.09,
+      "Rating": 1483.57
+    },
+    "dust2": {
+      "Deviation": 51.48,
+      "Rating": 1228.34
+    },
+    "train": {
+      "Deviation": 47.2,
+      "Rating": 1480.23
+    }
+  },
+  "Devious": {
+    "cobblestone": {
+      "Deviation": 99.57,
+      "Rating": 1366.36
+    },
+    "train": {
+      "Deviation": 96.1,
+      "Rating": 1411.08
+    }
+  },
+  "Dimension 5": {
+    "mirage": {
+      "Deviation": 42.34,
+      "Rating": 1463.24
+    },
+    "overpass": {
+      "Deviation": 42.34,
+      "Rating": 1463.24
+    },
+    "train": {
+      "Deviation": 52.31,
+      "Rating": 1450.54
+    }
+  },
+  "Doges": {
+    "cache": {
+      "Deviation": 57.99,
+      "Rating": 1383.45
+    },
+    "cobblestone": {
+      "Deviation": 57.99,
+      "Rating": 1383.45
+    },
+    "dust2": {
+      "Deviation": 57.99,
+      "Rating": 1383.45
+    },
+    "mirage": {
+      "Deviation": 57.99,
+      "Rating": 1383.45
+    },
+    "nuke": {
+      "Deviation": 57.99,
+      "Rating": 1383.45
+    }
+  },
+  "DreamRAR": {
+    "cache": {
+      "Deviation": 118.51,
+      "Rating": 1094.3
+    },
+    "mirage": {
+      "Deviation": 60.34,
+      "Rating": 1381.45
+    },
+    "overpass": {
+      "Deviation": 112.78,
+      "Rating": 1181.56
+    }
+  },
+  "Dutch Prodigy": {
+    "cache": {
+      "Deviation": 67.79,
+      "Rating": 1473.19
+    },
+    "mirage": {
+      "Deviation": 38.55,
+      "Rating": 1461.76
+    },
+    "overpass": {
+      "Deviation": 91.51,
+      "Rating": 1500.0
+    }
+  },
+  "Dynamo": {
+    "cache": {
+      "Deviation": 56.93,
+      "Rating": 1431.34
+    },
+    "cobblestone": {
+      "Deviation": 56.93,
+      "Rating": 1431.34
+    },
+    "dust2": {
+      "Deviation": 56.93,
+      "Rating": 1431.34
+    }
+  },
+  "Dynasty": {
+    "mirage": {
+      "Deviation": 99.57,
+      "Rating": 1366.36
+    }
+  },
+  "E-frag.net": {
+    "cache": {
+      "Deviation": 64.81,
+      "Rating": 1564.71
+    },
+    "cobblestone": {
+      "Deviation": 29.31,
+      "Rating": 1607.73
+    },
+    "dust2": {
+      "Deviation": 35.02,
+      "Rating": 1636.65
+    },
+    "inferno": {
+      "Deviation": 64.31,
+      "Rating": 1444.25
+    },
+    "mirage": {
+      "Deviation": 41.68,
+      "Rating": 1724.68
+    },
+    "train": {
+      "Deviation": 43.77,
+      "Rating": 1428.52
+    }
+  },
+  "ECLOT": {
+    "cache": {
+      "Deviation": 71.87,
+      "Rating": 1360.73
+    },
+    "dust2": {
+      "Deviation": 71.87,
+      "Rating": 1360.73
+    },
+    "mirage": {
+      "Deviation": 71.87,
+      "Rating": 1360.73
+    }
+  },
+  "EDG": {
+    "cache": {
+      "Deviation": 23.28,
+      "Rating": 1582.33
+    },
+    "cobblestone": {
+      "Deviation": 26.14,
+      "Rating": 1612.08
+    },
+    "dust2": {
+      "Deviation": 107.81,
+      "Rating": 1746.22
+    },
+    "mirage": {
+      "Deviation": 23.61,
+      "Rating": 1577.78
+    },
+    "nuke": {
+      "Deviation": 35.95,
+      "Rating": 1450.44
+    }
+  },
+  "EHOME": {
+    "cache": {
+      "Deviation": 22.58,
+      "Rating": 1438.27
+    },
+    "cobblestone": {
+      "Deviation": 24.5,
+      "Rating": 1498.23
+    },
+    "mirage": {
+      "Deviation": 24.86,
+      "Rating": 1600.61
+    },
+    "nuke": {
+      "Deviation": 74.03,
+      "Rating": 1679.43
+    },
+    "overpass": {
+      "Deviation": 71.2,
+      "Rating": 1373.11
+    },
+    "train": {
+      "Deviation": 49.55,
+      "Rating": 1352.73
+    }
+  },
+  "EHOME.Female": {
+    "cache": {
+      "Deviation": 107.81,
+      "Rating": 1253.78
+    },
+    "cobblestone": {
+      "Deviation": 77.34,
+      "Rating": 1343.84
+    },
+    "dust2": {
+      "Deviation": 110.21,
+      "Rating": 1219.3
+    }
+  },
+  "ELIM": {
+    "cobblestone": {
+      "Deviation": 54.85,
+      "Rating": 1377.87
+    },
+    "mirage": {
+      "Deviation": 57.41,
+      "Rating": 1151.88
+    },
+    "nuke": {
+      "Deviation": 77.24,
+      "Rating": 1258.74
+    }
+  },
+  "ENCE": {
+    "cache": {
+      "Deviation": 22.95,
+      "Rating": 1576.55
+    },
+    "cobblestone": {
+      "Deviation": 24.47,
+      "Rating": 1538.88
+    },
+    "dust2": {
+      "Deviation": 25.64,
+      "Rating": 1648.17
+    },
+    "inferno": {
+      "Deviation": 70.54,
+      "Rating": 1614.97
+    },
+    "mirage": {
+      "Deviation": 20.25,
+      "Rating": 1646.2
+    },
+    "nuke": {
+      "Deviation": 33.25,
+      "Rating": 1550.85
+    },
+    "train": {
+      "Deviation": 21.05,
+      "Rating": 1596.52
+    }
+  },
+  "ENCORE": {
+    "cache": {
+      "Deviation": 25.16,
+      "Rating": 1523.66
+    },
+    "cobblestone": {
+      "Deviation": 30.55,
+      "Rating": 1596.29
+    },
+    "dust2": {
+      "Deviation": 29.88,
+      "Rating": 1613.31
+    },
+    "mirage": {
+      "Deviation": 29.88,
+      "Rating": 1627.04
+    },
+    "overpass": {
+      "Deviation": 76.4,
+      "Rating": 1724.8
+    },
+    "train": {
+      "Deviation": 34.16,
+      "Rating": 1569.2
+    }
+  },
+  "ENTiTY.Blue": {
+    "cobblestone": {
+      "Deviation": 55.72,
+      "Rating": 1501.4
+    },
+    "nuke": {
+      "Deviation": 68.56,
+      "Rating": 2000
+    },
+    "train": {
+      "Deviation": 44.08,
+      "Rating": 1484.52
+    }
+  },
+  "ENTiTY.Gold": {
+    "cache": {
+      "Deviation": 42.35,
+      "Rating": 1468.76
+    },
+    "cobblestone": {
+      "Deviation": 28.77,
+      "Rating": 1568.47
+    },
+    "dust2": {
+      "Deviation": 42.31,
+      "Rating": 1538.52
+    },
+    "mirage": {
+      "Deviation": 29.2,
+      "Rating": 1579.25
+    },
+    "overpass": {
+      "Deviation": 69.89,
+      "Rating": 1603.48
+    },
+    "train": {
+      "Deviation": 32.62,
+      "Rating": 1582.46
+    }
+  },
+  "ENZO": {
+    "cache": {
+      "Deviation": 22.27,
+      "Rating": 1545.18
+    },
+    "cobblestone": {
+      "Deviation": 26.44,
+      "Rating": 1539.69
+    },
+    "dust2": {
+      "Deviation": 40.02,
+      "Rating": 1595.42
+    },
+    "mirage": {
+      "Deviation": 36.3,
+      "Rating": 1583.95
+    },
+    "nuke": {
+      "Deviation": 41.05,
+      "Rating": 1305.28
+    },
+    "overpass": {
+      "Deviation": 34.77,
+      "Rating": 1499.82
+    },
+    "train": {
+      "Deviation": 27.59,
+      "Rating": 1544.92
+    }
+  },
+  "EU4IA": {
+    "cache": {
+      "Deviation": 37.09,
+      "Rating": 1432.22
+    },
+    "cobblestone": {
+      "Deviation": 58.05,
+      "Rating": 1286.41
+    },
+    "dust2": {
+      "Deviation": 36.89,
+      "Rating": 1580.44
+    },
+    "inferno": {
+      "Deviation": 46.16,
+      "Rating": 1511.14
+    },
+    "overpass": {
+      "Deviation": 57.79,
+      "Rating": 1205.36
+    }
+  },
+  "EURONICS": {
+    "cache": {
+      "Deviation": 43.36,
+      "Rating": 1513.11
+    },
+    "cobblestone": {
+      "Deviation": 26.94,
+      "Rating": 1510.66
+    },
+    "mirage": {
+      "Deviation": 44.07,
+      "Rating": 1541.88
+    },
+    "overpass": {
+      "Deviation": 26.93,
+      "Rating": 1521.4
+    },
+    "train": {
+      "Deviation": 33.13,
+      "Rating": 1528.5
+    }
+  },
+  "EYESports": {
+    "cache": {
+      "Deviation": 40.76,
+      "Rating": 1533.98
+    },
+    "cobblestone": {
+      "Deviation": 99.57,
+      "Rating": 1366.36
+    },
+    "dust2": {
+      "Deviation": 40.26,
+      "Rating": 1552.33
+    },
+    "mirage": {
+      "Deviation": 30.32,
+      "Rating": 1572.8
+    },
+    "overpass": {
+      "Deviation": 36.31,
+      "Rating": 1521.89
+    },
+    "train": {
+      "Deviation": 71.87,
+      "Rating": 1639.27
+    }
+  },
+  "Earthroot": {
+    "cache": {
+      "Deviation": 50.42,
+      "Rating": 1427.89
+    },
+    "dust2": {
+      "Deviation": 52.08,
+      "Rating": 1286.78
+    },
+    "mirage": {
+      "Deviation": 53.38,
+      "Rating": 1284.14
+    }
+  },
+  "Eat My Potato": {
+    "cache": {
+      "Deviation": 70.54,
+      "Rating": 1385.03
+    },
+    "cobblestone": {
+      "Deviation": 70.54,
+      "Rating": 1385.03
+    },
+    "dust2": {
+      "Deviation": 58.93,
+      "Rating": 1126.71
+    }
+  },
+  "Echo Fox": {
+    "cache": {
+      "Deviation": 35.09,
+      "Rating": 1516.79
+    },
+    "dust2": {
+      "Deviation": 25.2,
+      "Rating": 1550.81
+    },
+    "mirage": {
+      "Deviation": 23.61,
+      "Rating": 1600.08
+    },
+    "nuke": {
+      "Deviation": 42.25,
+      "Rating": 1332.68
+    },
+    "overpass": {
+      "Deviation": 26.89,
+      "Rating": 1551.44
+    },
+    "train": {
+      "Deviation": 30.73,
+      "Rating": 1528.16
+    }
+  },
+  "ElDonz": {
+    "dust2": {
+      "Deviation": 91.51,
+      "Rating": 1467.75
+    }
+  },
+  "Elite Wolves": {
+    "cache": {
+      "Deviation": 38.99,
+      "Rating": 1616.84
+    },
+    "mirage": {
+      "Deviation": 42.32,
+      "Rating": 1666.65
+    },
+    "nuke": {
+      "Deviation": 91.43,
+      "Rating": 2000
+    },
+    "train": {
+      "Deviation": 49.4,
+      "Rating": 1986.36
+    }
+  },
+  "Emc": {
+    "cache": {
+      "Deviation": 37.9,
+      "Rating": 1691.04
+    },
+    "cobblestone": {
+      "Deviation": 35.0,
+      "Rating": 1690.3
+    },
+    "dust2": {
+      "Deviation": 43.29,
+      "Rating": 1464.32
+    },
+    "mirage": {
+      "Deviation": 35.82,
+      "Rating": 1457.18
+    },
+    "nuke": {
+      "Deviation": 49.62,
+      "Rating": 1384.34
+    },
+    "overpass": {
+      "Deviation": 49.99,
+      "Rating": 1441.84
+    },
+    "train": {
+      "Deviation": 70.54,
+      "Rating": 1672.46
+    }
+  },
+  "Empire": {
+    "cobblestone": {
+      "Deviation": 50.6,
+      "Rating": 1589.94
+    },
+    "mirage": {
+      "Deviation": 46.76,
+      "Rating": 1471.96
+    },
+    "overpass": {
+      "Deviation": 48.51,
+      "Rating": 1540.58
+    }
+  },
+  "EnVyUs": {
+    "cache": {
+      "Deviation": 43.44,
+      "Rating": 1517.38
+    },
+    "cobblestone": {
+      "Deviation": 23.72,
+      "Rating": 1633.42
+    },
+    "dust2": {
+      "Deviation": 22.21,
+      "Rating": 1568.82
+    },
+    "mirage": {
+      "Deviation": 28.08,
+      "Rating": 1648.0
+    },
+    "nuke": {
+      "Deviation": 24.69,
+      "Rating": 1647.36
+    },
+    "overpass": {
+      "Deviation": 30.74,
+      "Rating": 1487.99
+    }
+  },
+  "Endpoint": {
+    "cache": {
+      "Deviation": 67.13,
+      "Rating": 1633.45
+    },
+    "mirage": {
+      "Deviation": 47.18,
+      "Rating": 1430.13
+    },
+    "overpass": {
+      "Deviation": 101.45,
+      "Rating": 1341.44
+    },
+    "train": {
+      "Deviation": 86.95,
+      "Rating": 1235.77
+    }
+  },
+  "Enemy": {
+    "cache": {
+      "Deviation": 53.85,
+      "Rating": 1692.8
+    },
+    "dust2": {
+      "Deviation": 78.11,
+      "Rating": 1758.47
+    },
+    "mirage": {
+      "Deviation": 53.85,
+      "Rating": 1692.8
+    }
+  },
+  "Energy Pacemaker": {
+    "cache": {
+      "Deviation": 24.59,
+      "Rating": 1476.36
+    },
+    "cobblestone": {
+      "Deviation": 24.94,
+      "Rating": 1496.93
+    },
+    "dust2": {
+      "Deviation": 50.1,
+      "Rating": 1399.84
+    },
+    "mirage": {
+      "Deviation": 25.93,
+      "Rating": 1532.72
+    },
+    "overpass": {
+      "Deviation": 58.27,
+      "Rating": 1151.98
+    }
+  },
+  "Enso": {
+    "dust2": {
+      "Deviation": 52.01,
+      "Rating": 1331.9
+    },
+    "mirage": {
+      "Deviation": 51.01,
+      "Rating": 1504.21
+    },
+    "nuke": {
+      "Deviation": 47.59,
+      "Rating": 1472.86
+    }
+  },
+  "Entity": {
+    "cobblestone": {
+      "Deviation": 94.49,
+      "Rating": 1431.22
+    }
+  },
+  "Epiphany Bolt": {
+    "cache": {
+      "Deviation": 27.06,
+      "Rating": 1481.03
+    },
+    "cobblestone": {
+      "Deviation": 74.03,
+      "Rating": 1679.43
+    },
+    "dust2": {
+      "Deviation": 36.84,
+      "Rating": 1496.9
+    },
+    "mirage": {
+      "Deviation": 32.7,
+      "Rating": 1499.29
+    },
+    "nuke": {
+      "Deviation": 78.11,
+      "Rating": 1241.53
+    },
+    "overpass": {
+      "Deviation": 60.69,
+      "Rating": 1464.53
+    },
+    "train": {
+      "Deviation": 47.35,
+      "Rating": 1610.69
+    }
+  },
+  "Epsilon": {
+    "cache": {
+      "Deviation": 22.13,
+      "Rating": 1571.45
+    },
+    "cobblestone": {
+      "Deviation": 22.13,
+      "Rating": 1597.71
+    },
+    "dust2": {
+      "Deviation": 25.26,
+      "Rating": 1569.11
+    },
+    "mirage": {
+      "Deviation": 23.07,
+      "Rating": 1651.42
+    },
+    "overpass": {
+      "Deviation": 24.89,
+      "Rating": 1466.52
+    },
+    "train": {
+      "Deviation": 21.31,
+      "Rating": 1581.24
+    }
+  },
+  "Epsilon Hype": {
+    "cache": {
+      "Deviation": 27.93,
+      "Rating": 1561.43
+    },
+    "cobblestone": {
+      "Deviation": 25.15,
+      "Rating": 1534.67
+    },
+    "mirage": {
+      "Deviation": 21.12,
+      "Rating": 1561.74
+    },
+    "nuke": {
+      "Deviation": 55.28,
+      "Rating": 1295.8
+    },
+    "overpass": {
+      "Deviation": 28.5,
+      "Rating": 1312.12
+    },
+    "train": {
+      "Deviation": 23.61,
+      "Rating": 1465.84
+    }
+  },
+  "Evazust": {
+    "cache": {
+      "Deviation": 57.07,
+      "Rating": 1325.55
+    },
+    "mirage": {
+      "Deviation": 57.43,
+      "Rating": 1190.36
+    },
+    "train": {
+      "Deviation": 67.76,
+      "Rating": 1440.43
+    }
+  },
+  "Evil Monkeys": {
+    "overpass": {
+      "Deviation": 85.65,
+      "Rating": 1444.24
+    }
+  },
+  "ExAequo": {
+    "cache": {
+      "Deviation": 95.08,
+      "Rating": 1149.31
+    },
+    "dust2": {
+      "Deviation": 71.59,
+      "Rating": 1352.5
+    },
+    "train": {
+      "Deviation": 65.62,
+      "Rating": 1531.34
+    }
+  },
+  "Excelsior": {
+    "cobblestone": {
+      "Deviation": 93.14,
+      "Rating": 1139.77
+    }
+  },
+  "Exile5": {
+    "cache": {
+      "Deviation": 43.87,
+      "Rating": 1380.19
+    },
+    "cobblestone": {
+      "Deviation": 20.72,
+      "Rating": 1587.16
+    },
+    "default": {
+      "Deviation": 102.83,
+      "Rating": 1679.96
+    },
+    "dust2": {
+      "Deviation": 21.05,
+      "Rating": 1560.16
+    },
+    "mirage": {
+      "Deviation": 23.22,
+      "Rating": 1541.62
+    },
+    "nuke": {
+      "Deviation": 45.73,
+      "Rating": 1421.32
+    },
+    "overpass": {
+      "Deviation": 39.8,
+      "Rating": 1624.0
+    },
+    "train": {
+      "Deviation": 23.88,
+      "Rating": 1502.47
+    }
+  },
+  "Exodus": {
+    "mirage": {
+      "Deviation": 69.27,
+      "Rating": 1407.6
+    },
+    "overpass": {
+      "Deviation": 69.27,
+      "Rating": 1407.6
+    },
+    "train": {
+      "Deviation": 69.27,
+      "Rating": 1407.6
+    }
+  },
+  "Exotic Island": {
+    "dust2": {
+      "Deviation": 69.89,
+      "Rating": 1396.52
+    },
+    "mirage": {
+      "Deviation": 69.89,
+      "Rating": 1396.52
+    },
+    "overpass": {
+      "Deviation": 69.89,
+      "Rating": 1396.52
+    }
+  },
+  "Expendables": {
+    "cache": {
+      "Deviation": 38.15,
+      "Rating": 1477.65
+    },
+    "cobblestone": {
+      "Deviation": 40.35,
+      "Rating": 1420.01
+    },
+    "dust2": {
+      "Deviation": 45.31,
+      "Rating": 1415.64
+    },
+    "mirage": {
+      "Deviation": 45.37,
+      "Rating": 1550.78
+    },
+    "nuke": {
+      "Deviation": 71.87,
+      "Rating": 1360.73
+    },
+    "overpass": {
+      "Deviation": 58.52,
+      "Rating": 1483.64
+    }
+  },
+  "FENNEC": {
+    "cache": {
+      "Deviation": 97.79,
+      "Rating": 1389.51
+    },
+    "cobblestone": {
+      "Deviation": 83.16,
+      "Rating": 1201.77
+    },
+    "overpass": {
+      "Deviation": 103.44,
+      "Rating": 1314.54
+    }
+  },
+  "FIVE": {
+    "cache": {
+      "Deviation": 20.79,
+      "Rating": 1575.46
+    },
+    "cobblestone": {
+      "Deviation": 66.35,
+      "Rating": 2000
+    },
+    "dust2": {
+      "Deviation": 22.07,
+      "Rating": 1552.39
+    },
+    "mirage": {
+      "Deviation": 21.86,
+      "Rating": 1594.44
+    },
+    "nuke": {
+      "Deviation": 25.18,
+      "Rating": 1535.7
+    },
+    "overpass": {
+      "Deviation": 30.0,
+      "Rating": 1601.78
+    },
+    "train": {
+      "Deviation": 21.0,
+      "Rating": 1592.87
+    }
+  },
+  "FPL": {
+    "cache": {
+      "Deviation": 65.84,
+      "Rating": 1416.51
+    },
+    "mirage": {
+      "Deviation": 65.84,
+      "Rating": 1416.51
+    },
+    "train": {
+      "Deviation": 65.84,
+      "Rating": 1416.51
+    }
+  },
+  "FPLC": {
+    "mirage": {
+      "Deviation": 75.41,
+      "Rating": 1408.47
+    }
+  },
+  "FT": {
+    "cache": {
+      "Deviation": 79.01,
+      "Rating": 1223.53
+    },
+    "cobblestone": {
+      "Deviation": 79.01,
+      "Rating": 1223.53
+    },
+    "train": {
+      "Deviation": 79.01,
+      "Rating": 1223.53
+    }
+  },
+  "FTW": {
+    "cache": {
+      "Deviation": 39.48,
+      "Rating": 1461.37
+    },
+    "dust2": {
+      "Deviation": 29.5,
+      "Rating": 1474.98
+    },
+    "mirage": {
+      "Deviation": 32.32,
+      "Rating": 1522.14
+    },
+    "train": {
+      "Deviation": 47.2,
+      "Rating": 1492.4
+    }
+  },
+  "FTW.Evo Twitch": {
+    "cache": {
+      "Deviation": 51.45,
+      "Rating": 1490.35
+    },
+    "dust2": {
+      "Deviation": 41.0,
+      "Rating": 1529.98
+    },
+    "mirage": {
+      "Deviation": 51.4,
+      "Rating": 1482.22
+    },
+    "overpass": {
+      "Deviation": 69.89,
+      "Rating": 1603.48
+    }
+  },
+  "FTW.PRO": {
+    "cache": {
+      "Deviation": 74.03,
+      "Rating": 1679.43
+    },
+    "dust2": {
+      "Deviation": 40.74,
+      "Rating": 1566.44
+    },
+    "mirage": {
+      "Deviation": 47.92,
+      "Rating": 1546.79
+    },
+    "overpass": {
+      "Deviation": 68.17,
+      "Rating": 1000
+    }
+  },
+  "FaZe": {
+    "cache": {
+      "Deviation": 36.37,
+      "Rating": 1628.7
+    },
+    "dust2": {
+      "Deviation": 29.31,
+      "Rating": 1644.48
+    },
+    "mirage": {
+      "Deviation": 22.2,
+      "Rating": 1672.7
+    },
+    "nuke": {
+      "Deviation": 27.83,
+      "Rating": 1664.41
+    },
+    "overpass": {
+      "Deviation": 22.58,
+      "Rating": 1653.12
+    },
+    "train": {
+      "Deviation": 21.3,
+      "Rating": 1682.43
+    }
+  },
+  "Faith Unity": {
+    "mirage": {
+      "Deviation": 49.74,
+      "Rating": 1555.95
+    },
+    "train": {
+      "Deviation": 118.51,
+      "Rating": 1094.3
+    }
+  },
+  "Famou5": {
+    "mirage": {
+      "Deviation": 56.79,
+      "Rating": 1401.59
+    },
+    "nuke": {
+      "Deviation": 79.01,
+      "Rating": 1223.53
+    },
+    "train": {
+      "Deviation": 79.01,
+      "Rating": 1223.53
+    }
+  },
+  "Feel the Glory": {
+    "cobblestone": {
+      "Deviation": 74.03,
+      "Rating": 1320.57
+    },
+    "dust2": {
+      "Deviation": 74.03,
+      "Rating": 1320.57
+    },
+    "train": {
+      "Deviation": 52.39,
+      "Rating": 1339.35
+    }
+  },
+  "FiRENATiON": {
+    "cache": {
+      "Deviation": 86.26,
+      "Rating": 1596.17
+    },
+    "cobblestone": {
+      "Deviation": 113.53,
+      "Rating": 1538.05
+    },
+    "mirage": {
+      "Deviation": 73.92,
+      "Rating": 1498.88
+    }
+  },
+  "Fictitious": {
+    "cache": {
+      "Deviation": 55.61,
+      "Rating": 1458.31
+    },
+    "dust2": {
+      "Deviation": 55.61,
+      "Rating": 1458.31
+    },
+    "mirage": {
+      "Deviation": 55.61,
+      "Rating": 1458.31
+    }
+  },
+  "Fire Dragoon": {
+    "cache": {
+      "Deviation": 31.58,
+      "Rating": 1625.51
+    },
+    "cobblestone": {
+      "Deviation": 25.58,
+      "Rating": 1638.02
+    },
+    "dust2": {
+      "Deviation": 21.07,
+      "Rating": 1631.98
+    },
+    "mirage": {
+      "Deviation": 30.34,
+      "Rating": 1670.8
+    },
+    "nuke": {
+      "Deviation": 33.49,
+      "Rating": 1549.91
+    },
+    "train": {
+      "Deviation": 23.55,
+      "Rating": 1585.61
+    }
+  },
+  "FlipSid3": {
+    "cache": {
+      "Deviation": 23.53,
+      "Rating": 1545.36
+    },
+    "cobblestone": {
+      "Deviation": 22.66,
+      "Rating": 1471.67
+    },
+    "dust2": {
+      "Deviation": 53.78,
+      "Rating": 1238.26
+    },
+    "inferno": {
+      "Deviation": 44.42,
+      "Rating": 1464.9
+    },
+    "mirage": {
+      "Deviation": 23.0,
+      "Rating": 1581.31
+    },
+    "nuke": {
+      "Deviation": 48.58,
+      "Rating": 1087.53
+    },
+    "overpass": {
+      "Deviation": 29.68,
+      "Rating": 1359.77
+    },
+    "train": {
+      "Deviation": 22.17,
+      "Rating": 1476.18
+    }
+  },
+  "For Gamers": {
+    "mirage": {
+      "Deviation": 75.58,
+      "Rating": 1290.96
+    },
+    "overpass": {
+      "Deviation": 75.58,
+      "Rating": 1290.96
+    },
+    "train": {
+      "Deviation": 75.58,
+      "Rating": 1290.96
+    }
+  },
+  "Force of Nature": {
+    "cache": {
+      "Deviation": 65.93,
+      "Rating": 1730.71
+    },
+    "cobblestone": {
+      "Deviation": 35.19,
+      "Rating": 1667.43
+    },
+    "dust2": {
+      "Deviation": 46.67,
+      "Rating": 1409.36
+    },
+    "mirage": {
+      "Deviation": 28.25,
+      "Rating": 1625.83
+    },
+    "nuke": {
+      "Deviation": 75.58,
+      "Rating": 1709.04
+    },
+    "train": {
+      "Deviation": 38.93,
+      "Rating": 1378.52
+    }
+  },
+  "Fragsport": {
+    "overpass": {
+      "Deviation": 76.93,
+      "Rating": 1337.13
+    }
+  },
+  "Fragsters": {
+    "mirage": {
+      "Deviation": 64.55,
+      "Rating": 1273.61
+    },
+    "train": {
+      "Deviation": 67.82,
+      "Rating": 1451.03
+    }
+  },
+  "France": {
+    "cache": {
+      "Deviation": 48.72,
+      "Rating": 1604.37
+    },
+    "cobblestone": {
+      "Deviation": 83.51,
+      "Rating": 1930.45
+    },
+    "dust2": {
+      "Deviation": 45.65,
+      "Rating": 1541.81
+    },
+    "mirage": {
+      "Deviation": 50.99,
+      "Rating": 1580.45
+    },
+    "nuke": {
+      "Deviation": 54.98,
+      "Rating": 1470.89
+    },
+    "overpass": {
+      "Deviation": 39.34,
+      "Rating": 1548.22
+    },
+    "train": {
+      "Deviation": 110.21,
+      "Rating": 1219.3
+    }
+  },
+  "Fraternitas": {
+    "cache": {
+      "Deviation": 55.72,
+      "Rating": 1850.68
+    },
+    "dust2": {
+      "Deviation": 46.67,
+      "Rating": 1387.71
+    },
+    "mirage": {
+      "Deviation": 71.87,
+      "Rating": 1360.73
+    },
+    "overpass": {
+      "Deviation": 71.87,
+      "Rating": 1360.73
+    },
+    "train": {
+      "Deviation": 39.72,
+      "Rating": 1420.1
+    }
+  },
+  "FreeSlot": {
+    "mirage": {
+      "Deviation": 70.21,
+      "Rating": 1371.68
+    }
+  },
+  "From the Ashes": {
+    "cache": {
+      "Deviation": 74.03,
+      "Rating": 1320.57
+    },
+    "dust2": {
+      "Deviation": 74.03,
+      "Rating": 1320.57
+    },
+    "overpass": {
+      "Deviation": 74.03,
+      "Rating": 1320.57
+    }
+  },
+  "Funky Monkeys": {
+    "cache": {
+      "Deviation": 103.44,
+      "Rating": 1314.54
+    },
+    "nuke": {
+      "Deviation": 61.03,
+      "Rating": 1355.3
+    }
+  },
+  "Furious": {
+    "cache": {
+      "Deviation": 34.07,
+      "Rating": 1534.8
+    },
+    "cobblestone": {
+      "Deviation": 46.87,
+      "Rating": 1559.99
+    },
+    "dust2": {
+      "Deviation": 55.31,
+      "Rating": 1543.83
+    },
+    "mirage": {
+      "Deviation": 32.36,
+      "Rating": 1548.98
+    },
+    "train": {
+      "Deviation": 33.5,
+      "Rating": 1501.87
+    }
+  },
+  "G1WOLVES": {
+    "cobblestone": {
+      "Deviation": 55.24,
+      "Rating": 1568.61
+    },
+    "mirage": {
+      "Deviation": 51.38,
+      "Rating": 1244.41
+    },
+    "train": {
+      "Deviation": 70.54,
+      "Rating": 1327.54
+    }
+  },
+  "G2": {
+    "cache": {
+      "Deviation": 28.32,
+      "Rating": 1674.17
+    },
+    "cobblestone": {
+      "Deviation": 25.69,
+      "Rating": 1568.53
+    },
+    "dust2": {
+      "Deviation": 21.59,
+      "Rating": 1598.76
+    },
+    "nuke": {
+      "Deviation": 23.18,
+      "Rating": 1627.03
+    },
+    "overpass": {
+      "Deviation": 31.46,
+      "Rating": 1626.61
+    },
+    "train": {
+      "Deviation": 23.05,
+      "Rating": 1571.08
+    }
+  },
+  "GEX": {
+    "cache": {
+      "Deviation": 60.28,
+      "Rating": 1569.98
+    },
+    "cobblestone": {
+      "Deviation": 58.69,
+      "Rating": 1301.96
+    },
+    "dust2": {
+      "Deviation": 58.68,
+      "Rating": 1301.49
+    },
+    "mirage": {
+      "Deviation": 50.08,
+      "Rating": 1436.47
+    },
+    "train": {
+      "Deviation": 42.1,
+      "Rating": 1429.34
+    }
+  },
+  "GODSENT": {
+    "cache": {
+      "Deviation": 20.88,
+      "Rating": 1559.14
+    },
+    "cobblestone": {
+      "Deviation": 22.07,
+      "Rating": 1587.63
+    },
+    "dust2": {
+      "Deviation": 26.27,
+      "Rating": 1548.69
+    },
+    "mirage": {
+      "Deviation": 22.52,
+      "Rating": 1636.18
+    },
+    "nuke": {
+      "Deviation": 97.79,
+      "Rating": 1389.51
+    },
+    "overpass": {
+      "Deviation": 28.49,
+      "Rating": 1635.48
+    },
+    "train": {
+      "Deviation": 23.52,
+      "Rating": 1584.08
+    }
+  },
+  "GODSENT Academy": {
+    "cache": {
+      "Deviation": 32.79,
+      "Rating": 1439.08
+    },
+    "mirage": {
+      "Deviation": 32.06,
+      "Rating": 1523.34
+    },
+    "nuke": {
+      "Deviation": 61.79,
+      "Rating": 1392.65
+    },
+    "overpass": {
+      "Deviation": 39.15,
+      "Rating": 1421.34
+    },
+    "train": {
+      "Deviation": 35.42,
+      "Rating": 1441.5
+    }
+  },
+  "Gambit": {
+    "cache": {
+      "Deviation": 27.49,
+      "Rating": 1556.64
+    },
+    "cobblestone": {
+      "Deviation": 22.53,
+      "Rating": 1591.15
+    },
+    "default": {
+      "Deviation": 71.87,
+      "Rating": 1659.17
+    },
+    "dust2": {
+      "Deviation": 21.82,
+      "Rating": 1554.39
+    },
+    "inferno": {
+      "Deviation": 76.4,
+      "Rating": 1724.8
+    },
+    "mirage": {
+      "Deviation": 22.86,
+      "Rating": 1627.94
+    },
+    "nuke": {
+      "Deviation": 28.36,
+      "Rating": 1552.29
+    },
+    "overpass": {
+      "Deviation": 25.28,
+      "Rating": 1747.24
+    },
+    "train": {
+      "Deviation": 21.59,
+      "Rating": 1565.67
+    }
+  },
+  "Game4Glory": {
+    "cache": {
+      "Deviation": 40.36,
+      "Rating": 1467.77
+    },
+    "cobblestone": {
+      "Deviation": 70.54,
+      "Rating": 1614.97
+    },
+    "dust2": {
+      "Deviation": 47.9,
+      "Rating": 1429.2
+    },
+    "mirage": {
+      "Deviation": 30.94,
+      "Rating": 1499.33
+    },
+    "overpass": {
+      "Deviation": 69.89,
+      "Rating": 1396.52
+    },
+    "train": {
+      "Deviation": 47.18,
+      "Rating": 1398.72
+    }
+  },
+  "GameAgents": {
+    "cobblestone": {
+      "Deviation": 51.07,
+      "Rating": 1522.12
+    },
+    "dust2": {
+      "Deviation": 71.87,
+      "Rating": 1639.27
+    },
+    "mirage": {
+      "Deviation": 51.07,
+      "Rating": 1522.12
+    },
+    "train": {
+      "Deviation": 69.27,
+      "Rating": 1407.6
+    }
+  },
+  "GamePub": {
+    "mirage": {
+      "Deviation": 60.69,
+      "Rating": 1379.4
+    },
+    "overpass": {
+      "Deviation": 60.69,
+      "Rating": 1379.4
+    },
+    "train": {
+      "Deviation": 60.69,
+      "Rating": 1379.4
+    }
+  },
+  "GameplayDNA": {
+    "cache": {
+      "Deviation": 97.79,
+      "Rating": 1389.51
+    },
+    "mirage": {
+      "Deviation": 54.64,
+      "Rating": 1530.49
+    }
+  },
+  "Games Academy": {
+    "cache": {
+      "Deviation": 39.11,
+      "Rating": 1618.17
+    },
+    "dust2": {
+      "Deviation": 39.11,
+      "Rating": 1618.17
+    },
+    "inferno": {
+      "Deviation": 69.89,
+      "Rating": 1603.48
+    },
+    "mirage": {
+      "Deviation": 65.32,
+      "Rating": 1573.95
+    }
+  },
+  "Gatekeepers": {
+    "cobblestone": {
+      "Deviation": 74.72,
+      "Rating": 1513.2
+    },
+    "dust2": {
+      "Deviation": 41.11,
+      "Rating": 1581.42
+    },
+    "mirage": {
+      "Deviation": 41.49,
+      "Rating": 1593.75
+    },
+    "train": {
+      "Deviation": 39.64,
+      "Rating": 1532.35
+    }
+  },
+  "Geekunit": {
+    "cobblestone": {
+      "Deviation": 82.79,
+      "Rating": 1654.86
+    },
+    "mirage": {
+      "Deviation": 75.21,
+      "Rating": 1545.38
+    }
+  },
+  "GoSu": {
+    "cache": {
+      "Deviation": 73.29,
+      "Rating": 1334.49
+    },
+    "mirage": {
+      "Deviation": 73.29,
+      "Rating": 1334.49
+    },
+    "train": {
+      "Deviation": 73.29,
+      "Rating": 1334.49
+    }
+  },
+  "Golden Children": {
+    "cache": {
+      "Deviation": 37.16,
+      "Rating": 1478.01
+    },
+    "dust2": {
+      "Deviation": 39.68,
+      "Rating": 1624.67
+    },
+    "overpass": {
+      "Deviation": 40.38,
+      "Rating": 1626.07
+    },
+    "train": {
+      "Deviation": 92.92,
+      "Rating": 1000
+    }
+  },
+  "Gosu": {
+    "cache": {
+      "Deviation": 78.95,
+      "Rating": 1258.76
+    }
+  },
+  "Granted": {
+    "cache": {
+      "Deviation": 36.63,
+      "Rating": 1373.32
+    },
+    "cobblestone": {
+      "Deviation": 41.01,
+      "Rating": 1529.03
+    },
+    "mirage": {
+      "Deviation": 44.47,
+      "Rating": 1343.52
+    },
+    "train": {
+      "Deviation": 56.26,
+      "Rating": 1506.09
+    }
+  },
+  "Grinny Bankers": {
+    "cache": {
+      "Deviation": 32.93,
+      "Rating": 1598.19
+    },
+    "cobblestone": {
+      "Deviation": 24.35,
+      "Rating": 1566.22
+    },
+    "dust2": {
+      "Deviation": 24.23,
+      "Rating": 1567.88
+    },
+    "mirage": {
+      "Deviation": 23.25,
+      "Rating": 1547.05
+    },
+    "nuke": {
+      "Deviation": 87.18,
+      "Rating": 1000
+    },
+    "overpass": {
+      "Deviation": 26.11,
+      "Rating": 1564.27
+    }
+  },
+  "Guerilla Method": {
+    "cache": {
+      "Deviation": 53.17,
+      "Rating": 1771.55
+    },
+    "cobblestone": {
+      "Deviation": 42.1,
+      "Rating": 1550.31
+    },
+    "mirage": {
+      "Deviation": 34.03,
+      "Rating": 1616.19
+    },
+    "overpass": {
+      "Deviation": 60.69,
+      "Rating": 1620.6
+    },
+    "train": {
+      "Deviation": 54.72,
+      "Rating": 1525.1
+    }
+  },
+  "Guerreros del Mouse": {
+    "cache": {
+      "Deviation": 55.86,
+      "Rating": 1277.16
+    },
+    "cobblestone": {
+      "Deviation": 46.81,
+      "Rating": 1385.98
+    },
+    "dust2": {
+      "Deviation": 43.42,
+      "Rating": 1329.49
+    },
+    "mirage": {
+      "Deviation": 99.57,
+      "Rating": 1633.64
+    },
+    "train": {
+      "Deviation": 55.47,
+      "Rating": 1726.59
+    }
+  },
+  "HEADSHOTBG": {
+    "cobblestone": {
+      "Deviation": 63.17,
+      "Rating": 1474.63
+    }
+  },
+  "HEXAGONE": {
+    "cache": {
+      "Deviation": 55.36,
+      "Rating": 1409.25
+    },
+    "dust2": {
+      "Deviation": 54.61,
+      "Rating": 1228.22
+    },
+    "train": {
+      "Deviation": 53.4,
+      "Rating": 1313.99
+    }
+  },
+  "HG": {
+    "cache": {
+      "Deviation": 28.87,
+      "Rating": 1321.25
+    },
+    "cobblestone": {
+      "Deviation": 27.55,
+      "Rating": 1547.46
+    },
+    "dust2": {
+      "Deviation": 54.38,
+      "Rating": 1697.29
+    },
+    "nuke": {
+      "Deviation": 38.17,
+      "Rating": 1362.04
+    },
+    "overpass": {
+      "Deviation": 66.93,
+      "Rating": 1448.24
+    },
+    "train": {
+      "Deviation": 37.71,
+      "Rating": 1474.78
+    }
+  },
+  "HOM9k": {
+    "mirage": {
+      "Deviation": 97.79,
+      "Rating": 1389.51
+    }
+  },
+  "HOMESENT": {
+    "cache": {
+      "Deviation": 32.69,
+      "Rating": 1569.26
+    },
+    "cobblestone": {
+      "Deviation": 38.51,
+      "Rating": 1531.24
+    },
+    "mirage": {
+      "Deviation": 32.26,
+      "Rating": 1552.25
+    },
+    "overpass": {
+      "Deviation": 55.93,
+      "Rating": 1512.05
+    }
+  },
+  "Hangover": {
+    "cache": {
+      "Deviation": 95.24,
+      "Rating": 1000
+    }
+  },
+  "Hardknocks": {
+    "dust2": {
+      "Deviation": 38.71,
+      "Rating": 1510.76
+    },
+    "mirage": {
+      "Deviation": 38.74,
+      "Rating": 1539.65
+    },
+    "overpass": {
+      "Deviation": 49.51,
+      "Rating": 1219.65
+    }
+  },
+  "HellRaisers": {
+    "cache": {
+      "Deviation": 26.4,
+      "Rating": 1570.59
+    },
+    "cobblestone": {
+      "Deviation": 20.22,
+      "Rating": 1600.76
+    },
+    "mirage": {
+      "Deviation": 21.68,
+      "Rating": 1663.42
+    },
+    "nuke": {
+      "Deviation": 27.68,
+      "Rating": 1593.07
+    },
+    "overpass": {
+      "Deviation": 27.18,
+      "Rating": 1653.89
+    },
+    "train": {
+      "Deviation": 24.6,
+      "Rating": 1599.06
+    }
+  },
+  "Heroic": {
+    "cache": {
+      "Deviation": 45.52,
+      "Rating": 1611.95
+    },
+    "cobblestone": {
+      "Deviation": 21.61,
+      "Rating": 1617.64
+    },
+    "dust2": {
+      "Deviation": 38.66,
+      "Rating": 1461.14
+    },
+    "mirage": {
+      "Deviation": 25.69,
+      "Rating": 1609.13
+    },
+    "nuke": {
+      "Deviation": 25.44,
+      "Rating": 1515.47
+    },
+    "overpass": {
+      "Deviation": 39.35,
+      "Rating": 1521.96
+    },
+    "train": {
+      "Deviation": 21.98,
+      "Rating": 1531.51
+    }
+  },
+  "Huutista": {
+    "cobblestone": {
+      "Deviation": 53.9,
+      "Rating": 1259.24
+    },
+    "dust2": {
+      "Deviation": 53.9,
+      "Rating": 1259.24
+    },
+    "mirage": {
+      "Deviation": 52.12,
+      "Rating": 1340.6
+    }
+  },
+  "Hyper": {
+    "cache": {
+      "Deviation": 76.4,
+      "Rating": 1275.2
+    },
+    "cobblestone": {
+      "Deviation": 76.4,
+      "Rating": 1275.2
+    },
+    "mirage": {
+      "Deviation": 76.4,
+      "Rating": 1275.2
+    }
+  },
+  "INTZ": {
+    "cache": {
+      "Deviation": 35.17,
+      "Rating": 1246.07
+    },
+    "cobblestone": {
+      "Deviation": 24.75,
+      "Rating": 1784.24
+    },
+    "dust2": {
+      "Deviation": 33.45,
+      "Rating": 1482.83
+    },
+    "mirage": {
+      "Deviation": 24.26,
+      "Rating": 1563.98
+    },
+    "overpass": {
+      "Deviation": 66.71,
+      "Rating": 2000
+    },
+    "train": {
+      "Deviation": 23.14,
+      "Rating": 1638.88
+    }
+  },
+  "Imanity": {
+    "cache": {
+      "Deviation": 51.22,
+      "Rating": 1394.52
+    },
+    "mirage": {
+      "Deviation": 53.6,
+      "Rating": 1232.36
+    },
+    "train": {
+      "Deviation": 74.8,
+      "Rating": 1306.07
+    }
+  },
+  "Immortals": {
+    "cache": {
+      "Deviation": 27.48,
+      "Rating": 1681.89
+    },
+    "cobblestone": {
+      "Deviation": 30.59,
+      "Rating": 1627.93
+    },
+    "dust2": {
+      "Deviation": 30.39,
+      "Rating": 1530.54
+    },
+    "mirage": {
+      "Deviation": 23.91,
+      "Rating": 1655.68
+    },
+    "nuke": {
+      "Deviation": 63.49,
+      "Rating": 1515.84
+    },
+    "overpass": {
+      "Deviation": 24.06,
+      "Rating": 1637.65
+    },
+    "train": {
+      "Deviation": 22.52,
+      "Rating": 1608.51
+    }
+  },
+  "Immunity": {
+    "cache": {
+      "Deviation": 39.4,
+      "Rating": 1601.58
+    },
+    "cobblestone": {
+      "Deviation": 21.59,
+      "Rating": 1615.27
+    },
+    "dust2": {
+      "Deviation": 22.55,
+      "Rating": 1585.53
+    },
+    "mirage": {
+      "Deviation": 19.57,
+      "Rating": 1568.43
+    },
+    "nuke": {
+      "Deviation": 29.0,
+      "Rating": 1448.8
+    },
+    "overpass": {
+      "Deviation": 23.53,
+      "Rating": 1559.87
+    },
+    "train": {
+      "Deviation": 19.58,
+      "Rating": 1514.57
+    }
+  },
+  "Imperial Dragons": {
+    "cobblestone": {
+      "Deviation": 51.45,
+      "Rating": 1301.29
+    },
+    "dust2": {
+      "Deviation": 71.87,
+      "Rating": 1360.73
+    },
+    "mirage": {
+      "Deviation": 51.45,
+      "Rating": 1301.29
+    }
+  },
+  "Incept": {
+    "mirage": {
+      "Deviation": 58.26,
+      "Rating": 1397.77
+    }
+  },
+  "Incursion": {
+    "overpass": {
+      "Deviation": 75.27,
+      "Rating": 1311.66
+    }
+  },
+  "Infused": {
+    "dust2": {
+      "Deviation": 110.21,
+      "Rating": 1780.7
+    }
+  },
+  "Inside": {
+    "cobblestone": {
+      "Deviation": 50.44,
+      "Rating": 1401.72
+    },
+    "dust2": {
+      "Deviation": 41.54,
+      "Rating": 1538.59
+    },
+    "mirage": {
+      "Deviation": 71.87,
+      "Rating": 1639.27
+    },
+    "nuke": {
+      "Deviation": 73.29,
+      "Rating": 1334.49
+    },
+    "overpass": {
+      "Deviation": 71.87,
+      "Rating": 1639.27
+    }
+  },
+  "Insidious": {
+    "cache": {
+      "Deviation": 71.2,
+      "Rating": 1314.54
+    },
+    "dust2": {
+      "Deviation": 48.89,
+      "Rating": 1367.92
+    },
+    "mirage": {
+      "Deviation": 63.45,
+      "Rating": 1661.91
+    }
+  },
+  "Insomnia": {
+    "cache": {
+      "Deviation": 32.61,
+      "Rating": 1504.32
+    },
+    "cobblestone": {
+      "Deviation": 61.54,
+      "Rating": 1419.77
+    },
+    "mirage": {
+      "Deviation": 33.13,
+      "Rating": 1522.24
+    },
+    "nuke": {
+      "Deviation": 58.35,
+      "Rating": 1532.78
+    },
+    "overpass": {
+      "Deviation": 39.55,
+      "Rating": 1376.35
+    },
+    "train": {
+      "Deviation": 61.54,
+      "Rating": 1419.77
+    }
+  },
+  "Iwku": {
+    "cache": {
+      "Deviation": 43.4,
+      "Rating": 1523.64
+    },
+    "cobblestone": {
+      "Deviation": 39.41,
+      "Rating": 1545.64
+    },
+    "dust2": {
+      "Deviation": 55.61,
+      "Rating": 1494.04
+    },
+    "mirage": {
+      "Deviation": 55.61,
+      "Rating": 1494.04
+    }
+  },
+  "JMDaiM2GaME": {
+    "mirage": {
+      "Deviation": 70.65,
+      "Rating": 1332.32
+    }
+  },
+  "K23": {
+    "cache": {
+      "Deviation": 53.59,
+      "Rating": 1748.77
+    },
+    "cobblestone": {
+      "Deviation": 34.46,
+      "Rating": 1741.36
+    },
+    "dust2": {
+      "Deviation": 47.62,
+      "Rating": 1633.28
+    },
+    "mirage": {
+      "Deviation": 38.06,
+      "Rating": 1732.82
+    },
+    "nuke": {
+      "Deviation": 46.89,
+      "Rating": 1779.19
+    },
+    "overpass": {
+      "Deviation": 37.72,
+      "Rating": 1678.74
+    },
+    "train": {
+      "Deviation": 32.51,
+      "Rating": 1767.47
+    }
+  },
+  "K29": {
+    "cobblestone": {
+      "Deviation": 41.49,
+      "Rating": 1504.21
+    },
+    "mirage": {
+      "Deviation": 75.58,
+      "Rating": 1709.04
+    },
+    "overpass": {
+      "Deviation": 49.43,
+      "Rating": 1503.62
+    },
+    "train": {
+      "Deviation": 49.43,
+      "Rating": 1503.62
+    }
+  },
+  "KPI": {
+    "cobblestone": {
+      "Deviation": 32.85,
+      "Rating": 1669.48
+    },
+    "nuke": {
+      "Deviation": 61.98,
+      "Rating": 1455.62
+    },
+    "overpass": {
+      "Deviation": 46.66,
+      "Rating": 1613.91
+    },
+    "train": {
+      "Deviation": 33.98,
+      "Rating": 1576.41
+    }
+  },
+  "Kafan": {
+    "cobblestone": {
+      "Deviation": 103.44,
+      "Rating": 1314.54
+    }
+  },
+  "Kinguin": {
+    "cache": {
+      "Deviation": 21.17,
+      "Rating": 1614.03
+    },
+    "cobblestone": {
+      "Deviation": 21.76,
+      "Rating": 1575.94
+    },
+    "default": {
+      "Deviation": 71.87,
+      "Rating": 1340.83
+    },
+    "dust2": {
+      "Deviation": 22.03,
+      "Rating": 1550.39
+    },
+    "mirage": {
+      "Deviation": 21.02,
+      "Rating": 1662.04
+    },
+    "overpass": {
+      "Deviation": 20.49,
+      "Rating": 1616.69
+    },
+    "train": {
+      "Deviation": 22.14,
+      "Rating": 1527.46
+    }
+  },
+  "Kiwi Pride": {
+    "dust2": {
+      "Deviation": 66.38,
+      "Rating": 1457.57
+    },
+    "overpass": {
+      "Deviation": 46.63,
+      "Rating": 1549.14
+    },
+    "train": {
+      "Deviation": 66.38,
+      "Rating": 1457.57
+    }
+  },
+  "KoN Denmark": {
+    "cache": {
+      "Deviation": 82.59,
+      "Rating": 1652.99
+    },
+    "dust2": {
+      "Deviation": 46.07,
+      "Rating": 1486.32
+    },
+    "mirage": {
+      "Deviation": 65.49,
+      "Rating": 1350.5
+    }
+  },
+  "KoN Finland": {
+    "cache": {
+      "Deviation": 64.66,
+      "Rating": 1646.44
+    },
+    "dust2": {
+      "Deviation": 63.7,
+      "Rating": 1538.64
+    },
+    "mirage": {
+      "Deviation": 69.66,
+      "Rating": 1335.68
+    },
+    "overpass": {
+      "Deviation": 91.51,
+      "Rating": 1467.75
+    }
+  },
+  "KoN Iceland": {
+    "mirage": {
+      "Deviation": 67.74,
+      "Rating": 1417.99
+    },
+    "overpass": {
+      "Deviation": 103.44,
+      "Rating": 1314.54
+    }
+  },
+  "KoN Norway": {
+    "cache": {
+      "Deviation": 107.81,
+      "Rating": 1253.78
+    },
+    "dust2": {
+      "Deviation": 46.69,
+      "Rating": 1461.18
+    },
+    "mirage": {
+      "Deviation": 78.97,
+      "Rating": 1672.45
+    },
+    "overpass": {
+      "Deviation": 103.44,
+      "Rating": 1685.46
+    }
+  },
+  "KoN Sweden": {
+    "cache": {
+      "Deviation": 72.86,
+      "Rating": 1350.75
+    },
+    "dust2": {
+      "Deviation": 65.0,
+      "Rating": 1517.32
+    },
+    "mirage": {
+      "Deviation": 61.3,
+      "Rating": 1570.37
+    },
+    "overpass": {
+      "Deviation": 91.51,
+      "Rating": 1532.25
+    }
+  },
+  "L4SALARY": {
+    "cobblestone": {
+      "Deviation": 60.28,
+      "Rating": 1486.0
+    },
+    "nuke": {
+      "Deviation": 60.28,
+      "Rating": 1486.0
+    },
+    "overpass": {
+      "Deviation": 60.28,
+      "Rating": 1486.0
+    }
+  },
+  "LDLC": {
+    "cache": {
+      "Deviation": 20.48,
+      "Rating": 1603.94
+    },
+    "cobblestone": {
+      "Deviation": 21.26,
+      "Rating": 1589.83
+    },
+    "dust2": {
+      "Deviation": 20.43,
+      "Rating": 1547.88
+    },
+    "nuke": {
+      "Deviation": 32.48,
+      "Rating": 1526.84
+    },
+    "overpass": {
+      "Deviation": 25.29,
+      "Rating": 1523.69
+    },
+    "train": {
+      "Deviation": 25.89,
+      "Rating": 1501.94
+    }
+  },
+  "LDLC Blue": {
+    "cobblestone": {
+      "Deviation": 38.05,
+      "Rating": 1419.15
+    },
+    "dust2": {
+      "Deviation": 52.97,
+      "Rating": 1379.69
+    },
+    "inferno": {
+      "Deviation": 44.71,
+      "Rating": 1516.69
+    },
+    "mirage": {
+      "Deviation": 39.53,
+      "Rating": 1517.27
+    }
+  },
+  "LDLC Espoir": {
+    "cache": {
+      "Deviation": 85.98,
+      "Rating": 1394.68
+    },
+    "mirage": {
+      "Deviation": 49.81,
+      "Rating": 1320.42
+    }
+  },
+  "LDLC White": {
+    "cache": {
+      "Deviation": 33.01,
+      "Rating": 1442.0
+    },
+    "inferno": {
+      "Deviation": 50.04,
+      "Rating": 1465.39
+    },
+    "mirage": {
+      "Deviation": 40.79,
+      "Rating": 1463.2
+    }
+  },
+  "LDLC fe": {
+    "cache": {
+      "Deviation": 64.06,
+      "Rating": 1460.85
+    },
+    "cobblestone": {
+      "Deviation": 55.9,
+      "Rating": 1469.49
+    },
+    "dust2": {
+      "Deviation": 66.23,
+      "Rating": 1505.11
+    },
+    "overpass": {
+      "Deviation": 49.56,
+      "Rating": 1563.12
+    },
+    "train": {
+      "Deviation": 57.85,
+      "Rating": 1669.29
+    }
+  },
+  "LEFTOVERS": {
+    "cache": {
+      "Deviation": 72.57,
+      "Rating": 1347.86
+    },
+    "mirage": {
+      "Deviation": 72.57,
+      "Rating": 1347.86
+    },
+    "nuke": {
+      "Deviation": 72.57,
+      "Rating": 1347.86
+    }
+  },
+  "LGD": {
+    "cache": {
+      "Deviation": 31.93,
+      "Rating": 1488.2
+    },
+    "cobblestone": {
+      "Deviation": 38.99,
+      "Rating": 1443.89
+    },
+    "dust2": {
+      "Deviation": 46.28,
+      "Rating": 1459.34
+    },
+    "mirage": {
+      "Deviation": 24.34,
+      "Rating": 1537.13
+    },
+    "train": {
+      "Deviation": 37.58,
+      "Rating": 1468.81
+    }
+  },
+  "LGR": {
+    "cache": {
+      "Deviation": 59.88,
+      "Rating": 1575.96
+    },
+    "cobblestone": {
+      "Deviation": 42.92,
+      "Rating": 1590.53
+    },
+    "dust2": {
+      "Deviation": 42.92,
+      "Rating": 1590.53
+    },
+    "overpass": {
+      "Deviation": 41.01,
+      "Rating": 1757.37
+    },
+    "train": {
+      "Deviation": 41.01,
+      "Rating": 1757.37
+    }
+  },
+  "Leapfrog": {
+    "cache": {
+      "Deviation": 33.18,
+      "Rating": 1516.36
+    },
+    "dust2": {
+      "Deviation": 27.67,
+      "Rating": 1587.82
+    },
+    "mirage": {
+      "Deviation": 33.2,
+      "Rating": 1603.21
+    },
+    "overpass": {
+      "Deviation": 55.29,
+      "Rating": 1535.33
+    },
+    "train": {
+      "Deviation": 38.25,
+      "Rating": 1583.98
+    }
+  },
+  "Legacy": {
+    "cache": {
+      "Deviation": 46.56,
+      "Rating": 1542.43
+    },
+    "cobblestone": {
+      "Deviation": 31.22,
+      "Rating": 1534.58
+    },
+    "dust2": {
+      "Deviation": 53.98,
+      "Rating": 1457.44
+    },
+    "mirage": {
+      "Deviation": 53.56,
+      "Rating": 1424.74
+    },
+    "nuke": {
+      "Deviation": 44.25,
+      "Rating": 1419.66
+    },
+    "overpass": {
+      "Deviation": 48.57,
+      "Rating": 1517.82
+    },
+    "train": {
+      "Deviation": 29.9,
+      "Rating": 1400.12
+    }
+  },
+  "Liquid": {
+    "cache": {
+      "Deviation": 30.82,
+      "Rating": 1645.3
+    },
+    "cobblestone": {
+      "Deviation": 31.62,
+      "Rating": 1524.42
+    },
+    "dust2": {
+      "Deviation": 29.6,
+      "Rating": 1563.79
+    },
+    "mirage": {
+      "Deviation": 30.57,
+      "Rating": 1589.31
+    },
+    "nuke": {
+      "Deviation": 28.96,
+      "Rating": 1602.99
+    },
+    "train": {
+      "Deviation": 25.72,
+      "Rating": 1491.04
+    }
+  },
+  "LowLandLions": {
+    "cobblestone": {
+      "Deviation": 53.23,
+      "Rating": 1736.84
+    },
+    "mirage": {
+      "Deviation": 53.77,
+      "Rating": 1702.75
+    },
+    "overpass": {
+      "Deviation": 91.51,
+      "Rating": 1500.0
+    }
+  },
+  "Luccini": {
+    "cobblestone": {
+      "Deviation": 86.31,
+      "Rating": 1069.65
+    },
+    "nuke": {
+      "Deviation": 86.31,
+      "Rating": 1069.65
+    },
+    "train": {
+      "Deviation": 86.31,
+      "Rating": 1069.65
+    }
+  },
+  "Luminosity": {
+    "cache": {
+      "Deviation": 70.54,
+      "Rating": 1614.97
+    },
+    "cobblestone": {
+      "Deviation": 27.98,
+      "Rating": 1610.4
+    },
+    "dust2": {
+      "Deviation": 25.53,
+      "Rating": 1550.56
+    },
+    "mirage": {
+      "Deviation": 24.33,
+      "Rating": 1593.29
+    },
+    "nuke": {
+      "Deviation": 43.39,
+      "Rating": 1538.71
+    },
+    "overpass": {
+      "Deviation": 36.28,
+      "Rating": 1511.44
+    },
+    "train": {
+      "Deviation": 26.58,
+      "Rating": 1470.47
+    }
+  },
+  "MK": {
+    "dust2": {
+      "Deviation": 41.49,
+      "Rating": 1504.21
+    },
+    "overpass": {
+      "Deviation": 61.74,
+      "Rating": 1957.56
+    },
+    "train": {
+      "Deviation": 61.74,
+      "Rating": 1957.56
+    }
+  },
+  "MVP PK": {
+    "cache": {
+      "Deviation": 37.33,
+      "Rating": 1470.58
+    },
+    "cobblestone": {
+      "Deviation": 39.6,
+      "Rating": 1538.03
+    },
+    "dust2": {
+      "Deviation": 34.58,
+      "Rating": 1571.51
+    },
+    "mirage": {
+      "Deviation": 34.97,
+      "Rating": 1384.53
+    },
+    "nuke": {
+      "Deviation": 54.61,
+      "Rating": 1776.89
+    },
+    "train": {
+      "Deviation": 41.71,
+      "Rating": 1400.71
+    }
+  },
+  "MVP Project": {
+    "cache": {
+      "Deviation": 36.31,
+      "Rating": 1656.24
+    },
+    "cobblestone": {
+      "Deviation": 30.95,
+      "Rating": 1606.34
+    },
+    "dust2": {
+      "Deviation": 70.54,
+      "Rating": 1614.97
+    },
+    "mirage": {
+      "Deviation": 56.9,
+      "Rating": 1849.05
+    },
+    "train": {
+      "Deviation": 58.86,
+      "Rating": 1897.03
+    }
+  },
+  "MVP project": {
+    "cache": {
+      "Deviation": 48.15,
+      "Rating": 1411.08
+    },
+    "cobblestone": {
+      "Deviation": 25.03,
+      "Rating": 1684.74
+    },
+    "dust2": {
+      "Deviation": 26.47,
+      "Rating": 1612.25
+    },
+    "mirage": {
+      "Deviation": 23.05,
+      "Rating": 1594.92
+    },
+    "nuke": {
+      "Deviation": 31.77,
+      "Rating": 1627.97
+    },
+    "overpass": {
+      "Deviation": 22.66,
+      "Rating": 1636.55
+    },
+    "train": {
+      "Deviation": 31.18,
+      "Rating": 1574.23
+    }
+  },
+  "MVP.karnal": {
+    "cache": {
+      "Deviation": 24.02,
+      "Rating": 1594.11
+    },
+    "cobblestone": {
+      "Deviation": 48.69,
+      "Rating": 1034.59
+    },
+    "dust2": {
+      "Deviation": 20.79,
+      "Rating": 1573.29
+    },
+    "mirage": {
+      "Deviation": 24.26,
+      "Rating": 1643.88
+    },
+    "nuke": {
+      "Deviation": 69.89,
+      "Rating": 1603.48
+    },
+    "train": {
+      "Deviation": 33.4,
+      "Rating": 1726.48
+    }
+  },
+  "Maaischguet": {
+    "cache": {
+      "Deviation": 94.21,
+      "Rating": 1871.55
+    },
+    "mirage": {
+      "Deviation": 84.0,
+      "Rating": 1538.21
+    },
+    "overpass": {
+      "Deviation": 101.29,
+      "Rating": 1648.22
+    }
+  },
+  "Magistra": {
+    "cache": {
+      "Deviation": 39.25,
+      "Rating": 1621.21
+    },
+    "dust2": {
+      "Deviation": 36.39,
+      "Rating": 1591.62
+    },
+    "mirage": {
+      "Deviation": 27.18,
+      "Rating": 1619.73
+    },
+    "nuke": {
+      "Deviation": 35.09,
+      "Rating": 1435.28
+    },
+    "overpass": {
+      "Deviation": 82.68,
+      "Rating": 2000
+    }
+  },
+  "Magnum Monsters": {
+    "train": {
+      "Deviation": 91.51,
+      "Rating": 1532.25
+    }
+  },
+  "Majestic": {
+    "cache": {
+      "Deviation": 64.81,
+      "Rating": 1435.29
+    },
+    "mirage": {
+      "Deviation": 64.81,
+      "Rating": 1435.29
+    },
+    "train": {
+      "Deviation": 56.76,
+      "Rating": 1111.46
+    }
+  },
+  "Make it Happen": {
+    "cache": {
+      "Deviation": 67.0,
+      "Rating": 1797.96
+    },
+    "dust2": {
+      "Deviation": 68.66,
+      "Rating": 1581.71
+    },
+    "mirage": {
+      "Deviation": 49.61,
+      "Rating": 1469.94
+    },
+    "overpass": {
+      "Deviation": 67.0,
+      "Rating": 1797.96
+    },
+    "train": {
+      "Deviation": 68.66,
+      "Rating": 1581.71
+    }
+  },
+  "Master Grade": {
+    "cache": {
+      "Deviation": 46.15,
+      "Rating": 1336.32
+    },
+    "cobblestone": {
+      "Deviation": 37.29,
+      "Rating": 1439.89
+    },
+    "overpass": {
+      "Deviation": 68.07,
+      "Rating": 1517.84
+    },
+    "train": {
+      "Deviation": 55.9,
+      "Rating": 1272.17
+    }
+  },
+  "MaveN Crew": {
+    "cache": {
+      "Deviation": 84.69,
+      "Rating": 1068.61
+    }
+  },
+  "Mazaalai": {
+    "mirage": {
+      "Deviation": 69.32,
+      "Rating": 1355.14
+    }
+  },
+  "Method": {
+    "cache": {
+      "Deviation": 43.66,
+      "Rating": 1689.34
+    },
+    "cobblestone": {
+      "Deviation": 76.4,
+      "Rating": 1724.8
+    },
+    "mirage": {
+      "Deviation": 51.95,
+      "Rating": 1544.2
+    },
+    "overpass": {
+      "Deviation": 49.49,
+      "Rating": 1516.64
+    }
+  },
+  "MiTH": {
+    "cache": {
+      "Deviation": 37.89,
+      "Rating": 1396.52
+    },
+    "cobblestone": {
+      "Deviation": 53.72,
+      "Rating": 1596.82
+    },
+    "dust2": {
+      "Deviation": 26.54,
+      "Rating": 1426.04
+    },
+    "mirage": {
+      "Deviation": 24.38,
+      "Rating": 1530.52
+    },
+    "nuke": {
+      "Deviation": 38.16,
+      "Rating": 1534.3
+    },
+    "overpass": {
+      "Deviation": 35.52,
+      "Rating": 1574.45
+    },
+    "train": {
+      "Deviation": 47.63,
+      "Rating": 1579.48
+    }
+  },
+  "Mighty44": {
+    "cobblestone": {
+      "Deviation": 67.49,
+      "Rating": 1438.6
+    },
+    "mirage": {
+      "Deviation": 48.25,
+      "Rating": 1708.45
+    },
+    "overpass": {
+      "Deviation": 68.55,
+      "Rating": 1596.12
+    },
+    "train": {
+      "Deviation": 56.58,
+      "Rating": 1427.52
+    }
+  },
+  "Millenium": {
+    "cache": {
+      "Deviation": 24.29,
+      "Rating": 1562.71
+    },
+    "cobblestone": {
+      "Deviation": 41.23,
+      "Rating": 1512.98
+    },
+    "dust2": {
+      "Deviation": 24.6,
+      "Rating": 1485.14
+    },
+    "mirage": {
+      "Deviation": 29.41,
+      "Rating": 1535.4
+    },
+    "overpass": {
+      "Deviation": 33.07,
+      "Rating": 1518.27
+    },
+    "train": {
+      "Deviation": 40.3,
+      "Rating": 1394.72
+    }
+  },
+  "Millenium fe": {
+    "cache": {
+      "Deviation": 92.93,
+      "Rating": 1465.47
+    },
+    "dust2": {
+      "Deviation": 94.49,
+      "Rating": 1431.22
+    },
+    "mirage": {
+      "Deviation": 94.49,
+      "Rating": 1568.78
+    },
+    "overpass": {
+      "Deviation": 81.07,
+      "Rating": 1233.18
+    }
+  },
+  "Mineski": {
+    "cache": {
+      "Deviation": 40.66,
+      "Rating": 1444.74
+    },
+    "cobblestone": {
+      "Deviation": 31.45,
+      "Rating": 1611.71
+    },
+    "dust2": {
+      "Deviation": 31.76,
+      "Rating": 1608.93
+    },
+    "mirage": {
+      "Deviation": 35.5,
+      "Rating": 1550.03
+    },
+    "nuke": {
+      "Deviation": 71.87,
+      "Rating": 1639.27
+    },
+    "overpass": {
+      "Deviation": 38.75,
+      "Rating": 1581.58
+    },
+    "train": {
+      "Deviation": 47.75,
+      "Rating": 1593.06
+    }
+  },
+  "Mociustempler": {
+    "cache": {
+      "Deviation": 49.27,
+      "Rating": 1598.58
+    },
+    "cobblestone": {
+      "Deviation": 42.91,
+      "Rating": 1459.72
+    },
+    "dust2": {
+      "Deviation": 107.81,
+      "Rating": 1253.78
+    },
+    "mirage": {
+      "Deviation": 32.2,
+      "Rating": 1505.63
+    },
+    "train": {
+      "Deviation": 55.51,
+      "Rating": 1528.72
+    }
+  },
+  "Moral Alliance": {
+    "cache": {
+      "Deviation": 42.39,
+      "Rating": 1353.43
+    },
+    "cobblestone": {
+      "Deviation": 41.96,
+      "Rating": 1428.83
+    },
+    "dust2": {
+      "Deviation": 33.16,
+      "Rating": 1356.58
+    },
+    "overpass": {
+      "Deviation": 70.16,
+      "Rating": 1492.13
+    }
+  },
+  "Muffin Lightning": {
+    "cache": {
+      "Deviation": 36.04,
+      "Rating": 1446.47
+    },
+    "cobblestone": {
+      "Deviation": 68.66,
+      "Rating": 1418.29
+    },
+    "dust2": {
+      "Deviation": 25.96,
+      "Rating": 1505.19
+    },
+    "mirage": {
+      "Deviation": 24.5,
+      "Rating": 1543.71
+    },
+    "overpass": {
+      "Deviation": 35.0,
+      "Rating": 1479.57
+    },
+    "train": {
+      "Deviation": 25.0,
+      "Rating": 1506.13
+    }
+  },
+  "NRG": {
+    "cache": {
+      "Deviation": 31.18,
+      "Rating": 1539.9
+    },
+    "cobblestone": {
+      "Deviation": 28.9,
+      "Rating": 1554.76
+    },
+    "dust2": {
+      "Deviation": 27.18,
+      "Rating": 1554.94
+    },
+    "mirage": {
+      "Deviation": 31.28,
+      "Rating": 1630.18
+    },
+    "nuke": {
+      "Deviation": 61.3,
+      "Rating": 1510.57
+    },
+    "overpass": {
+      "Deviation": 32.91,
+      "Rating": 1461.66
+    }
+  },
+  "Napalm": {
+    "cache": {
+      "Deviation": 82.12,
+      "Rating": 1413.3
+    }
+  },
+  "Natus Vincere": {
+    "cobblestone": {
+      "Deviation": 23.84,
+      "Rating": 1584.49
+    },
+    "dust2": {
+      "Deviation": 29.77,
+      "Rating": 1593.29
+    },
+    "mirage": {
+      "Deviation": 26.2,
+      "Rating": 1648.38
+    },
+    "nuke": {
+      "Deviation": 25.92,
+      "Rating": 1527.48
+    },
+    "overpass": {
+      "Deviation": 28.01,
+      "Rating": 1646.4
+    },
+    "train": {
+      "Deviation": 25.83,
+      "Rating": 1543.48
+    }
+  },
+  "Neolution": {
+    "mirage": {
+      "Deviation": 92.97,
+      "Rating": 1450.07
+    }
+  },
+  "Netland": {
+    "dust2": {
+      "Deviation": 42.67,
+      "Rating": 1526.67
+    },
+    "mirage": {
+      "Deviation": 43.23,
+      "Rating": 1620.16
+    },
+    "overpass": {
+      "Deviation": 42.54,
+      "Rating": 1544.91
+    }
+  },
+  "Nevereverland": {
+    "dust2": {
+      "Deviation": 55.61,
+      "Rating": 1458.31
+    },
+    "mirage": {
+      "Deviation": 55.61,
+      "Rating": 1458.31
+    },
+    "overpass": {
+      "Deviation": 55.61,
+      "Rating": 1458.31
+    }
+  },
+  "New ReVoL": {
+    "cache": {
+      "Deviation": 38.37,
+      "Rating": 1412.18
+    },
+    "cobblestone": {
+      "Deviation": 47.34,
+      "Rating": 1491.68
+    },
+    "dust2": {
+      "Deviation": 77.24,
+      "Rating": 1258.74
+    },
+    "mirage": {
+      "Deviation": 50.1,
+      "Rating": 1400.92
+    }
+  },
+  "New4": {
+    "cache": {
+      "Deviation": 20.31,
+      "Rating": 1572.64
+    },
+    "default": {
+      "Deviation": 99.57,
+      "Rating": 1633.64
+    },
+    "dust2": {
+      "Deviation": 20.64,
+      "Rating": 1511.79
+    },
+    "mirage": {
+      "Deviation": 21.26,
+      "Rating": 1604.41
+    },
+    "nuke": {
+      "Deviation": 29.9,
+      "Rating": 1485.72
+    },
+    "overpass": {
+      "Deviation": 31.48,
+      "Rating": 1419.07
+    },
+    "train": {
+      "Deviation": 22.92,
+      "Rating": 1627.11
+    }
+  },
+  "New4.wolf": {
+    "cache": {
+      "Deviation": 107.81,
+      "Rating": 1746.22
+    },
+    "dust2": {
+      "Deviation": 100.43,
+      "Rating": 1568.36
+    },
+    "nuke": {
+      "Deviation": 72.0,
+      "Rating": 1297.7
+    }
+  },
+  "Newullst": {
+    "mirage": {
+      "Deviation": 91.51,
+      "Rating": 1467.75
+    }
+  },
+  "Nexus": {
+    "cache": {
+      "Deviation": 37.45,
+      "Rating": 1643.31
+    },
+    "cobblestone": {
+      "Deviation": 58.89,
+      "Rating": 1618.85
+    },
+    "mirage": {
+      "Deviation": 35.8,
+      "Rating": 1560.19
+    },
+    "nuke": {
+      "Deviation": 64.52,
+      "Rating": 1482.85
+    },
+    "train": {
+      "Deviation": 66.02,
+      "Rating": 1432.58
+    }
+  },
+  "Nface": {
+    "cache": {
+      "Deviation": 41.16,
+      "Rating": 1494.96
+    },
+    "cobblestone": {
+      "Deviation": 44.01,
+      "Rating": 1571.77
+    },
+    "dust2": {
+      "Deviation": 52.59,
+      "Rating": 1405.12
+    },
+    "mirage": {
+      "Deviation": 43.45,
+      "Rating": 1412.7
+    },
+    "overpass": {
+      "Deviation": 68.07,
+      "Rating": 1482.16
+    }
+  },
+  "NiP": {
+    "cache": {
+      "Deviation": 29.72,
+      "Rating": 1562.61
+    },
+    "cobblestone": {
+      "Deviation": 22.04,
+      "Rating": 1659.87
+    },
+    "dust2": {
+      "Deviation": 26.25,
+      "Rating": 1622.11
+    },
+    "nuke": {
+      "Deviation": 22.03,
+      "Rating": 1634.04
+    },
+    "overpass": {
+      "Deviation": 22.94,
+      "Rating": 1646.48
+    },
+    "train": {
+      "Deviation": 22.49,
+      "Rating": 1649.7
+    }
+  },
+  "NiceShot": {
+    "cobblestone": {
+      "Deviation": 28.5,
+      "Rating": 1567.86
+    },
+    "dust2": {
+      "Deviation": 61.4,
+      "Rating": 1348.06
+    },
+    "mirage": {
+      "Deviation": 28.05,
+      "Rating": 1541.05
+    },
+    "nuke": {
+      "Deviation": 40.07,
+      "Rating": 1788.54
+    },
+    "train": {
+      "Deviation": 35.27,
+      "Rating": 1559.6
+    }
+  },
+  "No Problem!": {
+    "cache": {
+      "Deviation": 39.15,
+      "Rating": 1455.27
+    },
+    "cobblestone": {
+      "Deviation": 37.66,
+      "Rating": 1450.1
+    },
+    "dust2": {
+      "Deviation": 49.93,
+      "Rating": 1439.38
+    },
+    "mirage": {
+      "Deviation": 103.44,
+      "Rating": 1685.46
+    },
+    "train": {
+      "Deviation": 39.91,
+      "Rating": 1384.42
+    }
+  },
+  "NoX": {
+    "cobblestone": {
+      "Deviation": 56.93,
+      "Rating": 1406.38
+    },
+    "mirage": {
+      "Deviation": 56.93,
+      "Rating": 1406.38
+    },
+    "overpass": {
+      "Deviation": 56.93,
+      "Rating": 1406.38
+    }
+  },
+  "Nocturns": {
+    "cache": {
+      "Deviation": 72.57,
+      "Rating": 1347.86
+    },
+    "cobblestone": {
+      "Deviation": 35.14,
+      "Rating": 1561.8
+    },
+    "dust2": {
+      "Deviation": 63.35,
+      "Rating": 1585.0
+    },
+    "overpass": {
+      "Deviation": 72.57,
+      "Rating": 1347.86
+    },
+    "train": {
+      "Deviation": 42.91,
+      "Rating": 1418.12
+    }
+  },
+  "NokSuKao": {
+    "cobblestone": {
+      "Deviation": 56.93,
+      "Rating": 1456.31
+    },
+    "dust2": {
+      "Deviation": 56.93,
+      "Rating": 1456.31
+    },
+    "mirage": {
+      "Deviation": 56.93,
+      "Rating": 1456.31
+    },
+    "train": {
+      "Deviation": 101.45,
+      "Rating": 1658.56
+    }
+  },
+  "Norse": {
+    "cobblestone": {
+      "Deviation": 42.96,
+      "Rating": 1467.55
+    },
+    "dust2": {
+      "Deviation": 27.0,
+      "Rating": 1609.8
+    },
+    "mirage": {
+      "Deviation": 23.54,
+      "Rating": 1621.56
+    },
+    "nuke": {
+      "Deviation": 61.35,
+      "Rating": 1918.07
+    },
+    "overpass": {
+      "Deviation": 43.16,
+      "Rating": 1581.76
+    },
+    "train": {
+      "Deviation": 24.85,
+      "Rating": 1574.08
+    }
+  },
+  "NorthSideWolves": {
+    "cache": {
+      "Deviation": 80.64,
+      "Rating": 1234.37
+    }
+  },
+  "Nostalgie": {
+    "cobblestone": {
+      "Deviation": 54.98,
+      "Rating": 1482.54
+    },
+    "inferno": {
+      "Deviation": 54.98,
+      "Rating": 1482.54
+    },
+    "overpass": {
+      "Deviation": 54.98,
+      "Rating": 1482.54
+    }
+  },
+  "Not Today": {
+    "cache": {
+      "Deviation": 57.97,
+      "Rating": 1545.39
+    },
+    "cobblestone": {
+      "Deviation": 86.31,
+      "Rating": 1930.35
+    },
+    "nuke": {
+      "Deviation": 66.51,
+      "Rating": 1513.3
+    },
+    "train": {
+      "Deviation": 52.3,
+      "Rating": 1581.7
+    }
+  },
+  "ONEGODLIKE": {
+    "cache": {
+      "Deviation": 44.81,
+      "Rating": 1326.35
+    },
+    "cobblestone": {
+      "Deviation": 46.43,
+      "Rating": 1369.26
+    },
+    "nuke": {
+      "Deviation": 82.94,
+      "Rating": 1142.33
+    },
+    "overpass": {
+      "Deviation": 70.54,
+      "Rating": 1614.97
+    }
+  },
+  "Obey.Alliance": {
+    "cache": {
+      "Deviation": 72.57,
+      "Rating": 1347.86
+    },
+    "dust2": {
+      "Deviation": 50.41,
+      "Rating": 1441.19
+    },
+    "overpass": {
+      "Deviation": 50.31,
+      "Rating": 1351.06
+    }
+  },
+  "OnlineBOTS": {
+    "mirage": {
+      "Deviation": 83.14,
+      "Rating": 1426.32
+    }
+  },
+  "OpTic": {
+    "cache": {
+      "Deviation": 31.08,
+      "Rating": 1574.44
+    },
+    "cobblestone": {
+      "Deviation": 20.97,
+      "Rating": 1664.54
+    },
+    "dust2": {
+      "Deviation": 23.8,
+      "Rating": 1642.15
+    },
+    "mirage": {
+      "Deviation": 46.79,
+      "Rating": 1762.96
+    },
+    "nuke": {
+      "Deviation": 46.45,
+      "Rating": 1622.37
+    },
+    "overpass": {
+      "Deviation": 23.64,
+      "Rating": 1575.16
+    },
+    "train": {
+      "Deviation": 24.36,
+      "Rating": 1558.32
+    }
+  },
+  "Operation Kino": {
+    "cobblestone": {
+      "Deviation": 107.81,
+      "Rating": 1253.78
+    },
+    "dust2": {
+      "Deviation": 50.31,
+      "Rating": 1631.28
+    },
+    "nuke": {
+      "Deviation": 92.97,
+      "Rating": 1450.07
+    },
+    "overpass": {
+      "Deviation": 41.89,
+      "Rating": 1572.29
+    },
+    "train": {
+      "Deviation": 53.19,
+      "Rating": 1693.59
+    }
+  },
+  "Orange": {
+    "cache": {
+      "Deviation": 24.63,
+      "Rating": 1489.37
+    },
+    "cobblestone": {
+      "Deviation": 34.11,
+      "Rating": 1472.29
+    },
+    "dust2": {
+      "Deviation": 45.99,
+      "Rating": 1585.82
+    },
+    "mirage": {
+      "Deviation": 34.81,
+      "Rating": 1483.91
+    },
+    "nuke": {
+      "Deviation": 38.18,
+      "Rating": 1489.4
+    },
+    "overpass": {
+      "Deviation": 30.35,
+      "Rating": 1323.69
+    },
+    "train": {
+      "Deviation": 45.03,
+      "Rating": 1599.34
+    }
+  },
+  "Orgless": {
+    "dust2": {
+      "Deviation": 76.4,
+      "Rating": 1724.8
+    },
+    "mirage": {
+      "Deviation": 76.4,
+      "Rating": 1724.8
+    },
+    "overpass": {
+      "Deviation": 76.4,
+      "Rating": 1724.8
+    }
+  },
+  "Outlaws": {
+    "cache": {
+      "Deviation": 78.55,
+      "Rating": 1373.88
+    },
+    "cobblestone": {
+      "Deviation": 45.57,
+      "Rating": 1664.18
+    },
+    "mirage": {
+      "Deviation": 31.81,
+      "Rating": 1542.52
+    },
+    "overpass": {
+      "Deviation": 44.77,
+      "Rating": 1397.21
+    },
+    "train": {
+      "Deviation": 35.77,
+      "Rating": 1643.8
+    }
+  },
+  "Overcome": {
+    "cache": {
+      "Deviation": 52.2,
+      "Rating": 1524.91
+    },
+    "cobblestone": {
+      "Deviation": 57.72,
+      "Rating": 1447.86
+    },
+    "mirage": {
+      "Deviation": 50.34,
+      "Rating": 1312.47
+    },
+    "overpass": {
+      "Deviation": 73.06,
+      "Rating": 1196.08
+    }
+  },
+  "Overpowered": {
+    "cache": {
+      "Deviation": 46.92,
+      "Rating": 1857.04
+    },
+    "cobblestone": {
+      "Deviation": 49.6,
+      "Rating": 1462.61
+    },
+    "dust2": {
+      "Deviation": 39.93,
+      "Rating": 1465.44
+    },
+    "mirage": {
+      "Deviation": 27.41,
+      "Rating": 1512.85
+    },
+    "nuke": {
+      "Deviation": 55.54,
+      "Rating": 1398.14
+    },
+    "train": {
+      "Deviation": 25.15,
+      "Rating": 1555.8
+    }
+  },
+  "Overrated": {
+    "mirage": {
+      "Deviation": 103.44,
+      "Rating": 1314.54
+    },
+    "overpass": {
+      "Deviation": 85.14,
+      "Rating": 1458.12
+    }
+  },
+  "PANTERS": {
+    "cache": {
+      "Deviation": 69.27,
+      "Rating": 1407.6
+    },
+    "mirage": {
+      "Deviation": 35.52,
+      "Rating": 1462.08
+    },
+    "overpass": {
+      "Deviation": 35.95,
+      "Rating": 1516.73
+    }
+  },
+  "PENTA": {
+    "cache": {
+      "Deviation": 23.0,
+      "Rating": 1506.77
+    },
+    "cobblestone": {
+      "Deviation": 29.69,
+      "Rating": 1570.44
+    },
+    "dust2": {
+      "Deviation": 24.11,
+      "Rating": 1508.86
+    },
+    "inferno": {
+      "Deviation": 61.54,
+      "Rating": 1580.23
+    },
+    "mirage": {
+      "Deviation": 21.94,
+      "Rating": 1556.38
+    },
+    "nuke": {
+      "Deviation": 44.62,
+      "Rating": 1501.69
+    },
+    "overpass": {
+      "Deviation": 48.08,
+      "Rating": 1624.28
+    }
+  },
+  "PRIDE": {
+    "cache": {
+      "Deviation": 28.07,
+      "Rating": 1554.47
+    },
+    "cobblestone": {
+      "Deviation": 28.93,
+      "Rating": 1576.29
+    },
+    "dust2": {
+      "Deviation": 24.04,
+      "Rating": 1550.72
+    },
+    "mirage": {
+      "Deviation": 21.49,
+      "Rating": 1625.57
+    },
+    "nuke": {
+      "Deviation": 29.82,
+      "Rating": 1554.42
+    },
+    "train": {
+      "Deviation": 25.21,
+      "Rating": 1474.19
+    }
+  },
+  "PROGRESSiON": {
+    "cache": {
+      "Deviation": 91.51,
+      "Rating": 1467.75
+    },
+    "mirage": {
+      "Deviation": 37.82,
+      "Rating": 1456.34
+    },
+    "overpass": {
+      "Deviation": 96.1,
+      "Rating": 1411.08
+    }
+  },
+  "Parallax": {
+    "cache": {
+      "Deviation": 25.42,
+      "Rating": 1656.53
+    },
+    "cobblestone": {
+      "Deviation": 27.93,
+      "Rating": 1578.64
+    },
+    "dust2": {
+      "Deviation": 22.34,
+      "Rating": 1544.81
+    },
+    "mirage": {
+      "Deviation": 23.12,
+      "Rating": 1541.41
+    },
+    "overpass": {
+      "Deviation": 26.4,
+      "Rating": 1611.28
+    },
+    "train": {
+      "Deviation": 23.3,
+      "Rating": 1549.42
+    }
+  },
+  "Paranoia": {
+    "dust2": {
+      "Deviation": 54.35,
+      "Rating": 1355.39
+    },
+    "overpass": {
+      "Deviation": 54.14,
+      "Rating": 1280.4
+    },
+    "train": {
+      "Deviation": 56.39,
+      "Rating": 1404.75
+    }
+  },
+  "Pathless": {
+    "cache": {
+      "Deviation": 41.1,
+      "Rating": 1559.02
+    },
+    "dust2": {
+      "Deviation": 69.89,
+      "Rating": 1396.52
+    },
+    "mirage": {
+      "Deviation": 32.35,
+      "Rating": 1578.28
+    },
+    "overpass": {
+      "Deviation": 66.93,
+      "Rating": 1396.49
+    },
+    "train": {
+      "Deviation": 30.81,
+      "Rating": 1482.67
+    }
+  },
+  "PiTER": {
+    "cobblestone": {
+      "Deviation": 30.55,
+      "Rating": 1637.78
+    },
+    "mirage": {
+      "Deviation": 33.65,
+      "Rating": 1636.38
+    },
+    "nuke": {
+      "Deviation": 47.05,
+      "Rating": 1551.69
+    }
+  },
+  "Pixel": {
+    "cache": {
+      "Deviation": 23.74,
+      "Rating": 1513.07
+    },
+    "cobblestone": {
+      "Deviation": 31.65,
+      "Rating": 1548.97
+    },
+    "dust2": {
+      "Deviation": 25.15,
+      "Rating": 1516.48
+    },
+    "mirage": {
+      "Deviation": 24.21,
+      "Rating": 1589.31
+    },
+    "train": {
+      "Deviation": 48.17,
+      "Rating": 1584.52
+    }
+  },
+  "Planetkey": {
+    "cache": {
+      "Deviation": 59.1,
+      "Rating": 1614.35
+    },
+    "dust2": {
+      "Deviation": 43.69,
+      "Rating": 1594.83
+    },
+    "mirage": {
+      "Deviation": 59.1,
+      "Rating": 1614.35
+    }
+  },
+  "Platinium": {
+    "cache": {
+      "Deviation": 32.51,
+      "Rating": 1656.84
+    },
+    "cobblestone": {
+      "Deviation": 29.0,
+      "Rating": 1645.25
+    },
+    "dust2": {
+      "Deviation": 52.26,
+      "Rating": 1725.14
+    },
+    "inferno": {
+      "Deviation": 61.54,
+      "Rating": 1419.77
+    },
+    "mirage": {
+      "Deviation": 32.59,
+      "Rating": 1641.0
+    },
+    "overpass": {
+      "Deviation": 41.47,
+      "Rating": 1463.98
+    },
+    "train": {
+      "Deviation": 69.27,
+      "Rating": 1592.4
+    }
+  },
+  "Preparation": {
+    "cobblestone": {
+      "Deviation": 26.57,
+      "Rating": 1520.39
+    },
+    "dust2": {
+      "Deviation": 24.2,
+      "Rating": 1502.53
+    },
+    "mirage": {
+      "Deviation": 23.85,
+      "Rating": 1561.21
+    },
+    "nuke": {
+      "Deviation": 33.76,
+      "Rating": 1574.86
+    },
+    "overpass": {
+      "Deviation": 27.53,
+      "Rating": 1526.15
+    },
+    "train": {
+      "Deviation": 54.38,
+      "Rating": 1482.92
+    }
+  },
+  "Preparation.Yellow": {
+    "cache": {
+      "Deviation": 35.79,
+      "Rating": 1434.63
+    },
+    "cobblestone": {
+      "Deviation": 49.1,
+      "Rating": 1344.28
+    },
+    "mirage": {
+      "Deviation": 57.68,
+      "Rating": 1507.69
+    }
+  },
+  "Prime5": {
+    "cache": {
+      "Deviation": 63.63,
+      "Rating": 1413.05
+    },
+    "mirage": {
+      "Deviation": 58.61,
+      "Rating": 1360.43
+    },
+    "nuke": {
+      "Deviation": 58.15,
+      "Rating": 1353.29
+    }
+  },
+  "Pro Era": {
+    "cache": {
+      "Deviation": 42.87,
+      "Rating": 1655.58
+    },
+    "dust2": {
+      "Deviation": 64.31,
+      "Rating": 1444.25
+    },
+    "mirage": {
+      "Deviation": 57.3,
+      "Rating": 1564.73
+    },
+    "train": {
+      "Deviation": 81.9,
+      "Rating": 1835.86
+    }
+  },
+  "ProGaming": {
+    "cache": {
+      "Deviation": 45.63,
+      "Rating": 1556.27
+    },
+    "cobblestone": {
+      "Deviation": 38.35,
+      "Rating": 1654.7
+    },
+    "dust2": {
+      "Deviation": 72.57,
+      "Rating": 1652.14
+    },
+    "mirage": {
+      "Deviation": 28.08,
+      "Rating": 1594.74
+    },
+    "nuke": {
+      "Deviation": 66.38,
+      "Rating": 1593.34
+    },
+    "overpass": {
+      "Deviation": 41.1,
+      "Rating": 1568.01
+    },
+    "train": {
+      "Deviation": 47.05,
+      "Rating": 1531.86
+    }
+  },
+  "Project Lunacy": {
+    "cache": {
+      "Deviation": 53.82,
+      "Rating": 1540.28
+    },
+    "cobblestone": {
+      "Deviation": 65.84,
+      "Rating": 1416.51
+    },
+    "dust2": {
+      "Deviation": 77.24,
+      "Rating": 1741.26
+    },
+    "mirage": {
+      "Deviation": 41.09,
+      "Rating": 1599.5
+    }
+  },
+  "Property fe": {
+    "cache": {
+      "Deviation": 92.97,
+      "Rating": 1450.07
+    },
+    "dust2": {
+      "Deviation": 66.66,
+      "Rating": 1457.47
+    },
+    "overpass": {
+      "Deviation": 92.97,
+      "Rating": 1450.07
+    }
+  },
+  "PuDI": {
+    "mirage": {
+      "Deviation": 87.34,
+      "Rating": 1750.09
+    },
+    "nuke": {
+      "Deviation": 78.11,
+      "Rating": 1241.53
+    },
+    "train": {
+      "Deviation": 58.55,
+      "Rating": 1454.58
+    }
+  },
+  "PuddiPuddi": {
+    "nuke": {
+      "Deviation": 99.57,
+      "Rating": 1366.36
+    },
+    "overpass": {
+      "Deviation": 91.51,
+      "Rating": 1467.75
+    },
+    "train": {
+      "Deviation": 101.45,
+      "Rating": 1341.44
+    }
+  },
+  "Puppet5": {
+    "cobblestone": {
+      "Deviation": 54.18,
+      "Rating": 1317.94
+    },
+    "mirage": {
+      "Deviation": 54.18,
+      "Rating": 1317.94
+    },
+    "overpass": {
+      "Deviation": 79.01,
+      "Rating": 1223.53
+    }
+  },
+  "Quantum Bellator": {
+    "cache": {
+      "Deviation": 53.12,
+      "Rating": 1493.87
+    },
+    "cobblestone": {
+      "Deviation": 99.55,
+      "Rating": 1466.85
+    },
+    "dust2": {
+      "Deviation": 45.63,
+      "Rating": 1625.18
+    },
+    "mirage": {
+      "Deviation": 52.75,
+      "Rating": 1514.53
+    },
+    "overpass": {
+      "Deviation": 78.82,
+      "Rating": 1428.76
+    }
+  },
+  "Quantum Bellator Fire": {
+    "cobblestone": {
+      "Deviation": 99.57,
+      "Rating": 1633.64
+    },
+    "dust2": {
+      "Deviation": 33.82,
+      "Rating": 1609.93
+    },
+    "mirage": {
+      "Deviation": 26.44,
+      "Rating": 1557.04
+    },
+    "nuke": {
+      "Deviation": 38.63,
+      "Rating": 1555.26
+    },
+    "train": {
+      "Deviation": 34.8,
+      "Rating": 1720.52
+    }
+  },
+  "QuetzaL": {
+    "cache": {
+      "Deviation": 29.03,
+      "Rating": 1733.29
+    },
+    "cobblestone": {
+      "Deviation": 28.96,
+      "Rating": 1524.67
+    },
+    "dust2": {
+      "Deviation": 24.62,
+      "Rating": 1552.82
+    },
+    "mirage": {
+      "Deviation": 25.97,
+      "Rating": 1609.28
+    },
+    "overpass": {
+      "Deviation": 54.5,
+      "Rating": 1839.19
+    }
+  },
+  "QuietPlease": {
+    "cache": {
+      "Deviation": 39.54,
+      "Rating": 1279.22
+    },
+    "cobblestone": {
+      "Deviation": 76.4,
+      "Rating": 1275.2
+    },
+    "inferno": {
+      "Deviation": 48.86,
+      "Rating": 1331.27
+    },
+    "mirage": {
+      "Deviation": 47.77,
+      "Rating": 1000
+    }
+  },
+  "RCTIC": {
+    "cache": {
+      "Deviation": 53.79,
+      "Rating": 1461.0
+    },
+    "mirage": {
+      "Deviation": 53.79,
+      "Rating": 1461.0
+    },
+    "overpass": {
+      "Deviation": 53.79,
+      "Rating": 1461.0
+    }
+  },
+  "RED": {
+    "cobblestone": {
+      "Deviation": 68.08,
+      "Rating": 1374.52
+    }
+  },
+  "RED CANIDS": {
+    "cache": {
+      "Deviation": 50.7,
+      "Rating": 1502.99
+    },
+    "cobblestone": {
+      "Deviation": 52.8,
+      "Rating": 1345.97
+    },
+    "dust2": {
+      "Deviation": 35.75,
+      "Rating": 1513.44
+    },
+    "mirage": {
+      "Deviation": 48.25,
+      "Rating": 1402.83
+    },
+    "nuke": {
+      "Deviation": 40.4,
+      "Rating": 1486.35
+    },
+    "overpass": {
+      "Deviation": 59.54,
+      "Rating": 1864.34
+    }
+  },
+  "RHD": {
+    "dust2": {
+      "Deviation": 73.29,
+      "Rating": 1334.49
+    },
+    "mirage": {
+      "Deviation": 105.84,
+      "Rating": 2000
+    },
+    "train": {
+      "Deviation": 73.29,
+      "Rating": 1334.49
+    }
+  },
+  "RJ Absolute": {
+    "cache": {
+      "Deviation": 30.53,
+      "Rating": 1421.82
+    },
+    "cobblestone": {
+      "Deviation": 37.7,
+      "Rating": 1604.41
+    },
+    "dust2": {
+      "Deviation": 42.0,
+      "Rating": 1560.08
+    },
+    "mirage": {
+      "Deviation": 26.51,
+      "Rating": 1570.29
+    },
+    "overpass": {
+      "Deviation": 48.03,
+      "Rating": 1608.38
+    },
+    "train": {
+      "Deviation": 69.89,
+      "Rating": 1603.48
+    }
+  },
+  "RONIN": {
+    "cobblestone": {
+      "Deviation": 59.49,
+      "Rating": 1513.63
+    },
+    "dust2": {
+      "Deviation": 74.8,
+      "Rating": 1306.07
+    },
+    "mirage": {
+      "Deviation": 30.29,
+      "Rating": 1478.57
+    },
+    "nuke": {
+      "Deviation": 54.3,
+      "Rating": 1445.33
+    },
+    "overpass": {
+      "Deviation": 59.49,
+      "Rating": 1513.63
+    },
+    "train": {
+      "Deviation": 51.52,
+      "Rating": 1418.25
+    }
+  },
+  "Radical": {
+    "train": {
+      "Deviation": 73.72,
+      "Rating": 1364.49
+    }
+  },
+  "Rampage Killers": {
+    "cache": {
+      "Deviation": 56.93,
+      "Rating": 1506.24
+    },
+    "cobblestone": {
+      "Deviation": 56.93,
+      "Rating": 1506.24
+    },
+    "mirage": {
+      "Deviation": 56.93,
+      "Rating": 1506.24
+    }
+  },
+  "Rascal Jester": {
+    "nuke": {
+      "Deviation": 107.81,
+      "Rating": 1253.78
+    }
+  },
+  "ReVamped": {
+    "cache": {
+      "Deviation": 80.9,
+      "Rating": 1184.9
+    },
+    "dust2": {
+      "Deviation": 80.9,
+      "Rating": 1184.9
+    },
+    "overpass": {
+      "Deviation": 80.9,
+      "Rating": 1184.9
+    }
+  },
+  "Reason fe": {
+    "cache": {
+      "Deviation": 31.72,
+      "Rating": 1575.4
+    },
+    "dust2": {
+      "Deviation": 48.6,
+      "Rating": 1581.56
+    },
+    "nuke": {
+      "Deviation": 46.23,
+      "Rating": 1492.67
+    },
+    "overpass": {
+      "Deviation": 75.58,
+      "Rating": 1290.96
+    },
+    "train": {
+      "Deviation": 36.77,
+      "Rating": 1630.98
+    }
+  },
+  "Reawakened": {
+    "dust2": {
+      "Deviation": 101.45,
+      "Rating": 1341.44
+    }
+  },
+  "Rebellion": {
+    "cache": {
+      "Deviation": 34.52,
+      "Rating": 1565.19
+    },
+    "cobblestone": {
+      "Deviation": 38.07,
+      "Rating": 1619.59
+    },
+    "mirage": {
+      "Deviation": 29.93,
+      "Rating": 1434.15
+    },
+    "nuke": {
+      "Deviation": 57.63,
+      "Rating": 1429.65
+    },
+    "train": {
+      "Deviation": 74.8,
+      "Rating": 1693.93
+    }
+  },
+  "Rebels": {
+    "cobblestone": {
+      "Deviation": 49.71,
+      "Rating": 1354.82
+    },
+    "dust2": {
+      "Deviation": 70.54,
+      "Rating": 1385.03
+    },
+    "inferno": {
+      "Deviation": 70.54,
+      "Rating": 1385.03
+    }
+  },
+  "Recca": {
+    "cache": {
+      "Deviation": 73.29,
+      "Rating": 1334.49
+    },
+    "cobblestone": {
+      "Deviation": 73.29,
+      "Rating": 1334.49
+    },
+    "train": {
+      "Deviation": 73.29,
+      "Rating": 1334.49
+    }
+  },
+  "Red Instinct": {
+    "cache": {
+      "Deviation": 28.18,
+      "Rating": 1526.14
+    },
+    "cobblestone": {
+      "Deviation": 37.77,
+      "Rating": 1478.62
+    },
+    "dust2": {
+      "Deviation": 31.26,
+      "Rating": 1555.66
+    },
+    "nuke": {
+      "Deviation": 99.57,
+      "Rating": 1366.36
+    },
+    "overpass": {
+      "Deviation": 60.69,
+      "Rating": 1535.47
+    },
+    "train": {
+      "Deviation": 55.61,
+      "Rating": 1517.87
+    }
+  },
+  "Refuse": {
+    "cache": {
+      "Deviation": 91.51,
+      "Rating": 1532.25
+    }
+  },
+  "Remo Brave": {
+    "cache": {
+      "Deviation": 64.14,
+      "Rating": 1417.96
+    },
+    "cobblestone": {
+      "Deviation": 50.27,
+      "Rating": 1569.56
+    },
+    "dust2": {
+      "Deviation": 58.18,
+      "Rating": 1262.23
+    },
+    "overpass": {
+      "Deviation": 107.81,
+      "Rating": 1746.22
+    },
+    "train": {
+      "Deviation": 51.21,
+      "Rating": 1304.42
+    }
+  },
+  "Renegades": {
+    "cobblestone": {
+      "Deviation": 25.18,
+      "Rating": 1719.69
+    },
+    "dust2": {
+      "Deviation": 37.82,
+      "Rating": 1714.11
+    },
+    "mirage": {
+      "Deviation": 25.75,
+      "Rating": 1629.69
+    },
+    "nuke": {
+      "Deviation": 31.71,
+      "Rating": 1837.58
+    },
+    "train": {
+      "Deviation": 25.72,
+      "Rating": 1612.25
+    }
+  },
+  "RevivaL": {
+    "dust2": {
+      "Deviation": 45.35,
+      "Rating": 1355.31
+    },
+    "overpass": {
+      "Deviation": 64.31,
+      "Rating": 1444.25
+    },
+    "train": {
+      "Deviation": 46.23,
+      "Rating": 1564.36
+    }
+  },
+  "Revolte": {
+    "cache": {
+      "Deviation": 45.93,
+      "Rating": 1571.5
+    },
+    "cobblestone": {
+      "Deviation": 40.43,
+      "Rating": 1416.77
+    },
+    "dust2": {
+      "Deviation": 36.03,
+      "Rating": 1406.87
+    },
+    "mirage": {
+      "Deviation": 28.28,
+      "Rating": 1486.24
+    },
+    "train": {
+      "Deviation": 69.89,
+      "Rating": 1396.52
+    }
+  },
+  "Rippers": {
+    "cache": {
+      "Deviation": 55.61,
+      "Rating": 1541.69
+    },
+    "dust2": {
+      "Deviation": 34.06,
+      "Rating": 1526.14
+    },
+    "mirage": {
+      "Deviation": 55.61,
+      "Rating": 1541.69
+    },
+    "nuke": {
+      "Deviation": 61.54,
+      "Rating": 1376.01
+    },
+    "overpass": {
+      "Deviation": 41.86,
+      "Rating": 1435.67
+    }
+  },
+  "Risky": {
+    "cobblestone": {
+      "Deviation": 27.57,
+      "Rating": 1592.18
+    },
+    "dust2": {
+      "Deviation": 23.72,
+      "Rating": 1612.33
+    },
+    "mirage": {
+      "Deviation": 23.22,
+      "Rating": 1608.66
+    },
+    "nuke": {
+      "Deviation": 61.54,
+      "Rating": 1623.99
+    },
+    "overpass": {
+      "Deviation": 30.57,
+      "Rating": 1576.91
+    },
+    "train": {
+      "Deviation": 26.98,
+      "Rating": 1614.47
+    }
+  },
+  "RivaL": {
+    "dust2": {
+      "Deviation": 44.55,
+      "Rating": 1578.16
+    },
+    "mirage": {
+      "Deviation": 43.99,
+      "Rating": 1562.99
+    },
+    "train": {
+      "Deviation": 42.45,
+      "Rating": 1492.9
+    }
+  },
+  "RoX": {
+    "cobblestone": {
+      "Deviation": 99.57,
+      "Rating": 1633.64
+    },
+    "overpass": {
+      "Deviation": 56.25,
+      "Rating": 1344.09
+    }
+  },
+  "Rogue": {
+    "cache": {
+      "Deviation": 22.52,
+      "Rating": 1579.36
+    },
+    "cobblestone": {
+      "Deviation": 27.67,
+      "Rating": 1586.38
+    },
+    "dust2": {
+      "Deviation": 76.93,
+      "Rating": 2000
+    },
+    "mirage": {
+      "Deviation": 21.38,
+      "Rating": 1663.89
+    },
+    "nuke": {
+      "Deviation": 32.43,
+      "Rating": 1623.09
+    },
+    "overpass": {
+      "Deviation": 25.66,
+      "Rating": 1603.98
+    },
+    "train": {
+      "Deviation": 22.89,
+      "Rating": 1614.74
+    }
+  },
+  "Rush": {
+    "mirage": {
+      "Deviation": 41.65,
+      "Rating": 1583.9
+    },
+    "overpass": {
+      "Deviation": 41.32,
+      "Rating": 1511.79
+    },
+    "train": {
+      "Deviation": 41.12,
+      "Rating": 1538.61
+    }
+  },
+  "RvN": {
+    "cache": {
+      "Deviation": 79.35,
+      "Rating": 1787.86
+    },
+    "cobblestone": {
+      "Deviation": 46.13,
+      "Rating": 1669.04
+    },
+    "default": {
+      "Deviation": 118.51,
+      "Rating": 1959.8
+    },
+    "dust2": {
+      "Deviation": 33.07,
+      "Rating": 1567.51
+    },
+    "overpass": {
+      "Deviation": 69.27,
+      "Rating": 1555.44
+    },
+    "train": {
+      "Deviation": 41.29,
+      "Rating": 1484.87
+    }
+  },
+  "SHAAVEJI": {
+    "cache": {
+      "Deviation": 41.67,
+      "Rating": 1834.02
+    },
+    "cobblestone": {
+      "Deviation": 73.29,
+      "Rating": 1665.51
+    },
+    "dust2": {
+      "Deviation": 64.31,
+      "Rating": 1555.75
+    },
+    "mirage": {
+      "Deviation": 65.34,
+      "Rating": 2000
+    },
+    "overpass": {
+      "Deviation": 73.29,
+      "Rating": 1665.51
+    }
+  },
+  "SK": {
+    "cache": {
+      "Deviation": 23.89,
+      "Rating": 1590.62
+    },
+    "cobblestone": {
+      "Deviation": 22.2,
+      "Rating": 1668.74
+    },
+    "dust2": {
+      "Deviation": 23.24,
+      "Rating": 1674.78
+    },
+    "inferno": {
+      "Deviation": 57.63,
+      "Rating": 1557.56
+    },
+    "mirage": {
+      "Deviation": 21.1,
+      "Rating": 1601.74
+    },
+    "nuke": {
+      "Deviation": 22.73,
+      "Rating": 1647.4
+    },
+    "overpass": {
+      "Deviation": 21.61,
+      "Rating": 1640.1
+    },
+    "train": {
+      "Deviation": 20.72,
+      "Rating": 1647.21
+    }
+  },
+  "SKDC": {
+    "cache": {
+      "Deviation": 37.28,
+      "Rating": 1528.66
+    },
+    "cobblestone": {
+      "Deviation": 56.93,
+      "Rating": 1568.66
+    },
+    "dust2": {
+      "Deviation": 37.73,
+      "Rating": 1410.32
+    },
+    "inferno": {
+      "Deviation": 69.89,
+      "Rating": 1396.52
+    }
+  },
+  "SSU White": {
+    "mirage": {
+      "Deviation": 102.11,
+      "Rating": 1401.64
+    },
+    "train": {
+      "Deviation": 83.51,
+      "Rating": 1164.22
+    }
+  },
+  "STORM.CN": {
+    "dust2": {
+      "Deviation": 76.67,
+      "Rating": 1559.59
+    }
+  },
+  "STRONG3R": {
+    "train": {
+      "Deviation": 96.1,
+      "Rating": 1588.92
+    }
+  },
+  "SV": {
+    "dust2": {
+      "Deviation": 68.66,
+      "Rating": 1418.29
+    },
+    "mirage": {
+      "Deviation": 68.66,
+      "Rating": 1418.29
+    },
+    "train": {
+      "Deviation": 68.66,
+      "Rating": 1418.29
+    }
+  },
+  "SYF": {
+    "cache": {
+      "Deviation": 34.08,
+      "Rating": 1558.5
+    },
+    "cobblestone": {
+      "Deviation": 29.79,
+      "Rating": 1540.63
+    },
+    "dust2": {
+      "Deviation": 23.87,
+      "Rating": 1477.09
+    },
+    "mirage": {
+      "Deviation": 26.77,
+      "Rating": 1468.09
+    },
+    "nuke": {
+      "Deviation": 48.94,
+      "Rating": 1320.08
+    },
+    "overpass": {
+      "Deviation": 34.44,
+      "Rating": 1419.89
+    },
+    "train": {
+      "Deviation": 50.55,
+      "Rating": 1351.38
+    }
+  },
+  "Sabertooth": {
+    "cache": {
+      "Deviation": 50.61,
+      "Rating": 1534.19
+    },
+    "cobblestone": {
+      "Deviation": 56.64,
+      "Rating": 1449.7
+    },
+    "dust2": {
+      "Deviation": 29.5,
+      "Rating": 1439.56
+    },
+    "mirage": {
+      "Deviation": 25.22,
+      "Rating": 1479.19
+    },
+    "nuke": {
+      "Deviation": 36.06,
+      "Rating": 1402.71
+    },
+    "overpass": {
+      "Deviation": 97.79,
+      "Rating": 1610.49
+    },
+    "train": {
+      "Deviation": 53.36,
+      "Rating": 1588.17
+    }
+  },
+  "Savor the Fear": {
+    "cache": {
+      "Deviation": 32.21,
+      "Rating": 1513.27
+    },
+    "dust2": {
+      "Deviation": 31.36,
+      "Rating": 1539.79
+    },
+    "mirage": {
+      "Deviation": 27.91,
+      "Rating": 1566.05
+    },
+    "overpass": {
+      "Deviation": 50.41,
+      "Rating": 1341.16
+    }
+  },
+  "Secret fe": {
+    "cache": {
+      "Deviation": 49.03,
+      "Rating": 1735.89
+    },
+    "dust2": {
+      "Deviation": 56.4,
+      "Rating": 1696.79
+    },
+    "mirage": {
+      "Deviation": 63.05,
+      "Rating": 1000
+    },
+    "overpass": {
+      "Deviation": 38.36,
+      "Rating": 1649.23
+    },
+    "train": {
+      "Deviation": 43.78,
+      "Rating": 1431.83
+    }
+  },
+  "Sector One": {
+    "cache": {
+      "Deviation": 62.42,
+      "Rating": 1522.51
+    },
+    "cobblestone": {
+      "Deviation": 50.14,
+      "Rating": 1427.71
+    },
+    "dust2": {
+      "Deviation": 39.22,
+      "Rating": 1411.5
+    },
+    "mirage": {
+      "Deviation": 48.03,
+      "Rating": 1442.81
+    },
+    "nuke": {
+      "Deviation": 48.5,
+      "Rating": 1387.64
+    }
+  },
+  "Selfless": {
+    "cache": {
+      "Deviation": 68.66,
+      "Rating": 1581.71
+    },
+    "cobblestone": {
+      "Deviation": 48.02,
+      "Rating": 1644.77
+    },
+    "dust2": {
+      "Deviation": 24.59,
+      "Rating": 1654.1
+    },
+    "mirage": {
+      "Deviation": 21.49,
+      "Rating": 1749.93
+    },
+    "overpass": {
+      "Deviation": 26.86,
+      "Rating": 1450.55
+    },
+    "train": {
+      "Deviation": 23.88,
+      "Rating": 1664.2
+    }
+  },
+  "Selfless fe": {
+    "cobblestone": {
+      "Deviation": 48.4,
+      "Rating": 1601.33
+    },
+    "mirage": {
+      "Deviation": 53.78,
+      "Rating": 1490.31
+    },
+    "nuke": {
+      "Deviation": 62.92,
+      "Rating": 1701.64
+    },
+    "overpass": {
+      "Deviation": 34.07,
+      "Rating": 1638.31
+    },
+    "train": {
+      "Deviation": 42.48,
+      "Rating": 1414.76
+    }
+  },
+  "SetToDestroyX": {
+    "cache": {
+      "Deviation": 41.1,
+      "Rating": 1394.28
+    },
+    "mirage": {
+      "Deviation": 43.8,
+      "Rating": 1486.93
+    },
+    "nuke": {
+      "Deviation": 58.35,
+      "Rating": 1467.22
+    }
+  },
+  "Shadows": {
+    "dust2": {
+      "Deviation": 68.66,
+      "Rating": 1636.18
+    },
+    "mirage": {
+      "Deviation": 54.03,
+      "Rating": 1649.64
+    },
+    "nuke": {
+      "Deviation": 99.57,
+      "Rating": 1633.64
+    },
+    "train": {
+      "Deviation": 57.25,
+      "Rating": 1624.72
+    }
+  },
+  "Sharksys": {
+    "cache": {
+      "Deviation": 68.98,
+      "Rating": 1386.84
+    }
+  },
+  "Shukufuku Sunshine": {
+    "cache": {
+      "Deviation": 43.11,
+      "Rating": 1694.59
+    },
+    "cobblestone": {
+      "Deviation": 76.4,
+      "Rating": 1275.2
+    },
+    "dust2": {
+      "Deviation": 55.61,
+      "Rating": 1541.69
+    },
+    "mirage": {
+      "Deviation": 27.53,
+      "Rating": 1557.01
+    },
+    "overpass": {
+      "Deviation": 38.9,
+      "Rating": 1649.62
+    },
+    "train": {
+      "Deviation": 38.94,
+      "Rating": 1616.27
+    }
+  },
+  "Signature": {
+    "cache": {
+      "Deviation": 23.33,
+      "Rating": 1593.61
+    },
+    "cobblestone": {
+      "Deviation": 50.69,
+      "Rating": 1797.32
+    },
+    "dust2": {
+      "Deviation": 24.26,
+      "Rating": 1588.8
+    },
+    "mirage": {
+      "Deviation": 22.97,
+      "Rating": 1621.42
+    },
+    "nuke": {
+      "Deviation": 39.88,
+      "Rating": 1529.95
+    },
+    "overpass": {
+      "Deviation": 27.1,
+      "Rating": 1624.08
+    },
+    "train": {
+      "Deviation": 25.24,
+      "Rating": 1620.22
+    }
+  },
+  "Singapore": {
+    "cache": {
+      "Deviation": 83.08,
+      "Rating": 1336.6
+    },
+    "dust2": {
+      "Deviation": 39.91,
+      "Rating": 1505.46
+    },
+    "mirage": {
+      "Deviation": 38.32,
+      "Rating": 1396.15
+    },
+    "train": {
+      "Deviation": 47.08,
+      "Rating": 1690.03
+    }
+  },
+  "Singularity": {
+    "cache": {
+      "Deviation": 27.57,
+      "Rating": 1559.7
+    },
+    "cobblestone": {
+      "Deviation": 85.81,
+      "Rating": 2000
+    },
+    "dust2": {
+      "Deviation": 37.91,
+      "Rating": 1532.63
+    },
+    "mirage": {
+      "Deviation": 22.85,
+      "Rating": 1638.21
+    },
+    "nuke": {
+      "Deviation": 26.22,
+      "Rating": 1473.47
+    },
+    "overpass": {
+      "Deviation": 39.18,
+      "Rating": 1584.21
+    },
+    "train": {
+      "Deviation": 32.81,
+      "Rating": 1594.82
+    }
+  },
+  "SkitLite": {
+    "cache": {
+      "Deviation": 73.29,
+      "Rating": 1665.51
+    },
+    "dust2": {
+      "Deviation": 53.82,
+      "Rating": 1428.31
+    },
+    "mirage": {
+      "Deviation": 44.72,
+      "Rating": 1464.02
+    },
+    "overpass": {
+      "Deviation": 76.4,
+      "Rating": 1275.2
+    },
+    "train": {
+      "Deviation": 73.29,
+      "Rating": 1665.51
+    }
+  },
+  "Skyfire": {
+    "cache": {
+      "Deviation": 48.9,
+      "Rating": 1377.73
+    },
+    "cobblestone": {
+      "Deviation": 22.73,
+      "Rating": 1610.82
+    },
+    "dust2": {
+      "Deviation": 23.46,
+      "Rating": 1592.35
+    },
+    "mirage": {
+      "Deviation": 29.06,
+      "Rating": 1507.75
+    },
+    "nuke": {
+      "Deviation": 70.62,
+      "Rating": 1465.32
+    },
+    "overpass": {
+      "Deviation": 28.21,
+      "Rating": 1579.0
+    },
+    "train": {
+      "Deviation": 53.5,
+      "Rating": 1533.08
+    }
+  },
+  "Sneaky Assasins": {
+    "cobblestone": {
+      "Deviation": 49.07,
+      "Rating": 1504.52
+    },
+    "dust2": {
+      "Deviation": 67.49,
+      "Rating": 1385.97
+    },
+    "mirage": {
+      "Deviation": 91.51,
+      "Rating": 1532.25
+    },
+    "overpass": {
+      "Deviation": 47.84,
+      "Rating": 1333.34
+    }
+  },
+  "South Africa": {
+    "cache": {
+      "Deviation": 118.51,
+      "Rating": 1094.3
+    },
+    "cobblestone": {
+      "Deviation": 83.77,
+      "Rating": 1226.01
+    },
+    "dust2": {
+      "Deviation": 72.42,
+      "Rating": 1311.77
+    },
+    "mirage": {
+      "Deviation": 92.61,
+      "Rating": 1328.45
+    }
+  },
+  "Space Academy": {
+    "dust2": {
+      "Deviation": 110.21,
+      "Rating": 1219.3
+    }
+  },
+  "Space Soldiers": {
+    "cache": {
+      "Deviation": 24.71,
+      "Rating": 1460.86
+    },
+    "cobblestone": {
+      "Deviation": 21.7,
+      "Rating": 1553.26
+    },
+    "dust2": {
+      "Deviation": 22.68,
+      "Rating": 1489.74
+    },
+    "inferno": {
+      "Deviation": 63.35,
+      "Rating": 1322.27
+    },
+    "mirage": {
+      "Deviation": 21.74,
+      "Rating": 1601.9
+    },
+    "nuke": {
+      "Deviation": 42.93,
+      "Rating": 1527.54
+    },
+    "overpass": {
+      "Deviation": 34.76,
+      "Rating": 1438.39
+    },
+    "train": {
+      "Deviation": 22.48,
+      "Rating": 1502.05
+    }
+  },
+  "Spirit": {
+    "cache": {
+      "Deviation": 26.78,
+      "Rating": 1511.34
+    },
+    "cobblestone": {
+      "Deviation": 27.46,
+      "Rating": 1405.16
+    },
+    "dust2": {
+      "Deviation": 24.19,
+      "Rating": 1588.71
+    },
+    "mirage": {
+      "Deviation": 23.69,
+      "Rating": 1594.06
+    },
+    "overpass": {
+      "Deviation": 31.51,
+      "Rating": 1565.17
+    }
+  },
+  "Splyce": {
+    "cache": {
+      "Deviation": 77.24,
+      "Rating": 1741.26
+    },
+    "cobblestone": {
+      "Deviation": 25.22,
+      "Rating": 1601.09
+    },
+    "dust2": {
+      "Deviation": 77.24,
+      "Rating": 1741.26
+    },
+    "mirage": {
+      "Deviation": 26.94,
+      "Rating": 1575.52
+    },
+    "overpass": {
+      "Deviation": 26.18,
+      "Rating": 1557.03
+    },
+    "train": {
+      "Deviation": 27.31,
+      "Rating": 1574.41
+    }
+  },
+  "Sweden": {
+    "cache": {
+      "Deviation": 30.95,
+      "Rating": 1660.98
+    },
+    "dust2": {
+      "Deviation": 84.35,
+      "Rating": 1911.78
+    },
+    "mirage": {
+      "Deviation": 34.68,
+      "Rating": 1501.56
+    },
+    "overpass": {
+      "Deviation": 38.09,
+      "Rating": 1630.79
+    }
+  },
+  "SweetNSour": {
+    "mirage": {
+      "Deviation": 57.79,
+      "Rating": 1272.91
+    },
+    "overpass": {
+      "Deviation": 58.01,
+      "Rating": 1282.83
+    },
+    "train": {
+      "Deviation": 64.89,
+      "Rating": 1367.28
+    }
+  },
+  "Swift": {
+    "mirage": {
+      "Deviation": 54.08,
+      "Rating": 1429.15
+    },
+    "overpass": {
+      "Deviation": 103.44,
+      "Rating": 1685.46
+    }
+  },
+  "S\u00f8rby": {
+    "cache": {
+      "Deviation": 74.41,
+      "Rating": 1545.67
+    },
+    "dust2": {
+      "Deviation": 99.42,
+      "Rating": 1000
+    },
+    "overpass": {
+      "Deviation": 107.81,
+      "Rating": 1253.78
+    }
+  },
+  "TES": {
+    "cache": {
+      "Deviation": 57.99,
+      "Rating": 1616.55
+    },
+    "cobblestone": {
+      "Deviation": 57.99,
+      "Rating": 1616.55
+    },
+    "dust2": {
+      "Deviation": 57.99,
+      "Rating": 1616.55
+    },
+    "mirage": {
+      "Deviation": 57.99,
+      "Rating": 1616.55
+    },
+    "nuke": {
+      "Deviation": 57.99,
+      "Rating": 1616.55
+    }
+  },
+  "TINPLATE": {
+    "mirage": {
+      "Deviation": 94.49,
+      "Rating": 1431.22
+    }
+  },
+  "TRIDENT": {
+    "cache": {
+      "Deviation": 45.72,
+      "Rating": 1568.84
+    },
+    "cobblestone": {
+      "Deviation": 57.41,
+      "Rating": 1852.09
+    },
+    "dust2": {
+      "Deviation": 35.32,
+      "Rating": 1470.15
+    },
+    "mirage": {
+      "Deviation": 26.68,
+      "Rating": 1474.27
+    },
+    "train": {
+      "Deviation": 34.78,
+      "Rating": 1487.49
+    }
+  },
+  "TSM": {
+    "cobblestone": {
+      "Deviation": 37.27,
+      "Rating": 1597.36
+    },
+    "dust2": {
+      "Deviation": 34.96,
+      "Rating": 1701.95
+    },
+    "mirage": {
+      "Deviation": 26.49,
+      "Rating": 1604.48
+    },
+    "nuke": {
+      "Deviation": 35.49,
+      "Rating": 1590.24
+    },
+    "train": {
+      "Deviation": 27.95,
+      "Rating": 1537.05
+    }
+  },
+  "TShow": {
+    "cobblestone": {
+      "Deviation": 38.68,
+      "Rating": 1767.27
+    },
+    "dust2": {
+      "Deviation": 41.31,
+      "Rating": 1620.52
+    },
+    "mirage": {
+      "Deviation": 23.83,
+      "Rating": 1544.58
+    },
+    "overpass": {
+      "Deviation": 27.83,
+      "Rating": 1621.52
+    },
+    "train": {
+      "Deviation": 28.39,
+      "Rating": 1619.73
+    }
+  },
+  "TYSKER": {
+    "cache": {
+      "Deviation": 77.24,
+      "Rating": 1258.74
+    },
+    "cobblestone": {
+      "Deviation": 77.24,
+      "Rating": 1258.74
+    },
+    "overpass": {
+      "Deviation": 77.24,
+      "Rating": 1258.74
+    }
+  },
+  "Taiwan Z": {
+    "cache": {
+      "Deviation": 53.45,
+      "Rating": 1480.46
+    },
+    "dust2": {
+      "Deviation": 52.66,
+      "Rating": 1393.81
+    },
+    "mirage": {
+      "Deviation": 37.29,
+      "Rating": 1468.29
+    },
+    "train": {
+      "Deviation": 91.28,
+      "Rating": 2000
+    }
+  },
+  "TamuluS": {
+    "cache": {
+      "Deviation": 63.48,
+      "Rating": 1389.96
+    }
+  },
+  "Team of Miracles": {
+    "cache": {
+      "Deviation": 58.35,
+      "Rating": 1427.88
+    },
+    "dust2": {
+      "Deviation": 58.35,
+      "Rating": 1427.88
+    },
+    "mirage": {
+      "Deviation": 58.35,
+      "Rating": 1427.88
+    }
+  },
+  "Team123": {
+    "nuke": {
+      "Deviation": 72.61,
+      "Rating": 1475.3
+    }
+  },
+  "TeamOne": {
+    "cobblestone": {
+      "Deviation": 27.0,
+      "Rating": 1589.37
+    },
+    "dust2": {
+      "Deviation": 21.47,
+      "Rating": 1603.05
+    },
+    "mirage": {
+      "Deviation": 21.63,
+      "Rating": 1582.46
+    },
+    "nuke": {
+      "Deviation": 66.38,
+      "Rating": 1406.66
+    },
+    "overpass": {
+      "Deviation": 35.32,
+      "Rating": 1547.49
+    },
+    "train": {
+      "Deviation": 23.86,
+      "Rating": 1515.79
+    }
+  },
+  "Tectonic": {
+    "cache": {
+      "Deviation": 51.82,
+      "Rating": 1557.22
+    },
+    "mirage": {
+      "Deviation": 43.54,
+      "Rating": 1472.17
+    },
+    "overpass": {
+      "Deviation": 51.31,
+      "Rating": 1545.97
+    }
+  },
+  "Temp.no": {
+    "dust2": {
+      "Deviation": 37.78,
+      "Rating": 1578.38
+    },
+    "inferno": {
+      "Deviation": 54.08,
+      "Rating": 1500.0
+    },
+    "mirage": {
+      "Deviation": 31.49,
+      "Rating": 1584.74
+    },
+    "nuke": {
+      "Deviation": 39.81,
+      "Rating": 1561.24
+    },
+    "overpass": {
+      "Deviation": 54.08,
+      "Rating": 1500.0
+    },
+    "train": {
+      "Deviation": 23.23,
+      "Rating": 1492.16
+    }
+  },
+  "Tengri": {
+    "cache": {
+      "Deviation": 31.12,
+      "Rating": 1526.69
+    },
+    "cobblestone": {
+      "Deviation": 27.58,
+      "Rating": 1445.06
+    },
+    "dust2": {
+      "Deviation": 43.14,
+      "Rating": 1609.78
+    },
+    "mirage": {
+      "Deviation": 24.84,
+      "Rating": 1563.76
+    },
+    "overpass": {
+      "Deviation": 28.35,
+      "Rating": 1479.23
+    },
+    "train": {
+      "Deviation": 28.24,
+      "Rating": 1438.41
+    }
+  },
+  "ThaiFrilla": {
+    "cache": {
+      "Deviation": 52.06,
+      "Rating": 1542.34
+    },
+    "cobblestone": {
+      "Deviation": 39.71,
+      "Rating": 1491.52
+    },
+    "dust2": {
+      "Deviation": 39.53,
+      "Rating": 1482.94
+    },
+    "mirage": {
+      "Deviation": 39.33,
+      "Rating": 1448.19
+    }
+  },
+  "The Burgermen": {
+    "mirage": {
+      "Deviation": 66.32,
+      "Rating": 1435.24
+    }
+  },
+  "The Trash Pandas": {
+    "mirage": {
+      "Deviation": 115.54,
+      "Rating": 1140.09
+    }
+  },
+  "The Untouchables": {
+    "cache": {
+      "Deviation": 73.01,
+      "Rating": 1333.93
+    },
+    "cobblestone": {
+      "Deviation": 67.04,
+      "Rating": 1152.87
+    },
+    "mirage": {
+      "Deviation": 41.93,
+      "Rating": 1440.51
+    }
+  },
+  "TheMongolz": {
+    "cache": {
+      "Deviation": 21.73,
+      "Rating": 1634.07
+    },
+    "cobblestone": {
+      "Deviation": 21.21,
+      "Rating": 1681.33
+    },
+    "default": {
+      "Deviation": 46.98,
+      "Rating": 1474.5
+    },
+    "dust2": {
+      "Deviation": 21.96,
+      "Rating": 1665.39
+    },
+    "mirage": {
+      "Deviation": 20.77,
+      "Rating": 1680.02
+    },
+    "overpass": {
+      "Deviation": 22.35,
+      "Rating": 1635.66
+    },
+    "train": {
+      "Deviation": 37.37,
+      "Rating": 1773.23
+    }
+  },
+  "TheOwls": {
+    "mirage": {
+      "Deviation": 57.97,
+      "Rating": 1432.15
+    }
+  },
+  "Threats": {
+    "cache": {
+      "Deviation": 58.38,
+      "Rating": 1643.55
+    },
+    "cobblestone": {
+      "Deviation": 46.34,
+      "Rating": 1630.73
+    },
+    "dust2": {
+      "Deviation": 41.15,
+      "Rating": 1461.05
+    },
+    "mirage": {
+      "Deviation": 66.26,
+      "Rating": 1593.1
+    },
+    "nuke": {
+      "Deviation": 58.38,
+      "Rating": 1643.55
+    },
+    "overpass": {
+      "Deviation": 86.31,
+      "Rating": 1824.62
+    },
+    "train": {
+      "Deviation": 63.72,
+      "Rating": 1418.29
+    }
+  },
+  "TomorrowLAN": {
+    "dust2": {
+      "Deviation": 38.06,
+      "Rating": 1524.03
+    },
+    "overpass": {
+      "Deviation": 54.08,
+      "Rating": 1488.74
+    },
+    "train": {
+      "Deviation": 40.1,
+      "Rating": 1340.89
+    }
+  },
+  "Torpedo": {
+    "cache": {
+      "Deviation": 41.52,
+      "Rating": 1510.05
+    },
+    "cobblestone": {
+      "Deviation": 40.55,
+      "Rating": 1601.72
+    },
+    "dust2": {
+      "Deviation": 53.22,
+      "Rating": 1549.09
+    },
+    "mirage": {
+      "Deviation": 43.53,
+      "Rating": 1458.4
+    },
+    "overpass": {
+      "Deviation": 53.22,
+      "Rating": 1549.09
+    },
+    "train": {
+      "Deviation": 44.24,
+      "Rating": 1581.36
+    }
+  },
+  "TransacT": {
+    "cache": {
+      "Deviation": 78.11,
+      "Rating": 1241.53
+    },
+    "dust2": {
+      "Deviation": 78.11,
+      "Rating": 1241.53
+    },
+    "overpass": {
+      "Deviation": 78.11,
+      "Rating": 1241.53
+    }
+  },
+  "Tricked": {
+    "cache": {
+      "Deviation": 28.43,
+      "Rating": 1454.5
+    },
+    "cobblestone": {
+      "Deviation": 24.5,
+      "Rating": 1559.19
+    },
+    "dust2": {
+      "Deviation": 24.77,
+      "Rating": 1599.88
+    },
+    "inferno": {
+      "Deviation": 44.37,
+      "Rating": 1592.84
+    },
+    "mirage": {
+      "Deviation": 24.83,
+      "Rating": 1702.58
+    },
+    "nuke": {
+      "Deviation": 26.9,
+      "Rating": 1561.39
+    },
+    "overpass": {
+      "Deviation": 30.0,
+      "Rating": 1662.69
+    },
+    "train": {
+      "Deviation": 30.11,
+      "Rating": 1621.92
+    }
+  },
+  "Tunisia": {
+    "cache": {
+      "Deviation": 47.75,
+      "Rating": 1470.22
+    },
+    "cobblestone": {
+      "Deviation": 83.78,
+      "Rating": 1305.3
+    },
+    "dust2": {
+      "Deviation": 83.96,
+      "Rating": 1316.46
+    },
+    "mirage": {
+      "Deviation": 99.51,
+      "Rating": 1468.48
+    },
+    "train": {
+      "Deviation": 75.64,
+      "Rating": 1339.04
+    }
+  },
+  "Turkey": {
+    "cache": {
+      "Deviation": 52.48,
+      "Rating": 1682.29
+    },
+    "cobblestone": {
+      "Deviation": 32.79,
+      "Rating": 1621.15
+    },
+    "dust2": {
+      "Deviation": 42.62,
+      "Rating": 1728.08
+    },
+    "mirage": {
+      "Deviation": 82.48,
+      "Rating": 1692.16
+    },
+    "nuke": {
+      "Deviation": 54.98,
+      "Rating": 1529.11
+    },
+    "overpass": {
+      "Deviation": 30.19,
+      "Rating": 1500.0
+    },
+    "train": {
+      "Deviation": 38.99,
+      "Rating": 1752.4
+    }
+  },
+  "TyLoo": {
+    "cache": {
+      "Deviation": 21.71,
+      "Rating": 1725.04
+    },
+    "cobblestone": {
+      "Deviation": 23.83,
+      "Rating": 1736.22
+    },
+    "dust2": {
+      "Deviation": 23.48,
+      "Rating": 1576.11
+    },
+    "mirage": {
+      "Deviation": 24.09,
+      "Rating": 1602.18
+    },
+    "nuke": {
+      "Deviation": 49.03,
+      "Rating": 1574.25
+    },
+    "overpass": {
+      "Deviation": 24.52,
+      "Rating": 1558.96
+    },
+    "train": {
+      "Deviation": 21.07,
+      "Rating": 1644.24
+    }
+  },
+  "USSR": {
+    "mirage": {
+      "Deviation": 74.74,
+      "Rating": 1623.74
+    },
+    "train": {
+      "Deviation": 110.21,
+      "Rating": 1219.3
+    }
+  },
+  "Ukraine": {
+    "cache": {
+      "Deviation": 74.8,
+      "Rating": 1306.07
+    },
+    "cobblestone": {
+      "Deviation": 43.4,
+      "Rating": 1543.8
+    },
+    "mirage": {
+      "Deviation": 41.55,
+      "Rating": 1648.71
+    },
+    "nuke": {
+      "Deviation": 48.45,
+      "Rating": 1528.79
+    },
+    "overpass": {
+      "Deviation": 44.56,
+      "Rating": 1434.86
+    }
+  },
+  "Ulti": {
+    "cache": {
+      "Deviation": 54.14,
+      "Rating": 1447.3
+    },
+    "cobblestone": {
+      "Deviation": 91.26,
+      "Rating": 2000
+    },
+    "mirage": {
+      "Deviation": 48.46,
+      "Rating": 1553.46
+    },
+    "nuke": {
+      "Deviation": 67.99,
+      "Rating": 1382.93
+    },
+    "overpass": {
+      "Deviation": 66.38,
+      "Rating": 1406.66
+    }
+  },
+  "Universe": {
+    "cache": {
+      "Deviation": 71.87,
+      "Rating": 1639.27
+    },
+    "dust2": {
+      "Deviation": 46.03,
+      "Rating": 1387.07
+    },
+    "mirage": {
+      "Deviation": 41.57,
+      "Rating": 1519.5
+    },
+    "train": {
+      "Deviation": 49.33,
+      "Rating": 1404.79
+    }
+  },
+  "VG.CyberZen": {
+    "cache": {
+      "Deviation": 22.53,
+      "Rating": 1672.97
+    },
+    "cobblestone": {
+      "Deviation": 21.49,
+      "Rating": 1672.96
+    },
+    "default": {
+      "Deviation": 46.98,
+      "Rating": 1525.5
+    },
+    "dust2": {
+      "Deviation": 20.87,
+      "Rating": 1678.97
+    },
+    "mirage": {
+      "Deviation": 23.23,
+      "Rating": 1696.86
+    },
+    "nuke": {
+      "Deviation": 25.76,
+      "Rating": 1625.71
+    },
+    "overpass": {
+      "Deviation": 21.47,
+      "Rating": 1642.64
+    },
+    "train": {
+      "Deviation": 21.49,
+      "Rating": 1611.69
+    }
+  },
+  "VG.Potential": {
+    "cache": {
+      "Deviation": 38.43,
+      "Rating": 1314.46
+    },
+    "cobblestone": {
+      "Deviation": 77.9,
+      "Rating": 1000
+    },
+    "dust2": {
+      "Deviation": 72.02,
+      "Rating": 1570.23
+    },
+    "mirage": {
+      "Deviation": 37.31,
+      "Rating": 1391.79
+    },
+    "train": {
+      "Deviation": 72.57,
+      "Rating": 1347.86
+    }
+  },
+  "VIP": {
+    "overpass": {
+      "Deviation": 87.37,
+      "Rating": 1056.61
+    }
+  },
+  "VatosLocos": {
+    "mirage": {
+      "Deviation": 107.81,
+      "Rating": 1253.78
+    }
+  },
+  "Vault": {
+    "cache": {
+      "Deviation": 38.43,
+      "Rating": 1409.21
+    },
+    "dust2": {
+      "Deviation": 39.49,
+      "Rating": 1533.6
+    },
+    "mirage": {
+      "Deviation": 41.26,
+      "Rating": 1730.18
+    },
+    "nuke": {
+      "Deviation": 78.11,
+      "Rating": 1758.47
+    },
+    "overpass": {
+      "Deviation": 40.58,
+      "Rating": 1567.25
+    },
+    "train": {
+      "Deviation": 27.94,
+      "Rating": 1620.45
+    }
+  },
+  "VenatoreS": {
+    "cache": {
+      "Deviation": 32.02,
+      "Rating": 1498.24
+    },
+    "cobblestone": {
+      "Deviation": 29.29,
+      "Rating": 1459.44
+    },
+    "default": {
+      "Deviation": 97.79,
+      "Rating": 1352.68
+    },
+    "dust2": {
+      "Deviation": 30.18,
+      "Rating": 1347.53
+    },
+    "mirage": {
+      "Deviation": 71.44,
+      "Rating": 1396.58
+    },
+    "nuke": {
+      "Deviation": 68.66,
+      "Rating": 1418.29
+    },
+    "overpass": {
+      "Deviation": 63.49,
+      "Rating": 1867.41
+    },
+    "train": {
+      "Deviation": 67.89,
+      "Rating": 1424.77
+    }
+  },
+  "Vengeance": {
+    "mirage": {
+      "Deviation": 103.44,
+      "Rating": 1314.54
+    }
+  },
+  "Venko": {
+    "cobblestone": {
+      "Deviation": 53.09,
+      "Rating": 1652.67
+    },
+    "mirage": {
+      "Deviation": 48.26,
+      "Rating": 1517.42
+    },
+    "overpass": {
+      "Deviation": 96.1,
+      "Rating": 1588.92
+    }
+  },
+  "VexX": {
+    "cache": {
+      "Deviation": 65.32,
+      "Rating": 1426.05
+    },
+    "dust2": {
+      "Deviation": 65.32,
+      "Rating": 1426.05
+    },
+    "mirage": {
+      "Deviation": 65.32,
+      "Rating": 1426.05
+    }
+  },
+  "Vexed": {
+    "cache": {
+      "Deviation": 56.26,
+      "Rating": 1493.91
+    },
+    "cobblestone": {
+      "Deviation": 56.26,
+      "Rating": 1493.91
+    },
+    "dust2": {
+      "Deviation": 59.16,
+      "Rating": 1900.3
+    },
+    "mirage": {
+      "Deviation": 52.41,
+      "Rating": 1627.34
+    },
+    "train": {
+      "Deviation": 41.06,
+      "Rating": 1681.11
+    }
+  },
+  "Vibby": {
+    "cobblestone": {
+      "Deviation": 52.64,
+      "Rating": 1297.92
+    },
+    "mirage": {
+      "Deviation": 52.3,
+      "Rating": 1383.24
+    },
+    "nuke": {
+      "Deviation": 62.34,
+      "Rating": 1030.61
+    }
+  },
+  "Vikings.Vortex": {
+    "cache": {
+      "Deviation": 50.15,
+      "Rating": 1524.22
+    },
+    "cobblestone": {
+      "Deviation": 38.25,
+      "Rating": 1379.51
+    },
+    "dust2": {
+      "Deviation": 56.26,
+      "Rating": 1530.47
+    },
+    "mirage": {
+      "Deviation": 31.58,
+      "Rating": 1545.49
+    },
+    "overpass": {
+      "Deviation": 97.79,
+      "Rating": 1389.51
+    }
+  },
+  "Vinkelparty": {
+    "cache": {
+      "Deviation": 55.93,
+      "Rating": 1487.95
+    },
+    "mirage": {
+      "Deviation": 55.93,
+      "Rating": 1487.95
+    },
+    "overpass": {
+      "Deviation": 55.93,
+      "Rating": 1487.95
+    }
+  },
+  "Virtus.pro": {
+    "cache": {
+      "Deviation": 51.82,
+      "Rating": 1462.39
+    },
+    "cobblestone": {
+      "Deviation": 24.92,
+      "Rating": 1604.82
+    },
+    "dust2": {
+      "Deviation": 63.82,
+      "Rating": 1547.07
+    },
+    "mirage": {
+      "Deviation": 24.12,
+      "Rating": 1646.56
+    },
+    "nuke": {
+      "Deviation": 24.25,
+      "Rating": 1559.46
+    },
+    "overpass": {
+      "Deviation": 27.96,
+      "Rating": 1566.45
+    },
+    "train": {
+      "Deviation": 25.16,
+      "Rating": 1581.18
+    }
+  },
+  "Vulcan": {
+    "cobblestone": {
+      "Deviation": 99.57,
+      "Rating": 1366.36
+    }
+  },
+  "VwS": {
+    "cache": {
+      "Deviation": 27.78,
+      "Rating": 1472.07
+    },
+    "dust2": {
+      "Deviation": 33.74,
+      "Rating": 1431.91
+    },
+    "mirage": {
+      "Deviation": 23.43,
+      "Rating": 1531.41
+    },
+    "nuke": {
+      "Deviation": 32.01,
+      "Rating": 1389.65
+    },
+    "overpass": {
+      "Deviation": 26.86,
+      "Rating": 1466.41
+    },
+    "train": {
+      "Deviation": 32.3,
+      "Rating": 1847.87
+    }
+  },
+  "WOOSAH": {
+    "cache": {
+      "Deviation": 77.24,
+      "Rating": 1258.74
+    },
+    "cobblestone": {
+      "Deviation": 71.71,
+      "Rating": 1000
+    },
+    "dust2": {
+      "Deviation": 77.24,
+      "Rating": 1258.74
+    }
+  },
+  "WaSiStLoWs": {
+    "cache": {
+      "Deviation": 74.62,
+      "Rating": 1322.17
+    }
+  },
+  "WarMonkeys": {
+    "cache": {
+      "Deviation": 56.61,
+      "Rating": 1648.22
+    },
+    "dust2": {
+      "Deviation": 47.79,
+      "Rating": 1634.48
+    },
+    "mirage": {
+      "Deviation": 79.94,
+      "Rating": 1795.33
+    },
+    "nuke": {
+      "Deviation": 66.93,
+      "Rating": 1551.76
+    },
+    "train": {
+      "Deviation": 79.94,
+      "Rating": 1795.33
+    }
+  },
+  "Wild": {
+    "dust2": {
+      "Deviation": 75.58,
+      "Rating": 1290.96
+    },
+    "mirage": {
+      "Deviation": 60.0,
+      "Rating": 1542.56
+    },
+    "nuke": {
+      "Deviation": 75.58,
+      "Rating": 1290.96
+    }
+  },
+  "Winterfox": {
+    "cache": {
+      "Deviation": 31.51,
+      "Rating": 1641.55
+    },
+    "cobblestone": {
+      "Deviation": 28.24,
+      "Rating": 1587.97
+    },
+    "dust2": {
+      "Deviation": 34.88,
+      "Rating": 1583.33
+    },
+    "inferno": {
+      "Deviation": 84.02,
+      "Rating": 1880.63
+    },
+    "mirage": {
+      "Deviation": 30.69,
+      "Rating": 1567.32
+    },
+    "nuke": {
+      "Deviation": 70.03,
+      "Rating": 1274.34
+    },
+    "overpass": {
+      "Deviation": 46.48,
+      "Rating": 1536.87
+    }
+  },
+  "Wizard": {
+    "cache": {
+      "Deviation": 43.52,
+      "Rating": 1515.49
+    },
+    "mirage": {
+      "Deviation": 43.68,
+      "Rating": 1530.77
+    },
+    "train": {
+      "Deviation": 43.22,
+      "Rating": 1471.81
+    }
+  },
+  "Wolsung": {
+    "cache": {
+      "Deviation": 73.29,
+      "Rating": 1334.49
+    },
+    "cobblestone": {
+      "Deviation": 73.29,
+      "Rating": 1334.49
+    },
+    "overpass": {
+      "Deviation": 73.29,
+      "Rating": 1334.49
+    }
+  },
+  "Wyvern": {
+    "cache": {
+      "Deviation": 62.42,
+      "Rating": 1477.49
+    },
+    "cobblestone": {
+      "Deviation": 62.42,
+      "Rating": 1477.49
+    },
+    "dust2": {
+      "Deviation": 62.42,
+      "Rating": 1477.49
+    },
+    "overpass": {
+      "Deviation": 64.46,
+      "Rating": 1509.47
+    }
+  },
+  "XFXQ": {
+    "cache": {
+      "Deviation": 74.03,
+      "Rating": 1320.57
+    },
+    "dust2": {
+      "Deviation": 79.01,
+      "Rating": 1223.53
+    },
+    "mirage": {
+      "Deviation": 52.52,
+      "Rating": 1363.68
+    },
+    "train": {
+      "Deviation": 54.16,
+      "Rating": 1321.03
+    }
+  },
+  "XPC": {
+    "cache": {
+      "Deviation": 36.36,
+      "Rating": 1549.02
+    },
+    "cobblestone": {
+      "Deviation": 32.71,
+      "Rating": 1456.38
+    },
+    "dust2": {
+      "Deviation": 45.44,
+      "Rating": 1381.77
+    },
+    "mirage": {
+      "Deviation": 36.83,
+      "Rating": 1351.82
+    },
+    "overpass": {
+      "Deviation": 73.29,
+      "Rating": 1334.49
+    }
+  },
+  "XPRESIV'E": {
+    "cache": {
+      "Deviation": 66.03,
+      "Rating": 1246.24
+    },
+    "cobblestone": {
+      "Deviation": 56.55,
+      "Rating": 1318.19
+    },
+    "dust2": {
+      "Deviation": 90.32,
+      "Rating": 1416.19
+    },
+    "mirage": {
+      "Deviation": 65.05,
+      "Rating": 1238.0
+    },
+    "train": {
+      "Deviation": 67.13,
+      "Rating": 1329.79
+    }
+  },
+  "YETTI 5": {
+    "cache": {
+      "Deviation": 28.46,
+      "Rating": 1559.59
+    },
+    "cobblestone": {
+      "Deviation": 37.83,
+      "Rating": 1695.6
+    },
+    "dust2": {
+      "Deviation": 37.82,
+      "Rating": 1450.01
+    },
+    "mirage": {
+      "Deviation": 27.86,
+      "Rating": 1473.72
+    },
+    "nuke": {
+      "Deviation": 78.11,
+      "Rating": 1241.53
+    },
+    "overpass": {
+      "Deviation": 51.48,
+      "Rating": 1627.8
+    }
+  },
+  "YP": {
+    "cache": {
+      "Deviation": 35.23,
+      "Rating": 1435.3
+    },
+    "dust2": {
+      "Deviation": 42.27,
+      "Rating": 1453.4
+    },
+    "inferno": {
+      "Deviation": 76.4,
+      "Rating": 1275.2
+    },
+    "mirage": {
+      "Deviation": 60.21,
+      "Rating": 1451.17
+    },
+    "overpass": {
+      "Deviation": 53.17,
+      "Rating": 1462.85
+    }
+  },
+  "ZDM": {
+    "cache": {
+      "Deviation": 25.86,
+      "Rating": 1420.38
+    },
+    "cobblestone": {
+      "Deviation": 31.61,
+      "Rating": 1518.81
+    },
+    "dust2": {
+      "Deviation": 84.36,
+      "Rating": 1789.45
+    },
+    "mirage": {
+      "Deviation": 27.49,
+      "Rating": 1587.33
+    },
+    "train": {
+      "Deviation": 35.12,
+      "Rating": 1468.67
+    }
+  },
+  "Zaga Talent": {
+    "cache": {
+      "Deviation": 77.24,
+      "Rating": 1258.74
+    },
+    "dust2": {
+      "Deviation": 77.24,
+      "Rating": 1258.74
+    },
+    "mirage": {
+      "Deviation": 77.24,
+      "Rating": 1258.74
+    }
+  },
+  "Zeta Strike": {
+    "cache": {
+      "Deviation": 71.87,
+      "Rating": 1639.27
+    },
+    "cobblestone": {
+      "Deviation": 40.35,
+      "Rating": 1580.06
+    },
+    "dust2": {
+      "Deviation": 50.79,
+      "Rating": 1317.5
+    },
+    "mirage": {
+      "Deviation": 40.35,
+      "Rating": 1580.06
+    },
+    "overpass": {
+      "Deviation": 59.55,
+      "Rating": 1242.59
+    },
+    "train": {
+      "Deviation": 40.3,
+      "Rating": 1476.22
+    }
+  },
+  "Zeta Strike AR": {
+    "cache": {
+      "Deviation": 49.98,
+      "Rating": 1473.25
+    },
+    "mirage": {
+      "Deviation": 49.98,
+      "Rating": 1473.25
+    },
+    "train": {
+      "Deviation": 49.07,
+      "Rating": 1417.22
+    }
+  },
+  "a-game raise": {
+    "cache": {
+      "Deviation": 46.3,
+      "Rating": 1356.87
+    },
+    "dust2": {
+      "Deviation": 64.81,
+      "Rating": 1435.29
+    },
+    "mirage": {
+      "Deviation": 46.3,
+      "Rating": 1356.87
+    }
+  },
+  "apexfrag": {
+    "cache": {
+      "Deviation": 99.57,
+      "Rating": 1633.64
+    },
+    "overpass": {
+      "Deviation": 83.57,
+      "Rating": 1379.56
+    }
+  },
+  "auRa": {
+    "dust2": {
+      "Deviation": 27.39,
+      "Rating": 1402.0
+    },
+    "mirage": {
+      "Deviation": 25.97,
+      "Rating": 1433.38
+    },
+    "train": {
+      "Deviation": 27.68,
+      "Rating": 1478.89
+    }
+  },
+  "beGenius": {
+    "mirage": {
+      "Deviation": 103.44,
+      "Rating": 1314.54
+    }
+  },
+  "carboN": {
+    "cache": {
+      "Deviation": 81.34,
+      "Rating": 2000
+    },
+    "cobblestone": {
+      "Deviation": 78.11,
+      "Rating": 1758.47
+    },
+    "dust2": {
+      "Deviation": 97.79,
+      "Rating": 1610.49
+    },
+    "mirage": {
+      "Deviation": 53.58,
+      "Rating": 1544.53
+    },
+    "nuke": {
+      "Deviation": 59.49,
+      "Rating": 1404.59
+    },
+    "overpass": {
+      "Deviation": 40.85,
+      "Rating": 1462.74
+    },
+    "train": {
+      "Deviation": 53.85,
+      "Rating": 1673.61
+    }
+  },
+  "cleanup crew": {
+    "dust2": {
+      "Deviation": 66.38,
+      "Rating": 1406.66
+    },
+    "mirage": {
+      "Deviation": 66.38,
+      "Rating": 1406.66
+    },
+    "overpass": {
+      "Deviation": 66.38,
+      "Rating": 1406.66
+    }
+  },
+  "compLexity": {
+    "cache": {
+      "Deviation": 25.4,
+      "Rating": 1555.26
+    },
+    "cobblestone": {
+      "Deviation": 25.74,
+      "Rating": 1560.78
+    },
+    "dust2": {
+      "Deviation": 24.96,
+      "Rating": 1564.16
+    },
+    "mirage": {
+      "Deviation": 21.77,
+      "Rating": 1556.24
+    },
+    "nuke": {
+      "Deviation": 34.3,
+      "Rating": 1583.55
+    },
+    "overpass": {
+      "Deviation": 52.01,
+      "Rating": 1541.84
+    },
+    "train": {
+      "Deviation": 21.31,
+      "Rating": 1487.63
+    }
+  },
+  "dd": {
+    "cobblestone": {
+      "Deviation": 38.76,
+      "Rating": 1608.72
+    },
+    "dust2": {
+      "Deviation": 38.79,
+      "Rating": 1467.84
+    },
+    "nuke": {
+      "Deviation": 39.65,
+      "Rating": 1611.58
+    },
+    "overpass": {
+      "Deviation": 53.79,
+      "Rating": 1494.43
+    }
+  },
+  "dignitas": {
+    "cache": {
+      "Deviation": 23.91,
+      "Rating": 1618.59
+    },
+    "cobblestone": {
+      "Deviation": 22.9,
+      "Rating": 1603.21
+    },
+    "dust2": {
+      "Deviation": 25.95,
+      "Rating": 1547.69
+    },
+    "mirage": {
+      "Deviation": 23.14,
+      "Rating": 1644.66
+    },
+    "nuke": {
+      "Deviation": 22.98,
+      "Rating": 1594.65
+    },
+    "overpass": {
+      "Deviation": 25.67,
+      "Rating": 1691.74
+    },
+    "train": {
+      "Deviation": 40.66,
+      "Rating": 1571.46
+    }
+  },
+  "don't be so cool": {
+    "cache": {
+      "Deviation": 79.94,
+      "Rating": 1204.67
+    },
+    "mirage": {
+      "Deviation": 79.94,
+      "Rating": 1204.67
+    },
+    "train": {
+      "Deviation": 79.94,
+      "Rating": 1204.67
+    }
+  },
+  "doyoueven fe": {
+    "cobblestone": {
+      "Deviation": 92.97,
+      "Rating": 1450.07
+    },
+    "overpass": {
+      "Deviation": 70.28,
+      "Rating": 1451.95
+    },
+    "train": {
+      "Deviation": 97.79,
+      "Rating": 1389.51
+    }
+  },
+  "dream[S]cape": {
+    "cache": {
+      "Deviation": 23.21,
+      "Rating": 1578.39
+    },
+    "cobblestone": {
+      "Deviation": 30.15,
+      "Rating": 1608.57
+    },
+    "dust2": {
+      "Deviation": 21.85,
+      "Rating": 1635.97
+    },
+    "mirage": {
+      "Deviation": 20.8,
+      "Rating": 1627.12
+    },
+    "nuke": {
+      "Deviation": 29.68,
+      "Rating": 1671.5
+    },
+    "overpass": {
+      "Deviation": 24.06,
+      "Rating": 1578.19
+    },
+    "train": {
+      "Deviation": 25.33,
+      "Rating": 1691.22
+    }
+  },
+  "dreamchasers": {
+    "cache": {
+      "Deviation": 101.45,
+      "Rating": 1658.56
+    },
+    "cobblestone": {
+      "Deviation": 32.33,
+      "Rating": 1503.29
+    },
+    "mirage": {
+      "Deviation": 28.72,
+      "Rating": 1593.26
+    },
+    "nuke": {
+      "Deviation": 100.33,
+      "Rating": 1000
+    },
+    "overpass": {
+      "Deviation": 47.58,
+      "Rating": 1635.61
+    },
+    "train": {
+      "Deviation": 32.51,
+      "Rating": 1607.67
+    }
+  },
+  "eFuture": {
+    "cache": {
+      "Deviation": 24.11,
+      "Rating": 1450.65
+    },
+    "cobblestone": {
+      "Deviation": 44.67,
+      "Rating": 1539.74
+    },
+    "dust2": {
+      "Deviation": 49.78,
+      "Rating": 1493.75
+    },
+    "mirage": {
+      "Deviation": 23.39,
+      "Rating": 1502.73
+    },
+    "overpass": {
+      "Deviation": 71.87,
+      "Rating": 1500.0
+    }
+  },
+  "eL'quvet": {
+    "cobblestone": {
+      "Deviation": 105.56,
+      "Rating": 1285.41
+    },
+    "mirage": {
+      "Deviation": 58.09,
+      "Rating": 1483.42
+    }
+  },
+  "eSportsLab Black": {
+    "cache": {
+      "Deviation": 115.54,
+      "Rating": 1859.91
+    },
+    "dust2": {
+      "Deviation": 87.06,
+      "Rating": 1564.45
+    },
+    "mirage": {
+      "Deviation": 71.13,
+      "Rating": 1616.96
+    }
+  },
+  "eSuba": {
+    "cache": {
+      "Deviation": 24.76,
+      "Rating": 1577.81
+    },
+    "cobblestone": {
+      "Deviation": 26.33,
+      "Rating": 1593.89
+    },
+    "default": {
+      "Deviation": 105.56,
+      "Rating": 1242.5
+    },
+    "dust2": {
+      "Deviation": 29.0,
+      "Rating": 1655.16
+    },
+    "mirage": {
+      "Deviation": 23.02,
+      "Rating": 1577.25
+    },
+    "nuke": {
+      "Deviation": 37.91,
+      "Rating": 1455.92
+    },
+    "train": {
+      "Deviation": 24.35,
+      "Rating": 1490.8
+    }
+  },
+  "eUnited": {
+    "cache": {
+      "Deviation": 59.77,
+      "Rating": 1424.09
+    },
+    "cobblestone": {
+      "Deviation": 60.28,
+      "Rating": 1514.0
+    },
+    "dust2": {
+      "Deviation": 67.93,
+      "Rating": 1411.28
+    },
+    "mirage": {
+      "Deviation": 112.78,
+      "Rating": 1181.56
+    },
+    "nuke": {
+      "Deviation": 60.28,
+      "Rating": 1514.0
+    },
+    "overpass": {
+      "Deviation": 60.28,
+      "Rating": 1514.0
+    },
+    "train": {
+      "Deviation": 47.56,
+      "Rating": 1427.42
+    }
+  },
+  "eXplosive": {
+    "cache": {
+      "Deviation": 35.22,
+      "Rating": 1411.02
+    },
+    "cobblestone": {
+      "Deviation": 39.71,
+      "Rating": 1470.27
+    },
+    "dust2": {
+      "Deviation": 61.58,
+      "Rating": 1730.56
+    },
+    "mirage": {
+      "Deviation": 39.25,
+      "Rating": 1376.66
+    }
+  },
+  "eXtatus": {
+    "cache": {
+      "Deviation": 32.8,
+      "Rating": 1596.49
+    },
+    "cobblestone": {
+      "Deviation": 32.9,
+      "Rating": 1508.2
+    },
+    "default": {
+      "Deviation": 105.56,
+      "Rating": 1757.5
+    },
+    "dust2": {
+      "Deviation": 29.53,
+      "Rating": 1534.82
+    },
+    "mirage": {
+      "Deviation": 21.34,
+      "Rating": 1605.04
+    },
+    "nuke": {
+      "Deviation": 29.59,
+      "Rating": 1363.77
+    },
+    "overpass": {
+      "Deviation": 66.93,
+      "Rating": 1603.51
+    },
+    "train": {
+      "Deviation": 21.52,
+      "Rating": 1533.54
+    }
+  },
+  "elements": {
+    "cobblestone": {
+      "Deviation": 79.4,
+      "Rating": 1564.19
+    }
+  },
+  "elixe4": {
+    "mirage": {
+      "Deviation": 67.71,
+      "Rating": 1329.99
+    }
+  },
+  "esq.wind": {
+    "cache": {
+      "Deviation": 99.57,
+      "Rating": 1366.36
+    }
+  },
+  "ex-31337": {
+    "cache": {
+      "Deviation": 40.3,
+      "Rating": 1598.99
+    },
+    "cobblestone": {
+      "Deviation": 49.19,
+      "Rating": 1094.82
+    },
+    "dust2": {
+      "Deviation": 69.89,
+      "Rating": 1603.48
+    },
+    "train": {
+      "Deviation": 32.4,
+      "Rating": 1505.17
+    }
+  },
+  "ex-Astral Authority": {
+    "cache": {
+      "Deviation": 46.74,
+      "Rating": 1415.56
+    },
+    "dust2": {
+      "Deviation": 78.11,
+      "Rating": 1241.53
+    },
+    "mirage": {
+      "Deviation": 38.94,
+      "Rating": 1427.78
+    },
+    "overpass": {
+      "Deviation": 56.59,
+      "Rating": 1512.33
+    }
+  },
+  "ex-Titan": {
+    "cache": {
+      "Deviation": 49.92,
+      "Rating": 1678.61
+    },
+    "dust2": {
+      "Deviation": 73.29,
+      "Rating": 1665.51
+    },
+    "inferno": {
+      "Deviation": 63.35,
+      "Rating": 1677.73
+    },
+    "train": {
+      "Deviation": 49.92,
+      "Rating": 1678.61
+    }
+  },
+  "expert fe": {
+    "cache": {
+      "Deviation": 41.34,
+      "Rating": 1506.44
+    },
+    "cobblestone": {
+      "Deviation": 91.51,
+      "Rating": 1467.75
+    },
+    "nuke": {
+      "Deviation": 37.58,
+      "Rating": 1340.23
+    },
+    "train": {
+      "Deviation": 45.68,
+      "Rating": 1505.13
+    }
+  },
+  "ezOKplease": {
+    "nuke": {
+      "Deviation": 115.54,
+      "Rating": 1140.09
+    }
+  },
+  "f3rr4ri": {
+    "mirage": {
+      "Deviation": 118.51,
+      "Rating": 1094.3
+    }
+  },
+  "fish123": {
+    "cobblestone": {
+      "Deviation": 65.94,
+      "Rating": 1417.86
+    },
+    "dust2": {
+      "Deviation": 47.09,
+      "Rating": 1320.75
+    }
+  },
+  "fm-eSports": {
+    "cache": {
+      "Deviation": 36.58,
+      "Rating": 1575.73
+    },
+    "cobblestone": {
+      "Deviation": 45.05,
+      "Rating": 1776.32
+    },
+    "dust2": {
+      "Deviation": 55.4,
+      "Rating": 1555.03
+    },
+    "inferno": {
+      "Deviation": 54.08,
+      "Rating": 1500.0
+    },
+    "mirage": {
+      "Deviation": 32.19,
+      "Rating": 1533.22
+    },
+    "nuke": {
+      "Deviation": 40.5,
+      "Rating": 1664.56
+    },
+    "overpass": {
+      "Deviation": 41.31,
+      "Rating": 1592.44
+    },
+    "train": {
+      "Deviation": 35.29,
+      "Rating": 1468.75
+    }
+  },
+  "fnatic": {
+    "cache": {
+      "Deviation": 33.81,
+      "Rating": 1496.82
+    },
+    "cobblestone": {
+      "Deviation": 25.21,
+      "Rating": 1575.28
+    },
+    "dust2": {
+      "Deviation": 27.11,
+      "Rating": 1514.81
+    },
+    "mirage": {
+      "Deviation": 30.5,
+      "Rating": 1662.17
+    },
+    "overpass": {
+      "Deviation": 32.17,
+      "Rating": 1673.97
+    },
+    "train": {
+      "Deviation": 25.86,
+      "Rating": 1504.34
+    }
+  },
+  "fnatic Academy": {
+    "cache": {
+      "Deviation": 21.34,
+      "Rating": 1517.84
+    },
+    "cobblestone": {
+      "Deviation": 21.99,
+      "Rating": 1532.86
+    },
+    "dust2": {
+      "Deviation": 26.25,
+      "Rating": 1600.36
+    },
+    "mirage": {
+      "Deviation": 20.82,
+      "Rating": 1589.02
+    },
+    "overpass": {
+      "Deviation": 27.53,
+      "Rating": 1610.57
+    },
+    "train": {
+      "Deviation": 22.7,
+      "Rating": 1554.65
+    }
+  },
+  "fruits": {
+    "cobblestone": {
+      "Deviation": 35.42,
+      "Rating": 1564.41
+    },
+    "dust2": {
+      "Deviation": 55.61,
+      "Rating": 1505.96
+    },
+    "mirage": {
+      "Deviation": 45.16,
+      "Rating": 1566.63
+    },
+    "overpass": {
+      "Deviation": 73.29,
+      "Rating": 1665.51
+    }
+  },
+  "g3x": {
+    "cache": {
+      "Deviation": 29.2,
+      "Rating": 1647.94
+    },
+    "cobblestone": {
+      "Deviation": 27.05,
+      "Rating": 1732.39
+    },
+    "dust2": {
+      "Deviation": 23.98,
+      "Rating": 1665.03
+    },
+    "mirage": {
+      "Deviation": 23.91,
+      "Rating": 1641.75
+    },
+    "nuke": {
+      "Deviation": 38.46,
+      "Rating": 1669.47
+    },
+    "overpass": {
+      "Deviation": 37.04,
+      "Rating": 1670.49
+    },
+    "train": {
+      "Deviation": 23.63,
+      "Rating": 1561.27
+    }
+  },
+  "ggrabb": {
+    "cache": {
+      "Deviation": 72.81,
+      "Rating": 1292.08
+    }
+  },
+  "glassysky": {
+    "cache": {
+      "Deviation": 68.27,
+      "Rating": 2000
+    },
+    "dust2": {
+      "Deviation": 64.31,
+      "Rating": 1460.18
+    },
+    "nuke": {
+      "Deviation": 68.27,
+      "Rating": 2000
+    }
+  },
+  "harambeGOD": {
+    "cache": {
+      "Deviation": 49.48,
+      "Rating": 1318.07
+    },
+    "dust2": {
+      "Deviation": 64.29,
+      "Rating": 1000
+    },
+    "mirage": {
+      "Deviation": 56.41,
+      "Rating": 1315.04
+    }
+  },
+  "iGame.com": {
+    "cache": {
+      "Deviation": 21.68,
+      "Rating": 1546.0
+    },
+    "cobblestone": {
+      "Deviation": 20.07,
+      "Rating": 1567.23
+    },
+    "dust2": {
+      "Deviation": 21.67,
+      "Rating": 1533.9
+    },
+    "mirage": {
+      "Deviation": 57.37,
+      "Rating": 1443.8
+    },
+    "nuke": {
+      "Deviation": 35.06,
+      "Rating": 1594.86
+    },
+    "overpass": {
+      "Deviation": 29.45,
+      "Rating": 1572.72
+    },
+    "train": {
+      "Deviation": 23.15,
+      "Rating": 1633.4
+    }
+  },
+  "iGamerWorld": {
+    "cache": {
+      "Deviation": 105.56,
+      "Rating": 1285.41
+    }
+  },
+  "iNETKOXTV": {
+    "cache": {
+      "Deviation": 26.2,
+      "Rating": 1517.48
+    },
+    "cobblestone": {
+      "Deviation": 29.47,
+      "Rating": 1552.77
+    },
+    "dust2": {
+      "Deviation": 34.98,
+      "Rating": 1571.63
+    },
+    "mirage": {
+      "Deviation": 23.51,
+      "Rating": 1537.09
+    },
+    "nuke": {
+      "Deviation": 41.79,
+      "Rating": 1590.02
+    },
+    "train": {
+      "Deviation": 51.53,
+      "Rating": 1513.15
+    }
+  },
+  "iNTRO": {
+    "cache": {
+      "Deviation": 58.35,
+      "Rating": 1559.01
+    },
+    "cobblestone": {
+      "Deviation": 32.05,
+      "Rating": 1483.46
+    },
+    "dust2": {
+      "Deviation": 57.65,
+      "Rating": 1468.25
+    },
+    "mirage": {
+      "Deviation": 47.9,
+      "Rating": 1292.51
+    },
+    "overpass": {
+      "Deviation": 35.37,
+      "Rating": 1433.75
+    },
+    "train": {
+      "Deviation": 58.35,
+      "Rating": 1559.01
+    }
+  },
+  "iNation": {
+    "cache": {
+      "Deviation": 26.83,
+      "Rating": 1565.84
+    },
+    "cobblestone": {
+      "Deviation": 30.07,
+      "Rating": 1671.37
+    },
+    "dust2": {
+      "Deviation": 24.88,
+      "Rating": 1472.7
+    },
+    "mirage": {
+      "Deviation": 24.02,
+      "Rating": 1625.09
+    },
+    "nuke": {
+      "Deviation": 45.48,
+      "Rating": 1550.53
+    },
+    "train": {
+      "Deviation": 25.54,
+      "Rating": 1601.12
+    }
+  },
+  "illusion": {
+    "cache": {
+      "Deviation": 101.45,
+      "Rating": 1341.44
+    }
+  },
+  "jalapeno": {
+    "cache": {
+      "Deviation": 101.45,
+      "Rating": 1341.44
+    },
+    "cobblestone": {
+      "Deviation": 50.4,
+      "Rating": 1398.48
+    },
+    "mirage": {
+      "Deviation": 42.23,
+      "Rating": 1579.95
+    },
+    "overpass": {
+      "Deviation": 56.03,
+      "Rating": 1533.8
+    }
+  },
+  "k1ck": {
+    "cache": {
+      "Deviation": 26.51,
+      "Rating": 1650.42
+    },
+    "cobblestone": {
+      "Deviation": 25.92,
+      "Rating": 1526.75
+    },
+    "default": {
+      "Deviation": 97.79,
+      "Rating": 1647.32
+    },
+    "dust2": {
+      "Deviation": 23.29,
+      "Rating": 1535.56
+    },
+    "inferno": {
+      "Deviation": 71.2,
+      "Rating": 1626.89
+    },
+    "mirage": {
+      "Deviation": 24.87,
+      "Rating": 1546.66
+    },
+    "overpass": {
+      "Deviation": 30.24,
+      "Rating": 1415.95
+    },
+    "train": {
+      "Deviation": 33.21,
+      "Rating": 1557.89
+    }
+  },
+  "k1ck oldschool": {
+    "cache": {
+      "Deviation": 32.35,
+      "Rating": 1586.2
+    },
+    "cobblestone": {
+      "Deviation": 36.74,
+      "Rating": 1477.95
+    },
+    "dust2": {
+      "Deviation": 25.1,
+      "Rating": 1566.11
+    },
+    "mirage": {
+      "Deviation": 25.74,
+      "Rating": 1593.49
+    },
+    "overpass": {
+      "Deviation": 54.52,
+      "Rating": 1512.68
+    },
+    "train": {
+      "Deviation": 38.07,
+      "Rating": 1478.91
+    }
+  },
+  "kexpz": {
+    "cache": {
+      "Deviation": 71.87,
+      "Rating": 1360.73
+    },
+    "cobblestone": {
+      "Deviation": 71.87,
+      "Rating": 1360.73
+    },
+    "mirage": {
+      "Deviation": 71.87,
+      "Rating": 1360.73
+    }
+  },
+  "legacy": {
+    "cobblestone": {
+      "Deviation": 53.07,
+      "Rating": 1410.56
+    },
+    "overpass": {
+      "Deviation": 52.54,
+      "Rating": 1389.65
+    },
+    "train": {
+      "Deviation": 54.0,
+      "Rating": 1433.46
+    }
+  },
+  "m0nster": {
+    "cache": {
+      "Deviation": 23.94,
+      "Rating": 1579.55
+    },
+    "cobblestone": {
+      "Deviation": 29.41,
+      "Rating": 1563.56
+    },
+    "dust2": {
+      "Deviation": 28.23,
+      "Rating": 1577.38
+    },
+    "mirage": {
+      "Deviation": 25.47,
+      "Rating": 1447.27
+    },
+    "nuke": {
+      "Deviation": 52.71,
+      "Rating": 1496.67
+    },
+    "overpass": {
+      "Deviation": 34.18,
+      "Rating": 1631.82
+    },
+    "train": {
+      "Deviation": 76.4,
+      "Rating": 1275.2
+    }
+  },
+  "m0nster white": {
+    "cache": {
+      "Deviation": 36.7,
+      "Rating": 1434.03
+    },
+    "cobblestone": {
+      "Deviation": 30.15,
+      "Rating": 1506.37
+    },
+    "mirage": {
+      "Deviation": 45.04,
+      "Rating": 1442.48
+    },
+    "nuke": {
+      "Deviation": 43.33,
+      "Rating": 1436.62
+    },
+    "overpass": {
+      "Deviation": 37.41,
+      "Rating": 1483.97
+    },
+    "train": {
+      "Deviation": 40.08,
+      "Rating": 1460.14
+    }
+  },
+  "m0nsterOS": {
+    "cache": {
+      "Deviation": 54.19,
+      "Rating": 1228.21
+    },
+    "mirage": {
+      "Deviation": 59.74,
+      "Rating": 1073.53
+    },
+    "overpass": {
+      "Deviation": 49.68,
+      "Rating": 1471.92
+    }
+  },
+  "mCon": {
+    "cache": {
+      "Deviation": 48.6,
+      "Rating": 1554.01
+    },
+    "cobblestone": {
+      "Deviation": 89.44,
+      "Rating": 1442.13
+    },
+    "mirage": {
+      "Deviation": 45.54,
+      "Rating": 1468.14
+    }
+  },
+  "malefiQ": {
+    "cache": {
+      "Deviation": 62.92,
+      "Rating": 1867.6
+    },
+    "dust2": {
+      "Deviation": 48.24,
+      "Rating": 1520.24
+    },
+    "mirage": {
+      "Deviation": 66.38,
+      "Rating": 1593.34
+    },
+    "nuke": {
+      "Deviation": 66.93,
+      "Rating": 1448.24
+    },
+    "overpass": {
+      "Deviation": 66.38,
+      "Rating": 1593.34
+    }
+  },
+  "mousesports": {
+    "cache": {
+      "Deviation": 29.25,
+      "Rating": 1648.1
+    },
+    "cobblestone": {
+      "Deviation": 24.16,
+      "Rating": 1610.64
+    },
+    "dust2": {
+      "Deviation": 26.34,
+      "Rating": 1575.28
+    },
+    "inferno": {
+      "Deviation": 52.08,
+      "Rating": 1743.99
+    },
+    "mirage": {
+      "Deviation": 24.08,
+      "Rating": 1632.13
+    },
+    "overpass": {
+      "Deviation": 40.1,
+      "Rating": 1634.04
+    },
+    "train": {
+      "Deviation": 42.83,
+      "Rating": 1594.01
+    }
+  },
+  "n0_0rg": {
+    "cache": {
+      "Deviation": 58.75,
+      "Rating": 1351.66
+    }
+  },
+  "nEophyte": {
+    "cache": {
+      "Deviation": 64.81,
+      "Rating": 1435.29
+    },
+    "cobblestone": {
+      "Deviation": 51.62,
+      "Rating": 1474.34
+    },
+    "dust2": {
+      "Deviation": 31.66,
+      "Rating": 1382.13
+    },
+    "inferno": {
+      "Deviation": 64.81,
+      "Rating": 1435.29
+    },
+    "train": {
+      "Deviation": 39.93,
+      "Rating": 1271.16
+    }
+  },
+  "nGse": {
+    "cache": {
+      "Deviation": 78.11,
+      "Rating": 1241.53
+    },
+    "cobblestone": {
+      "Deviation": 59.72,
+      "Rating": 1312.39
+    },
+    "dust2": {
+      "Deviation": 71.06,
+      "Rating": 1573.53
+    },
+    "mirage": {
+      "Deviation": 42.33,
+      "Rating": 1579.45
+    },
+    "train": {
+      "Deviation": 71.2,
+      "Rating": 1587.85
+    }
+  },
+  "nerdRage": {
+    "cache": {
+      "Deviation": 47.08,
+      "Rating": 1424.36
+    },
+    "cobblestone": {
+      "Deviation": 44.2,
+      "Rating": 1448.09
+    },
+    "dust2": {
+      "Deviation": 40.2,
+      "Rating": 1276.11
+    },
+    "overpass": {
+      "Deviation": 54.9,
+      "Rating": 1133.89
+    }
+  },
+  "newlyweds": {
+    "mirage": {
+      "Deviation": 63.82,
+      "Rating": 1415.26
+    }
+  },
+  "nxl": {
+    "cache": {
+      "Deviation": 36.72,
+      "Rating": 1632.66
+    },
+    "cobblestone": {
+      "Deviation": 42.14,
+      "Rating": 1632.72
+    },
+    "dust2": {
+      "Deviation": 28.39,
+      "Rating": 1609.98
+    },
+    "mirage": {
+      "Deviation": 29.65,
+      "Rating": 1592.1
+    },
+    "overpass": {
+      "Deviation": 44.13,
+      "Rating": 1706.12
+    },
+    "train": {
+      "Deviation": 62.01,
+      "Rating": 1629.7
+    }
+  },
+  "onestop": {
+    "cache": {
+      "Deviation": 33.34,
+      "Rating": 1593.82
+    },
+    "cobblestone": {
+      "Deviation": 46.99,
+      "Rating": 1226.76
+    },
+    "dust2": {
+      "Deviation": 34.46,
+      "Rating": 1470.37
+    },
+    "mirage": {
+      "Deviation": 24.24,
+      "Rating": 1496.75
+    },
+    "nuke": {
+      "Deviation": 56.38,
+      "Rating": 1311.24
+    },
+    "overpass": {
+      "Deviation": 56.93,
+      "Rating": 1431.34
+    },
+    "train": {
+      "Deviation": 24.62,
+      "Rating": 1555.62
+    }
+  },
+  "paiN": {
+    "cache": {
+      "Deviation": 27.97,
+      "Rating": 1527.4
+    },
+    "cobblestone": {
+      "Deviation": 29.32,
+      "Rating": 1663.97
+    },
+    "dust2": {
+      "Deviation": 24.09,
+      "Rating": 1591.41
+    },
+    "mirage": {
+      "Deviation": 21.05,
+      "Rating": 1658.25
+    },
+    "overpass": {
+      "Deviation": 27.5,
+      "Rating": 1502.7
+    },
+    "train": {
+      "Deviation": 24.44,
+      "Rating": 1559.23
+    }
+  },
+  "panic": {
+    "cache": {
+      "Deviation": 74.03,
+      "Rating": 1320.57
+    },
+    "mirage": {
+      "Deviation": 74.03,
+      "Rating": 1320.57
+    },
+    "train": {
+      "Deviation": 74.03,
+      "Rating": 1320.57
+    }
+  },
+  "plusvee": {
+    "cobblestone": {
+      "Deviation": 28.07,
+      "Rating": 1644.58
+    },
+    "dust2": {
+      "Deviation": 30.91,
+      "Rating": 1605.63
+    },
+    "mirage": {
+      "Deviation": 24.0,
+      "Rating": 1534.61
+    },
+    "nuke": {
+      "Deviation": 69.55,
+      "Rating": 1369.62
+    },
+    "overpass": {
+      "Deviation": 25.57,
+      "Rating": 1546.82
+    },
+    "train": {
+      "Deviation": 44.11,
+      "Rating": 1538.33
+    }
+  },
+  "puLse": {
+    "dust2": {
+      "Deviation": 74.8,
+      "Rating": 1306.07
+    },
+    "overpass": {
+      "Deviation": 74.8,
+      "Rating": 1306.07
+    },
+    "train": {
+      "Deviation": 74.8,
+      "Rating": 1306.07
+    }
+  },
+  "rUNITED": {
+    "dust2": {
+      "Deviation": 68.66,
+      "Rating": 1363.82
+    },
+    "mirage": {
+      "Deviation": 52.31,
+      "Rating": 1556.5
+    },
+    "train": {
+      "Deviation": 49.94,
+      "Rating": 1487.65
+    }
+  },
+  "s4s": {
+    "cobblestone": {
+      "Deviation": 105.56,
+      "Rating": 1714.59
+    },
+    "mirage": {
+      "Deviation": 37.05,
+      "Rating": 1554.17
+    },
+    "overpass": {
+      "Deviation": 37.04,
+      "Rating": 1552.38
+    },
+    "train": {
+      "Deviation": 54.38,
+      "Rating": 1517.08
+    }
+  },
+  "subtLe": {
+    "cache": {
+      "Deviation": 27.24,
+      "Rating": 1741.67
+    },
+    "cobblestone": {
+      "Deviation": 28.43,
+      "Rating": 1676.19
+    },
+    "dust2": {
+      "Deviation": 26.84,
+      "Rating": 1539.68
+    },
+    "mirage": {
+      "Deviation": 27.11,
+      "Rating": 1677.68
+    },
+    "train": {
+      "Deviation": 32.0,
+      "Rating": 1552.12
+    }
+  },
+  "sylloM": {
+    "cache": {
+      "Deviation": 74.03,
+      "Rating": 1320.57
+    },
+    "dust2": {
+      "Deviation": 51.21,
+      "Rating": 1383.71
+    },
+    "mirage": {
+      "Deviation": 51.43,
+      "Rating": 1867.01
+    }
+  },
+  "v0rtex 5": {
+    "cache": {
+      "Deviation": 38.01,
+      "Rating": 1586.22
+    },
+    "cobblestone": {
+      "Deviation": 30.13,
+      "Rating": 1548.05
+    },
+    "dust2": {
+      "Deviation": 70.54,
+      "Rating": 1385.03
+    },
+    "mirage": {
+      "Deviation": 39.75,
+      "Rating": 1550.37
+    },
+    "nuke": {
+      "Deviation": 48.97,
+      "Rating": 1563.52
+    },
+    "train": {
+      "Deviation": 55.14,
+      "Rating": 1530.43
+    }
+  },
+  "vVv": {
+    "dust2": {
+      "Deviation": 64.39,
+      "Rating": 1351.73
+    },
+    "inferno": {
+      "Deviation": 84.02,
+      "Rating": 1119.37
+    },
+    "mirage": {
+      "Deviation": 119.71,
+      "Rating": 1641.91
+    }
+  },
+  "xTc": {
+    "dust2": {
+      "Deviation": 55.42,
+      "Rating": 1233.54
+    },
+    "overpass": {
+      "Deviation": 74.8,
+      "Rating": 1306.07
+    },
+    "train": {
+      "Deviation": 64.86,
+      "Rating": 1000
+    }
+  },
+  "zARLANS": {
+    "cache": {
+      "Deviation": 65.29,
+      "Rating": 1425.13
+    },
+    "cobblestone": {
+      "Deviation": 40.88,
+      "Rating": 1499.04
+    },
+    "dust2": {
+      "Deviation": 40.79,
+      "Rating": 1478.58
+    },
+    "mirage": {
+      "Deviation": 32.27,
+      "Rating": 1548.41
+    },
+    "train": {
+      "Deviation": 85.18,
+      "Rating": 1277.34
+    }
+  }
+}

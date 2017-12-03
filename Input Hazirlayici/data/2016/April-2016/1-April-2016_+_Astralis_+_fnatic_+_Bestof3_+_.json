@@ -1,0 +1,112 @@
+{
+  "Astralis": {
+    "BombDefused": 0,
+    "BombExploded": 0,
+    "Glicko 15": 1570.67,
+    "Glicko 40": 1589.56,
+    "Glicko Lifetime": 1643.83,
+    "Players": {
+      " Andreas 'Xyp9x' H\u00f8jsleth": {
+        "adr": 69.6,
+        "death": 26,
+        "kill": 28,
+        "rating": 0.99
+      },
+      " Finn 'karrigan' Andersen": {
+        "adr": 75.9,
+        "death": 31,
+        "kill": 30,
+        "rating": 0.97
+      },
+      " Nicolai 'device' Reedtz": {
+        "adr": 82.8,
+        "death": 25,
+        "kill": 37,
+        "rating": 1.21
+      },
+      " Peter 'dupreeh' Rasmussen": {
+        "adr": 107.5,
+        "death": 27,
+        "kill": 52,
+        "rating": 1.57
+      },
+      " Ren\u00e9 'cajunb' Borg": {
+        "adr": 83.7,
+        "death": 32,
+        "kill": 39,
+        "rating": 1.25
+      }
+    },
+    "Score": 32,
+    "Score BO": 2,
+    "my_prediction": 44.86,
+    "prediction_15": 44.05,
+    "prediction_40": 44.06,
+    "prediction_life": 45.0
+  },
+  "Date": "1-April-2016",
+  "FileName": "1-April-2016_+_Astralis_+_fnatic_+_Bestof3_+_.json",
+  "GameFormat": "Best of 3",
+  "League": "MLG Columbus 2016",
+  "Match 1": {
+    "Astralis": 16,
+    "Map": "overpass",
+    "fnatic": 10
+  },
+  "Match 2": {
+    "Astralis": 16,
+    "Map": "cache",
+    "fnatic": 5
+  },
+  "Match 3": {
+    "Astralis": null,
+    "Map": "mirage",
+    "fnatic": null
+  },
+  "Url": "http://www.hltv.org/match/2301869-astralis-fnatic-mlg-columbus-2016",
+  "fnatic": {
+    "BombDefused": 0,
+    "BombExploded": 0,
+    "Glicko 15": 1612.41,
+    "Glicko 40": 1631.11,
+    "Glicko Lifetime": 1678.77,
+    "Players": {
+      " Dennis 'dennis' Edman": {
+        "adr": 66.1,
+        "death": 36,
+        "kill": 29,
+        "rating": 0.82
+      },
+      " Freddy 'KRIMZ' Johansson": {
+        "adr": 64.5,
+        "death": 38,
+        "kill": 21,
+        "rating": 0.64
+      },
+      " Jesper 'JW' Wecksell": {
+        "adr": 81.8,
+        "death": 38,
+        "kill": 32,
+        "rating": 0.93
+      },
+      " Olof 'olofmeister' Kajbjer": {
+        "adr": 58.2,
+        "death": 39,
+        "kill": 27,
+        "rating": 0.73
+      },
+      " Robin 'flusha' R\u00f6nnquist": {
+        "adr": 81.3,
+        "death": 35,
+        "kill": 32,
+        "rating": 0.93
+      }
+    },
+    "Score": 15,
+    "Score BO": 0,
+    "my_prediction": 55.14,
+    "prediction_15": 55.95,
+    "prediction_40": 55.94,
+    "prediction_life": 55.0
+  }
+}

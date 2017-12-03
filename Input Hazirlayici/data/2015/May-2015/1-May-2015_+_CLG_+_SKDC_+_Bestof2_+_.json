@@ -1,0 +1,107 @@
+{
+  "CLG": {
+    "BombDefused": 0,
+    "BombExploded": 0,
+    "Glicko 15": 1534.05,
+    "Glicko 40": 1542.2,
+    "Glicko Lifetime": 1421.53,
+    "Players": {
+      " James 'hazed' Cobb": {
+        "adr": 52.4,
+        "death": 27,
+        "kill": 42,
+        "rating": 1.24
+      },
+      " Pujan 'FNS' Mehta": {
+        "adr": 42.2,
+        "death": 39,
+        "kill": 45,
+        "rating": 1.03
+      },
+      " Richard 'Lucky' Vasconcelos": {
+        "adr": 48.9,
+        "death": 37,
+        "kill": 47,
+        "rating": 1.17
+      },
+      " Stephen 'reltuC' Cutler": {
+        "adr": 47.4,
+        "death": 33,
+        "kill": 38,
+        "rating": 1.07
+      },
+      " Tarik 'tarik' Celik": {
+        "adr": 29.6,
+        "death": 34,
+        "kill": 44,
+        "rating": 1.17
+      }
+    },
+    "Score": 32,
+    "Score BO": 2,
+    "my_prediction": null,
+    "prediction_15": 72.1,
+    "prediction_40": 73.02,
+    "prediction_life": 56.34
+  },
+  "Date": "1-May-2015",
+  "FileName": "1-May-2015_+_CLG_+_SKDC_+_Bestof2_+_.json",
+  "GameFormat": "Best of 2",
+  "League": "CEVO Professional Season 7",
+  "Match 1": {
+    "CLG": 16,
+    "Map": "dust2",
+    "SKDC": 13
+  },
+  "Match 2": {
+    "CLG": 16,
+    "Map": "inferno",
+    "SKDC": 11
+  },
+  "SKDC": {
+    "BombDefused": 0,
+    "BombExploded": 0,
+    "Glicko 15": 1367.98,
+    "Glicko 40": 1367.98,
+    "Glicko Lifetime": 1376.85,
+    "Players": {
+      " Alec 'Slemmy' White": {
+        "adr": 33.3,
+        "death": 41,
+        "kill": 42,
+        "rating": 1.07
+      },
+      " Ellis 'els' Clay": {
+        "adr": 40.6,
+        "death": 45,
+        "kill": 32,
+        "rating": 0.76
+      },
+      " Jake 'Stewie2K' Yip": {
+        "adr": 64.5,
+        "death": 47,
+        "kill": 31,
+        "rating": 0.7
+      },
+      " Kyle 'OCEAN' O'Brien": {
+        "adr": 40.0,
+        "death": 36,
+        "kill": 35,
+        "rating": 1.0
+      },
+      " Tyler 'Char' Wallace": {
+        "adr": 43.3,
+        "death": 48,
+        "kill": 30,
+        "rating": 0.66
+      }
+    },
+    "Score": 24,
+    "Score BO": 0,
+    "my_prediction": null,
+    "prediction_15": 27.900000000000006,
+    "prediction_40": 26.980000000000004,
+    "prediction_life": 43.66
+  },
+  "Url": "http://www.hltv.org/match/2295474-clg-skdc-cevo-professional-season-7"
+}

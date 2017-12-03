@@ -1,0 +1,4524 @@
+{
+  "tier1": {
+    "Cloud9": {
+      "match_count": 238, 
+      "rating": 1655.25
+    }, 
+    "NiP": {
+      "match_count": 225, 
+      "rating": 1666.02
+    }, 
+    "SK": {
+      "match_count": 200, 
+      "rating": 1655.79
+    }, 
+    "TyLoo": {
+      "match_count": 96, 
+      "rating": 1653.21
+    }
+  }, 
+  "tier2": {
+    "ALTERNATE aTTaX": {
+      "match_count": 100, 
+      "rating": 1609.06
+    }, 
+    "Astralis": {
+      "match_count": 110, 
+      "rating": 1644.88
+    }, 
+    "CPH Wolves": {
+      "match_count": 74, 
+      "rating": 1611.61
+    }, 
+    "CSGL": {
+      "match_count": 85, 
+      "rating": 1616.87
+    }, 
+    "EnVyUs": {
+      "match_count": 259, 
+      "rating": 1606.58
+    }, 
+    "Epsilon": {
+      "match_count": 123, 
+      "rating": 1608.51
+    }, 
+    "FaZe": {
+      "match_count": 92, 
+      "rating": 1615.63
+    }, 
+    "G2": {
+      "match_count": 211, 
+      "rating": 1638.77
+    }, 
+    "Kinguin": {
+      "match_count": 91, 
+      "rating": 1622.7
+    }, 
+    "Liquid": {
+      "match_count": 241, 
+      "rating": 1614.65
+    }, 
+    "Natus Vincere": {
+      "match_count": 255, 
+      "rating": 1636.17
+    }, 
+    "OpTic": {
+      "match_count": 94, 
+      "rating": 1607.1
+    }, 
+    "Orbit": {
+      "match_count": 60, 
+      "rating": 1595.01
+    }, 
+    "Publiclir.se": {
+      "match_count": 56, 
+      "rating": 1601.49
+    }, 
+    "Renegades": {
+      "match_count": 119, 
+      "rating": 1606.77
+    }, 
+    "Tempo Storm": {
+      "match_count": 84, 
+      "rating": 1598.6
+    }, 
+    "Tricked": {
+      "match_count": 78, 
+      "rating": 1598.24
+    }, 
+    "VG.CyberZen": {
+      "match_count": 65, 
+      "rating": 1645.05
+    }, 
+    "Virtus.pro": {
+      "match_count": 258, 
+      "rating": 1607.87
+    }, 
+    "dignitas": {
+      "match_count": 297, 
+      "rating": 1640.78
+    }, 
+    "fnatic": {
+      "match_count": 254, 
+      "rating": 1630.77
+    }, 
+    "mousesports": {
+      "match_count": 240, 
+      "rating": 1644.02
+    }
+  }, 
+  "tier3": {
+    "AGG": {
+      "match_count": 95, 
+      "rating": 1552.39
+    }, 
+    "AlienTech": {
+      "match_count": 72, 
+      "rating": 1534.11
+    }, 
+    "Arcade": {
+      "match_count": 42, 
+      "rating": 1569.3
+    }, 
+    "Born Of Fire": {
+      "match_count": 47, 
+      "rating": 1602.16
+    }, 
+    "CLG": {
+      "match_count": 234, 
+      "rating": 1531.45
+    }, 
+    "Conquest": {
+      "match_count": 60, 
+      "rating": 1554.61
+    }, 
+    "DenDD": {
+      "match_count": 63, 
+      "rating": 1541.48
+    }, 
+    "E-frag.net": {
+      "match_count": 146, 
+      "rating": 1581.5
+    }, 
+    "ENCE": {
+      "match_count": 82, 
+      "rating": 1545.4
+    }, 
+    "Echo Fox": {
+      "match_count": 56, 
+      "rating": 1574.13
+    }, 
+    "Escape": {
+      "match_count": 44, 
+      "rating": 1546.37
+    }, 
+    "FlipSid3": {
+      "match_count": 242, 
+      "rating": 1556.66
+    }, 
+    "GODSENT": {
+      "match_count": 41, 
+      "rating": 1607.55
+    }, 
+    "Gambit": {
+      "match_count": 76, 
+      "rating": 1577.56
+    }, 
+    "HellRaisers": {
+      "match_count": 263, 
+      "rating": 1550.85
+    }, 
+    "Immortals": {
+      "match_count": 41, 
+      "rating": 1638.99
+    }, 
+    "Immunity": {
+      "match_count": 44, 
+      "rating": 1593.69
+    }, 
+    "KILLERFISH": {
+      "match_count": 66, 
+      "rating": 1536.88
+    }, 
+    "KoN Finland": {
+      "match_count": 49, 
+      "rating": 1537.06
+    }, 
+    "KoN Norway": {
+      "match_count": 55, 
+      "rating": 1543.78
+    }, 
+    "Luminosity": {
+      "match_count": 233, 
+      "rating": 1586.97
+    }, 
+    "MVP project": {
+      "match_count": 41, 
+      "rating": 1628.56
+    }, 
+    "NRG": {
+      "match_count": 77, 
+      "rating": 1582.69
+    }, 
+    "PENTA": {
+      "match_count": 226, 
+      "rating": 1568.07
+    }, 
+    "PRIDE": {
+      "match_count": 54, 
+      "rating": 1556.81
+    }, 
+    "PiTER": {
+      "match_count": 85, 
+      "rating": 1557.49
+    }, 
+    "Preparation": {
+      "match_count": 48, 
+      "rating": 1550.29
+    }, 
+    "Space Soldiers": {
+      "match_count": 135, 
+      "rating": 1586.39
+    }, 
+    "Spirit": {
+      "match_count": 56, 
+      "rating": 1585.9
+    }, 
+    "TSM": {
+      "match_count": 221, 
+      "rating": 1571.17
+    }, 
+    "TheMongolz": {
+      "match_count": 58, 
+      "rating": 1561.71
+    }, 
+    "Titan": {
+      "match_count": 152, 
+      "rating": 1572.91
+    }, 
+    "Vexed": {
+      "match_count": 64, 
+      "rating": 1575.98
+    }, 
+    "X": {
+      "match_count": 46, 
+      "rating": 1645.21
+    }, 
+    "XPC": {
+      "match_count": 58, 
+      "rating": 1540.31
+    }
+  }, 
+  "tier4": {
+    "ACE": {
+      "match_count": 62, 
+      "rating": 1456.16
+    }, 
+    "AllGamers": {
+      "match_count": 33, 
+      "rating": 1547.95
+    }, 
+    "Alpha": {
+      "match_count": 35, 
+      "rating": 1504.58
+    }, 
+    "BX3": {
+      "match_count": 44, 
+      "rating": 1498.21
+    }, 
+    "Bpro": {
+      "match_count": 34, 
+      "rating": 1571.0
+    }, 
+    "Chiefs": {
+      "match_count": 32, 
+      "rating": 1520.85
+    }, 
+    "Dobry&Gaming": {
+      "match_count": 38, 
+      "rating": 1599.22
+    }, 
+    "EDG": {
+      "match_count": 31, 
+      "rating": 1563.79
+    }, 
+    "ESC": {
+      "match_count": 64, 
+      "rating": 1480.62
+    }, 
+    "Enemy": {
+      "match_count": 76, 
+      "rating": 1519.35
+    }, 
+    "Epiphany Bolt": {
+      "match_count": 88, 
+      "rating": 1525.89
+    }, 
+    "GPlay": {
+      "match_count": 38, 
+      "rating": 1530.33
+    }, 
+    "Games Academy": {
+      "match_count": 33, 
+      "rating": 1569.71
+    }, 
+    "Keyd Stars": {
+      "match_count": 58, 
+      "rating": 1516.95
+    }, 
+    "KoN Denmark": {
+      "match_count": 49, 
+      "rating": 1477.09
+    }, 
+    "KoN Sweden": {
+      "match_count": 49, 
+      "rating": 1513.92
+    }, 
+    "LDLC Blue": {
+      "match_count": 43, 
+      "rating": 1489.15
+    }, 
+    "LDLC White": {
+      "match_count": 53, 
+      "rating": 1508.93
+    }, 
+    "LGB": {
+      "match_count": 39, 
+      "rating": 1516.38
+    }, 
+    "MK": {
+      "match_count": 36, 
+      "rating": 1606.78
+    }, 
+    "MVP.karnal": {
+      "match_count": 46, 
+      "rating": 1523.69
+    }, 
+    "Method": {
+      "match_count": 106, 
+      "rating": 1485.62
+    }, 
+    "Millenium": {
+      "match_count": 31, 
+      "rating": 1567.23
+    }, 
+    "No Problem!": {
+      "match_count": 33, 
+      "rating": 1524.0
+    }, 
+    "Playing Ducks": {
+      "match_count": 37, 
+      "rating": 1469.66
+    }, 
+    "Property": {
+      "match_count": 40, 
+      "rating": 1510.79
+    }, 
+    "RCTIC": {
+      "match_count": 65, 
+      "rating": 1522.11
+    }, 
+    "Reason": {
+      "match_count": 62, 
+      "rating": 1480.43
+    }, 
+    "Selfless": {
+      "match_count": 78, 
+      "rating": 1528.47
+    }, 
+    "Splyce": {
+      "match_count": 118, 
+      "rating": 1495.57
+    }, 
+    "Torpedo": {
+      "match_count": 60, 
+      "rating": 1490.33
+    }, 
+    "Vega Squadron": {
+      "match_count": 40, 
+      "rating": 1516.11
+    }, 
+    "Winterfox": {
+      "match_count": 116, 
+      "rating": 1499.82
+    }, 
+    "Worst Players": {
+      "match_count": 38, 
+      "rating": 1523.45
+    }, 
+    "YP": {
+      "match_count": 35, 
+      "rating": 1513.09
+    }, 
+    "compLexity": {
+      "match_count": 132, 
+      "rating": 1511.81
+    }, 
+    "eLevate": {
+      "match_count": 47, 
+      "rating": 1447.54
+    }, 
+    "eSuba": {
+      "match_count": 55, 
+      "rating": 1452.04
+    }, 
+    "g3x": {
+      "match_count": 32, 
+      "rating": 1596.36
+    }, 
+    "k1ck": {
+      "match_count": 83, 
+      "rating": 1500.83
+    }, 
+    "neXtPlease!": {
+      "match_count": 34, 
+      "rating": 1507.98
+    }, 
+    "nerdRage": {
+      "match_count": 55, 
+      "rating": 1496.79
+    }, 
+    "nxl": {
+      "match_count": 37, 
+      "rating": 1473.44
+    }, 
+    "x6tence": {
+      "match_count": 35, 
+      "rating": 1447.17
+    }
+  }, 
+  "tierNone": {
+    "!nsurgents": {
+      "match_count": 4, 
+      "rating": 1375.65
+    }, 
+    "1337": {
+      "match_count": 10, 
+      "rating": 1534.8
+    }, 
+    "1hp": {
+      "match_count": 2, 
+      "rating": 1285.42
+    }, 
+    "228": {
+      "match_count": 3, 
+      "rating": 1388.36
+    }, 
+    "2Kill": {
+      "match_count": 21, 
+      "rating": 1471.48
+    }, 
+    "3 NEW 2 OLD": {
+      "match_count": 5, 
+      "rating": 1594.05
+    }, 
+    "31337": {
+      "match_count": 7, 
+      "rating": 1461.31
+    }, 
+    "3R2L": {
+      "match_count": 4, 
+      "rating": 1324.71
+    }, 
+    "3sUP": {
+      "match_count": 52, 
+      "rating": 1404.66
+    }, 
+    "3v": {
+      "match_count": 5, 
+      "rating": 1323.39
+    }, 
+    "404OrgNotFound": {
+      "match_count": 6, 
+      "rating": 1506.48
+    }, 
+    "4dimensioN": {
+      "match_count": 3, 
+      "rating": 1528.37
+    }, 
+    "5Love.N4": {
+      "match_count": 4, 
+      "rating": 1453.58
+    }, 
+    "5POWER": {
+      "match_count": 4, 
+      "rating": 1549.03
+    }, 
+    "5Peaks": {
+      "match_count": 2, 
+      "rating": 1207.5
+    }, 
+    "5b0rk4": {
+      "match_count": 2, 
+      "rating": 1406.67
+    }, 
+    "7GU6": {
+      "match_count": 2, 
+      "rating": 1276.82
+    }, 
+    "7Kings": {
+      "match_count": 4, 
+      "rating": 1549.75
+    }, 
+    "7sway": {
+      "match_count": 3, 
+      "rating": 1394.32
+    }, 
+    "8 Minded": {
+      "match_count": 4, 
+      "rating": 1444.5
+    }, 
+    "8bit": {
+      "match_count": 2, 
+      "rating": 1490.33
+    }, 
+    "99damage.de Staff": {
+      "match_count": 3, 
+      "rating": 1671.59
+    }, 
+    "?": {
+      "match_count": 16, 
+      "rating": 1611.61
+    }, 
+    "@SNULLE": {
+      "match_count": 3, 
+      "rating": 1076.88
+    }, 
+    "A LA MIX": {
+      "match_count": 4, 
+      "rating": 1245.35
+    }, 
+    "AC-130": {
+      "match_count": 4, 
+      "rating": 1559.94
+    }, 
+    "ACES": {
+      "match_count": 6, 
+      "rating": 1531.98
+    }, 
+    "ACG": {
+      "match_count": 10, 
+      "rating": 1505.62
+    }, 
+    "ADD": {
+      "match_count": 2, 
+      "rating": 1601.87
+    }, 
+    "AG.white": {
+      "match_count": 6, 
+      "rating": 1585.96
+    }, 
+    "AGENT": {
+      "match_count": 3, 
+      "rating": 1463.56
+    }, 
+    "AIMERZZ": {
+      "match_count": 4, 
+      "rating": 1645.08
+    }, 
+    "ALSEN": {
+      "match_count": 6, 
+      "rating": 1474.15
+    }, 
+    "ALSEN fe": {
+      "match_count": 5, 
+      "rating": 1360.95
+    }, 
+    "ANOX": {
+      "match_count": 25, 
+      "rating": 1492.6
+    }, 
+    "ANT-": {
+      "match_count": 2, 
+      "rating": 1564.37
+    }, 
+    "AR8": {
+      "match_count": 3, 
+      "rating": 1533.57
+    }, 
+    "ARMADA": {
+      "match_count": 3, 
+      "rating": 1423.86
+    }, 
+    "ASDF": {
+      "match_count": 10, 
+      "rating": 1589.38
+    }, 
+    "AT FINEST": {
+      "match_count": 2, 
+      "rating": 1426.01
+    }, 
+    "ATB": {
+      "match_count": 10, 
+      "rating": 1521.0
+    }, 
+    "ATSIKI": {
+      "match_count": 2, 
+      "rating": 1432.22
+    }, 
+    "AVANT GARDE": {
+      "match_count": 12, 
+      "rating": 1519.42
+    }, 
+    "AWTR": {
+      "match_count": 3, 
+      "rating": 1532.91
+    }, 
+    "Above the Rest": {
+      "match_count": 2, 
+      "rating": 1487.66
+    }, 
+    "Absolute Unit": {
+      "match_count": 3, 
+      "rating": 1430.59
+    }, 
+    "AbsoluteTerror": {
+      "match_count": 4, 
+      "rating": 1564.33
+    }, 
+    "Acer": {
+      "match_count": 23, 
+      "rating": 1511.61
+    }, 
+    "Acer fe": {
+      "match_count": 8, 
+      "rating": 1494.22
+    }, 
+    "Adaptation": {
+      "match_count": 2, 
+      "rating": 1526.56
+    }, 
+    "AfterClap": {
+      "match_count": 3, 
+      "rating": 1099.83
+    }, 
+    "Aftermatch": {
+      "match_count": 9, 
+      "rating": 1500.5
+    }, 
+    "Aimers Alive": {
+      "match_count": 3, 
+      "rating": 1386.72
+    }, 
+    "Airless": {
+      "match_count": 4, 
+      "rating": 1744.67
+    }, 
+    "Airwalk": {
+      "match_count": 3, 
+      "rating": 1266.0
+    }, 
+    "Albania": {
+      "match_count": 3, 
+      "rating": 1340.89
+    }, 
+    "Algeria": {
+      "match_count": 8, 
+      "rating": 1442.65
+    }, 
+    "AliGon": {
+      "match_count": 27, 
+      "rating": 1540.93
+    }, 
+    "AlienTech.Black": {
+      "match_count": 5, 
+      "rating": 1377.54
+    }, 
+    "All-Star Dragon": {
+      "match_count": 3, 
+      "rating": 1297.92
+    }, 
+    "All-Star Tiger": {
+      "match_count": 3, 
+      "rating": 1702.08
+    }, 
+    "All-Stars Europe": {
+      "match_count": 2, 
+      "rating": 1568.78
+    }, 
+    "All-Stars NA": {
+      "match_count": 2, 
+      "rating": 1431.22
+    }, 
+    "Alpha Sydney": {
+      "match_count": 2, 
+      "rating": 1420.83
+    }, 
+    "Alter Your Ego": {
+      "match_count": 4, 
+      "rating": 1330.81
+    }, 
+    "Altitude": {
+      "match_count": 2, 
+      "rating": 1347.87
+    }, 
+    "Americas All-Stars": {
+      "match_count": 2, 
+      "rating": 1536.06
+    }, 
+    "Ancient": {
+      "match_count": 22, 
+      "rating": 1607.9
+    }, 
+    "Ancients": {
+      "match_count": 3, 
+      "rating": 1312.0
+    }, 
+    "Animal Squad": {
+      "match_count": 8, 
+      "rating": 1584.53
+    }, 
+    "Anxiety Pack": {
+      "match_count": 3, 
+      "rating": 1665.5
+    }, 
+    "Aperture": {
+      "match_count": 23, 
+      "rating": 1588.43
+    }, 
+    "Apoka Academics": {
+      "match_count": 2, 
+      "rating": 1448.33
+    }, 
+    "Aposis": {
+      "match_count": 6, 
+      "rating": 1413.12
+    }, 
+    "Aquiver.BLU": {
+      "match_count": 5, 
+      "rating": 1508.51
+    }, 
+    "Aquiver.RED": {
+      "match_count": 5, 
+      "rating": 1567.95
+    }, 
+    "ArchAngels": {
+      "match_count": 23, 
+      "rating": 1543.44
+    }, 
+    "Area08 fe": {
+      "match_count": 4, 
+      "rating": 1315.02
+    }, 
+    "Argentina": {
+      "match_count": 4, 
+      "rating": 1654.02
+    }, 
+    "Armenia": {
+      "match_count": 2, 
+      "rating": 1121.16
+    }, 
+    "Artyk": {
+      "match_count": 4, 
+      "rating": 1585.41
+    }, 
+    "Aspen": {
+      "match_count": 2, 
+      "rating": 1432.22
+    }, 
+    "Astral Authority": {
+      "match_count": 11, 
+      "rating": 1394.48
+    }, 
+    "Asus ROG": {
+      "match_count": 4, 
+      "rating": 1350.9
+    }, 
+    "Athletico": {
+      "match_count": 8, 
+      "rating": 1510.88
+    }, 
+    "Athletico BH": {
+      "match_count": 13, 
+      "rating": 1556.75
+    }, 
+    "Atlantis": {
+      "match_count": 6, 
+      "rating": 1427.49
+    }, 
+    "Australia": {
+      "match_count": 4, 
+      "rating": 1638.59
+    }, 
+    "Austria": {
+      "match_count": 3, 
+      "rating": 1452.21
+    }, 
+    "Available!": {
+      "match_count": 2, 
+      "rating": 1671.52
+    }, 
+    "Awsomniac": {
+      "match_count": 9, 
+      "rating": 1551.03
+    }, 
+    "Azerbaijan": {
+      "match_count": 3, 
+      "rating": 1309.59
+    }, 
+    "B.O.O.T": {
+      "match_count": 20, 
+      "rating": 1465.46
+    }, 
+    "BB": {
+      "match_count": 2, 
+      "rating": 1372.88
+    }, 
+    "BET": {
+      "match_count": 2, 
+      "rating": 1164.15
+    }, 
+    "BFFsIRL": {
+      "match_count": 2, 
+      "rating": 1397.07
+    }, 
+    "BLITZKRIEG": {
+      "match_count": 2, 
+      "rating": 1472.81
+    }, 
+    "BLUEJAYS": {
+      "match_count": 7, 
+      "rating": 1507.69
+    }, 
+    "BOTS": {
+      "match_count": 3, 
+      "rating": 1461.9
+    }, 
+    "BTY": {
+      "match_count": 2, 
+      "rating": 1382.22
+    }, 
+    "Bahrain": {
+      "match_count": 2, 
+      "rating": 1223.53
+    }, 
+    "Balkan Bears": {
+      "match_count": 2, 
+      "rating": 1425.46
+    }, 
+    "Bananaboys": {
+      "match_count": 5, 
+      "rating": 1692.77
+    }, 
+    "Bar r\u00f8v og sandaler": {
+      "match_count": 4, 
+      "rating": 1369.28
+    }, 
+    "Barrage": {
+      "match_count": 2, 
+      "rating": 1675.56
+    }, 
+    "Bee's Money Crew": {
+      "match_count": 9, 
+      "rating": 1503.4
+    }, 
+    "Belarus": {
+      "match_count": 9, 
+      "rating": 1538.07
+    }, 
+    "Belgium": {
+      "match_count": 13, 
+      "rating": 1561.59
+    }, 
+    "BigGods": {
+      "match_count": 25, 
+      "rating": 1551.8
+    }, 
+    "Binary Dragons": {
+      "match_count": 18, 
+      "rating": 1448.25
+    }, 
+    "Binary Dragons Gold": {
+      "match_count": 5, 
+      "rating": 1349.88
+    }, 
+    "BitterSweetGG": {
+      "match_count": 3, 
+      "rating": 1005.83
+    }, 
+    "Black Dragons": {
+      "match_count": 9, 
+      "rating": 1449.52
+    }, 
+    "BlackSheep": {
+      "match_count": 2, 
+      "rating": 1431.22
+    }, 
+    "Blight": {
+      "match_count": 8, 
+      "rating": 1430.43
+    }, 
+    "Blojexpressen": {
+      "match_count": 2, 
+      "rating": 1616.25
+    }, 
+    "Bolivia": {
+      "match_count": 2, 
+      "rating": 1185.39
+    }, 
+    "Booty Clappers": {
+      "match_count": 4, 
+      "rating": 1445.04
+    }, 
+    "Boreal": {
+      "match_count": 4, 
+      "rating": 1307.11
+    }, 
+    "Born in Mongolia": {
+      "match_count": 2, 
+      "rating": 1512.46
+    }, 
+    "Bosnia & Herzegovina": {
+      "match_count": 8, 
+      "rating": 1555.65
+    }, 
+    "Bounty Hunters": {
+      "match_count": 3, 
+      "rating": 1269.4
+    }, 
+    "Bovines": {
+      "match_count": 4, 
+      "rating": 1444.55
+    }, 
+    "Braindead": {
+      "match_count": 6, 
+      "rating": 1395.76
+    }, 
+    "Bravado": {
+      "match_count": 25, 
+      "rating": 1639.57
+    }, 
+    "Brave or warrior": {
+      "match_count": 8, 
+      "rating": 1356.32
+    }, 
+    "Brazil": {
+      "match_count": 5, 
+      "rating": 1594.0
+    }, 
+    "Brekan": {
+      "match_count": 3, 
+      "rating": 1196.26
+    }, 
+    "Broken Alliance": {
+      "match_count": 2, 
+      "rating": 1780.69
+    }, 
+    "Brutality": {
+      "match_count": 4, 
+      "rating": 1544.27
+    }, 
+    "Buddha California": {
+      "match_count": 2, 
+      "rating": 1295.85
+    }, 
+    "Bulgaria": {
+      "match_count": 5, 
+      "rating": 1467.26
+    }, 
+    "BulletsRage.Pro": {
+      "match_count": 7, 
+      "rating": 1448.65
+    }, 
+    "CAZ": {
+      "match_count": 10, 
+      "rating": 1515.0
+    }, 
+    "CETCTM": {
+      "match_count": 2, 
+      "rating": 1542.42
+    }, 
+    "CG": {
+      "match_count": 10, 
+      "rating": 1530.15
+    }, 
+    "CHAOS": {
+      "match_count": 3, 
+      "rating": 1600.28
+    }, 
+    "CL4NLESS": {
+      "match_count": 2, 
+      "rating": 1401.17
+    }, 
+    "CLG Red": {
+      "match_count": 26, 
+      "rating": 1488.56
+    }, 
+    "CM Storm": {
+      "match_count": 4, 
+      "rating": 1494.1
+    }, 
+    "CNB": {
+      "match_count": 30, 
+      "rating": 1504.67
+    }, 
+    "CORE": {
+      "match_count": 2, 
+      "rating": 1140.11
+    }, 
+    "CPLAY": {
+      "match_count": 13, 
+      "rating": 1449.66
+    }, 
+    "CS-GO.rs": {
+      "match_count": 13, 
+      "rating": 1410.46
+    }, 
+    "CSGO-Saloon": {
+      "match_count": 9, 
+      "rating": 1502.66
+    }, 
+    "CSGO.one": {
+      "match_count": 12, 
+      "rating": 1560.67
+    }, 
+    "CSGO2x": {
+      "match_count": 9, 
+      "rating": 1557.94
+    }, 
+    "CSGOBESTPOT.com": {
+      "match_count": 6, 
+      "rating": 1515.82
+    }, 
+    "CSGOCasino.net": {
+      "match_count": 5, 
+      "rating": 1712.12
+    }, 
+    "CSGOEvo White": {
+      "match_count": 4, 
+      "rating": 1470.09
+    }, 
+    "CSatse": {
+      "match_count": 3, 
+      "rating": 1490.1
+    }, 
+    "Camel Riders": {
+      "match_count": 3, 
+      "rating": 1529.88
+    }, 
+    "Canada": {
+      "match_count": 8, 
+      "rating": 1561.7
+    }, 
+    "Caseking": {
+      "match_count": 10, 
+      "rating": 1447.29
+    }, 
+    "CeX": {
+      "match_count": 12, 
+      "rating": 1472.88
+    }, 
+    "Chile": {
+      "match_count": 4, 
+      "rating": 1522.34
+    }, 
+    "China": {
+      "match_count": 9, 
+      "rating": 1690.7
+    }, 
+    "Choke": {
+      "match_count": 13, 
+      "rating": 1486.81
+    }, 
+    "Cl4nless": {
+      "match_count": 2, 
+      "rating": 1371.24
+    }, 
+    "ClockTime": {
+      "match_count": 2, 
+      "rating": 1219.31
+    }, 
+    "Coast": {
+      "match_count": 21, 
+      "rating": 1391.94
+    }, 
+    "Coastless": {
+      "match_count": 6, 
+      "rating": 1417.81
+    }, 
+    "Colombia": {
+      "match_count": 4, 
+      "rating": 1562.55
+    }, 
+    "Comanche": {
+      "match_count": 5, 
+      "rating": 1471.06
+    }, 
+    "Control.VP": {
+      "match_count": 3, 
+      "rating": 1501.91
+    }, 
+    "Corvidae": {
+      "match_count": 2, 
+      "rating": 1491.37
+    }, 
+    "Crashers": {
+      "match_count": 3, 
+      "rating": 1333.75
+    }, 
+    "Creation": {
+      "match_count": 3, 
+      "rating": 1372.94
+    }, 
+    "Croatia": {
+      "match_count": 6, 
+      "rating": 1488.23
+    }, 
+    "Crowns": {
+      "match_count": 5, 
+      "rating": 1620.81
+    }, 
+    "Crystallize": {
+      "match_count": 2, 
+      "rating": 1379.01
+    }, 
+    "Curiosity": {
+      "match_count": 4, 
+      "rating": 1308.39
+    }, 
+    "CyberZen": {
+      "match_count": 23, 
+      "rating": 1630.22
+    }, 
+    "Cybersport.pl Staff": {
+      "match_count": 2, 
+      "rating": 1426.05
+    }, 
+    "Cyprus": {
+      "match_count": 3, 
+      "rating": 1367.59
+    }, 
+    "Czech Republic": {
+      "match_count": 5, 
+      "rating": 1576.66
+    }, 
+    "DEEZ NUTS": {
+      "match_count": 5, 
+      "rating": 1496.04
+    }, 
+    "DEMONIO": {
+      "match_count": 3, 
+      "rating": 1440.98
+    }, 
+    "DICKHOUSE": {
+      "match_count": 10, 
+      "rating": 1458.03
+    }, 
+    "DISMAY": {
+      "match_count": 3, 
+      "rating": 1392.78
+    }, 
+    "DMIT": {
+      "match_count": 2, 
+      "rating": 1457.58
+    }, 
+    "DSS": {
+      "match_count": 5, 
+      "rating": 1393.57
+    }, 
+    "Dai Dai": {
+      "match_count": 5, 
+      "rating": 1428.32
+    }, 
+    "Damage Control": {
+      "match_count": 10, 
+      "rating": 1502.24
+    }, 
+    "DarkPassage": {
+      "match_count": 17, 
+      "rating": 1544.58
+    }, 
+    "Day Dreamers": {
+      "match_count": 2, 
+      "rating": 1441.88
+    }, 
+    "DeToNator": {
+      "match_count": 9, 
+      "rating": 1424.35
+    }, 
+    "Dead Pixels": {
+      "match_count": 15, 
+      "rating": 1477.82
+    }, 
+    "Deathtrap": {
+      "match_count": 20, 
+      "rating": 1555.24
+    }, 
+    "Defying Gravity": {
+      "match_count": 2, 
+      "rating": 1389.49
+    }, 
+    "Delete": {
+      "match_count": 13, 
+      "rating": 1512.31
+    }, 
+    "Delinquent Habits": {
+      "match_count": 5, 
+      "rating": 1540.52
+    }, 
+    "Dem Boyz": {
+      "match_count": 4, 
+      "rating": 1435.34
+    }, 
+    "Denial": {
+      "match_count": 9, 
+      "rating": 1420.33
+    }, 
+    "Denmark": {
+      "match_count": 21, 
+      "rating": 1645.32
+    }, 
+    "Descend": {
+      "match_count": 2, 
+      "rating": 1380.93
+    }, 
+    "Desperados": {
+      "match_count": 3, 
+      "rating": 1478.41
+    }, 
+    "Detonate": {
+      "match_count": 4, 
+      "rating": 1504.94
+    }, 
+    "Devcat": {
+      "match_count": 3, 
+      "rating": 1464.29
+    }, 
+    "Devious": {
+      "match_count": 2, 
+      "rating": 1314.55
+    }, 
+    "Devour": {
+      "match_count": 2, 
+      "rating": 1427.46
+    }, 
+    "Dexterity fe": {
+      "match_count": 4, 
+      "rating": 1478.41
+    }, 
+    "Dictionary": {
+      "match_count": 6, 
+      "rating": 1510.73
+    }, 
+    "Digital Wave": {
+      "match_count": 5, 
+      "rating": 1443.34
+    }, 
+    "Dire Wolves": {
+      "match_count": 6, 
+      "rating": 1577.63
+    }, 
+    "Distinct5": {
+      "match_count": 3, 
+      "rating": 1395.06
+    }, 
+    "Divine": {
+      "match_count": 2, 
+      "rating": 1396.49
+    }, 
+    "Dogmen": {
+      "match_count": 3, 
+      "rating": 1543.63
+    }, 
+    "DollarHouse": {
+      "match_count": 4, 
+      "rating": 1424.92
+    }, 
+    "Dominican Republic": {
+      "match_count": 3, 
+      "rating": 1164.36
+    }, 
+    "DreamRAR": {
+      "match_count": 5, 
+      "rating": 1561.98
+    }, 
+    "Dreamcity": {
+      "match_count": 2, 
+      "rating": 1517.94
+    }, 
+    "Dynasty": {
+      "match_count": 7, 
+      "rating": 1427.08
+    }, 
+    "E-Corp": {
+      "match_count": 4, 
+      "rating": 1477.6
+    }, 
+    "E-frag.net Staff": {
+      "match_count": 7, 
+      "rating": 1700.46
+    }, 
+    "EDF": {
+      "match_count": 2, 
+      "rating": 1119.38
+    }, 
+    "EFV": {
+      "match_count": 4, 
+      "rating": 1467.46
+    }, 
+    "EGB.com Staff": {
+      "match_count": 2, 
+      "rating": 1368.8
+    }, 
+    "EHOME": {
+      "match_count": 13, 
+      "rating": 1584.99
+    }, 
+    "ELTZ": {
+      "match_count": 8, 
+      "rating": 1486.72
+    }, 
+    "ENCORE": {
+      "match_count": 16, 
+      "rating": 1496.29
+    }, 
+    "ENRAGE": {
+      "match_count": 3, 
+      "rating": 1427.78
+    }, 
+    "ENTiTY": {
+      "match_count": 4, 
+      "rating": 1516.65
+    }, 
+    "ENYO fe": {
+      "match_count": 3, 
+      "rating": 1029.2
+    }, 
+    "EU4IA": {
+      "match_count": 5, 
+      "rating": 1460.8
+    }, 
+    "EURONICS": {
+      "match_count": 23, 
+      "rating": 1503.99
+    }, 
+    "EYES ON U": {
+      "match_count": 19, 
+      "rating": 1483.31
+    }, 
+    "EYESports": {
+      "match_count": 2, 
+      "rating": 1639.27
+    }, 
+    "EYESports fe": {
+      "match_count": 3, 
+      "rating": 1368.96
+    }, 
+    "EZ on The Soul": {
+      "match_count": 5, 
+      "rating": 1172.24
+    }, 
+    "EZG": {
+      "match_count": 3, 
+      "rating": 1437.04
+    }, 
+    "EZPZ_LS": {
+      "match_count": 8, 
+      "rating": 1600.17
+    }, 
+    "EZmarket.org": {
+      "match_count": 4, 
+      "rating": 1549.23
+    }, 
+    "EZskins.com": {
+      "match_count": 9, 
+      "rating": 1535.07
+    }, 
+    "Eanix": {
+      "match_count": 3, 
+      "rating": 1467.77
+    }, 
+    "Eastern Vikings": {
+      "match_count": 10, 
+      "rating": 1525.54
+    }, 
+    "EasyFix": {
+      "match_count": 9, 
+      "rating": 1566.42
+    }, 
+    "EasyMind": {
+      "match_count": 4, 
+      "rating": 1298.85
+    }, 
+    "Eat You Alive": {
+      "match_count": 3, 
+      "rating": 1352.3
+    }, 
+    "EchoMix": {
+      "match_count": 2, 
+      "rating": 1343.93
+    }, 
+    "Ecuador": {
+      "match_count": 4, 
+      "rating": 1424.0
+    }, 
+    "Egypt": {
+      "match_count": 8, 
+      "rating": 1426.09
+    }, 
+    "El Salvador": {
+      "match_count": 3, 
+      "rating": 1231.09
+    }, 
+    "Elysium": {
+      "match_count": 4, 
+      "rating": 1188.55
+    }, 
+    "Emc": {
+      "match_count": 7, 
+      "rating": 1598.87
+    }, 
+    "Empath": {
+      "match_count": 3, 
+      "rating": 1348.02
+    }, 
+    "Empire": {
+      "match_count": 29, 
+      "rating": 1513.82
+    }, 
+    "EnRo GRIFFINS": {
+      "match_count": 3, 
+      "rating": 1193.11
+    }, 
+    "Energy Pacemaker": {
+      "match_count": 9, 
+      "rating": 1495.61
+    }, 
+    "Enervate": {
+      "match_count": 15, 
+      "rating": 1547.23
+    }, 
+    "Enervate.A": {
+      "match_count": 2, 
+      "rating": 1423.01
+    }, 
+    "Enso": {
+      "match_count": 44, 
+      "rating": 1437.62
+    }, 
+    "Entropy": {
+      "match_count": 8, 
+      "rating": 1597.87
+    }, 
+    "Epsilon fe": {
+      "match_count": 4, 
+      "rating": 1388.63
+    }, 
+    "Equilibrium": {
+      "match_count": 4, 
+      "rating": 1382.51
+    }, 
+    "Erase": {
+      "match_count": 2, 
+      "rating": 1411.12
+    }, 
+    "Estonia": {
+      "match_count": 7, 
+      "rating": 1562.27
+    }, 
+    "Europe All-Stars": {
+      "match_count": 2, 
+      "rating": 1463.94
+    }, 
+    "European Misfits": {
+      "match_count": 8, 
+      "rating": 1373.26
+    }, 
+    "Evident Victory": {
+      "match_count": 3, 
+      "rating": 1208.41
+    }, 
+    "Evil Nation": {
+      "match_count": 2, 
+      "rating": 1461.5
+    }, 
+    "Evokate": {
+      "match_count": 3, 
+      "rating": 1339.04
+    }, 
+    "Evolution": {
+      "match_count": 7, 
+      "rating": 1441.23
+    }, 
+    "ExAequo": {
+      "match_count": 8, 
+      "rating": 1696.97
+    }, 
+    "Excellence": {
+      "match_count": 4, 
+      "rating": 1224.44
+    }, 
+    "Executors": {
+      "match_count": 3, 
+      "rating": 1408.91
+    }, 
+    "Exertus": {
+      "match_count": 4, 
+      "rating": 1490.46
+    }, 
+    "Exertus fe": {
+      "match_count": 8, 
+      "rating": 1457.77
+    }, 
+    "Exile5": {
+      "match_count": 24, 
+      "rating": 1487.3
+    }, 
+    "Exotic Island": {
+      "match_count": 6, 
+      "rating": 1312.69
+    }, 
+    "Expendables": {
+      "match_count": 7, 
+      "rating": 1401.58
+    }, 
+    "Expert": {
+      "match_count": 2, 
+      "rating": 1438.26
+    }, 
+    "Eyeshield": {
+      "match_count": 2, 
+      "rating": 1446.18
+    }, 
+    "F7": {
+      "match_count": 2, 
+      "rating": 1429.64
+    }, 
+    "FAB": {
+      "match_count": 9, 
+      "rating": 1510.59
+    }, 
+    "FACEIT Staff": {
+      "match_count": 2, 
+      "rating": 1184.9
+    }, 
+    "FENNEC": {
+      "match_count": 3, 
+      "rating": 1543.28
+    }, 
+    "FIVE": {
+      "match_count": 21, 
+      "rating": 1568.7
+    }, 
+    "FLUGGENKLINGENKEIN": {
+      "match_count": 2, 
+      "rating": 1360.73
+    }, 
+    "FOXTROT": {
+      "match_count": 3, 
+      "rating": 1295.6
+    }, 
+    "FTW. Prinfor": {
+      "match_count": 4, 
+      "rating": 1512.03
+    }, 
+    "FTW.Evo Prinfor": {
+      "match_count": 9, 
+      "rating": 1339.24
+    }, 
+    "FTW.G2A": {
+      "match_count": 4, 
+      "rating": 1274.02
+    }, 
+    "FTW.PRO": {
+      "match_count": 13, 
+      "rating": 1402.35
+    }, 
+    "FiVe": {
+      "match_count": 2, 
+      "rating": 1449.35
+    }, 
+    "Finland": {
+      "match_count": 20, 
+      "rating": 1589.33
+    }, 
+    "Flash": {
+      "match_count": 5, 
+      "rating": 1500.13
+    }, 
+    "Fluffy Gangsters": {
+      "match_count": 22, 
+      "rating": 1528.41
+    }, 
+    "Fnatic Staff": {
+      "match_count": 3, 
+      "rating": 1541.97
+    }, 
+    "Forbidden": {
+      "match_count": 3, 
+      "rating": 1388.6
+    }, 
+    "Force of Nature": {
+      "match_count": 4, 
+      "rating": 1459.3
+    }, 
+    "Fountain of Fire": {
+      "match_count": 7, 
+      "rating": 1382.84
+    }, 
+    "Fox Stratos": {
+      "match_count": 4, 
+      "rating": 1407.02
+    }, 
+    "Fragbite.se Staff": {
+      "match_count": 3, 
+      "rating": 1556.81
+    }, 
+    "Fragsters": {
+      "match_count": 7, 
+      "rating": 1617.2
+    }, 
+    "Fragzone": {
+      "match_count": 2, 
+      "rating": 1456.85
+    }, 
+    "France": {
+      "match_count": 15, 
+      "rating": 1713.75
+    }, 
+    "Fraternitas": {
+      "match_count": 22, 
+      "rating": 1516.59
+    }, 
+    "Fredde": {
+      "match_count": 2, 
+      "rating": 1422.19
+    }, 
+    "Friends": {
+      "match_count": 3, 
+      "rating": 1686.23
+    }, 
+    "Furious": {
+      "match_count": 17, 
+      "rating": 1491.69
+    }, 
+    "G2A.com Staff": {
+      "match_count": 2, 
+      "rating": 1360.73
+    }, 
+    "GANK": {
+      "match_count": 6, 
+      "rating": 1600.45
+    }, 
+    "GG1337": {
+      "match_count": 2, 
+      "rating": 1384.98
+    }, 
+    "GIANT5": {
+      "match_count": 8, 
+      "rating": 1517.15
+    }, 
+    "GLG": {
+      "match_count": 10, 
+      "rating": 1392.79
+    }, 
+    "GODS.WIN": {
+      "match_count": 4, 
+      "rating": 1260.81
+    }, 
+    "GODSENT Academy": {
+      "match_count": 4, 
+      "rating": 1529.43
+    }, 
+    "GREAT ONE-LINERS": {
+      "match_count": 3, 
+      "rating": 1386.61
+    }, 
+    "GRS.GP": {
+      "match_count": 5, 
+      "rating": 1362.79
+    }, 
+    "GUNRUNNERS": {
+      "match_count": 6, 
+      "rating": 1441.61
+    }, 
+    "GUS-Gaming": {
+      "match_count": 3, 
+      "rating": 1505.28
+    }, 
+    "GUTS": {
+      "match_count": 6, 
+      "rating": 1452.3
+    }, 
+    "Galatics": {
+      "match_count": 18, 
+      "rating": 1391.68
+    }, 
+    "Game Show Staff": {
+      "match_count": 3, 
+      "rating": 1328.74
+    }, 
+    "GameAgents": {
+      "match_count": 29, 
+      "rating": 1525.75
+    }, 
+    "GamePub": {
+      "match_count": 8, 
+      "rating": 1454.41
+    }, 
+    "GameplayDNA": {
+      "match_count": 15, 
+      "rating": 1404.44
+    }, 
+    "Gamers INC": {
+      "match_count": 4, 
+      "rating": 1431.89
+    }, 
+    "Gamers.com.mt Staff": {
+      "match_count": 2, 
+      "rating": 1095.19
+    }, 
+    "GamersLeague": {
+      "match_count": 6, 
+      "rating": 1486.33
+    }, 
+    "Games4u": {
+      "match_count": 6, 
+      "rating": 1527.85
+    }, 
+    "Games4u fe": {
+      "match_count": 13, 
+      "rating": 1499.79
+    }, 
+    "Gathers": {
+      "match_count": 6, 
+      "rating": 1412.75
+    }, 
+    "Gdansk Lions": {
+      "match_count": 5, 
+      "rating": 1396.62
+    }, 
+    "Geekunit": {
+      "match_count": 2, 
+      "rating": 1375.57
+    }, 
+    "Genus": {
+      "match_count": 3, 
+      "rating": 1360.85
+    }, 
+    "Georgia": {
+      "match_count": 4, 
+      "rating": 1399.2
+    }, 
+    "Germany": {
+      "match_count": 14, 
+      "rating": 1598.59
+    }, 
+    "GimmeSomeCANDY": {
+      "match_count": 3, 
+      "rating": 1325.75
+    }, 
+    "Giveway": {
+      "match_count": 2, 
+      "rating": 1320.57
+    }, 
+    "Global Sanction": {
+      "match_count": 4, 
+      "rating": 1492.78
+    }, 
+    "Goalie": {
+      "match_count": 5, 
+      "rating": 1522.72
+    }, 
+    "Gosu": {
+      "match_count": 8, 
+      "rating": 1405.26
+    }, 
+    "GrabbarnaGrus": {
+      "match_count": 2, 
+      "rating": 1164.15
+    }, 
+    "Granted": {
+      "match_count": 4, 
+      "rating": 1486.1
+    }, 
+    "Greece": {
+      "match_count": 3, 
+      "rating": 1319.21
+    }, 
+    "GreyFace": {
+      "match_count": 15, 
+      "rating": 1534.38
+    }, 
+    "Grimalkin": {
+      "match_count": 2, 
+      "rating": 1366.36
+    }, 
+    "Grinny Bankers": {
+      "match_count": 2, 
+      "rating": 1286.89
+    }, 
+    "Groovy": {
+      "match_count": 5, 
+      "rating": 1849.23
+    }, 
+    "Ground Zero": {
+      "match_count": 2, 
+      "rating": 1665.51
+    }, 
+    "Grow Up": {
+      "match_count": 3, 
+      "rating": 1364.77
+    }, 
+    "Guatemala": {
+      "match_count": 4, 
+      "rating": 1377.99
+    }, 
+    "Guerreros del Mouse": {
+      "match_count": 3, 
+      "rating": 1717.65
+    }, 
+    "H2B": {
+      "match_count": 5, 
+      "rating": 1589.05
+    }, 
+    "HD4R": {
+      "match_count": 6, 
+      "rating": 1514.77
+    }, 
+    "HEADSHOTBG": {
+      "match_count": 19, 
+      "rating": 1515.55
+    }, 
+    "HG": {
+      "match_count": 11, 
+      "rating": 1483.78
+    }, 
+    "HLTV.org Staff": {
+      "match_count": 5, 
+      "rating": 1841.47
+    }, 
+    "HOMELESS": {
+      "match_count": 3, 
+      "rating": 1625.55
+    }, 
+    "HS.GG": {
+      "match_count": 6, 
+      "rating": 1444.03
+    }, 
+    "HUE1": {
+      "match_count": 2, 
+      "rating": 1568.93
+    }, 
+    "HUEHUE": {
+      "match_count": 8, 
+      "rating": 1575.0
+    }, 
+    "HWA": {
+      "match_count": 3, 
+      "rating": 1494.08
+    }, 
+    "Handface": {
+      "match_count": 4, 
+      "rating": 1442.57
+    }, 
+    "Hanoi Vortex": {
+      "match_count": 2, 
+      "rating": 1425.04
+    }, 
+    "Heaven": {
+      "match_count": 4, 
+      "rating": 1417.03
+    }, 
+    "Heavystompers": {
+      "match_count": 2, 
+      "rating": 1267.74
+    }, 
+    "Heroic": {
+      "match_count": 27, 
+      "rating": 1596.05
+    }, 
+    "HeyGuys": {
+      "match_count": 5, 
+      "rating": 1510.16
+    }, 
+    "Hidden Potential": {
+      "match_count": 3, 
+      "rating": 1307.59
+    }, 
+    "Hong Kong": {
+      "match_count": 6, 
+      "rating": 1664.39
+    }, 
+    "Hot Shot": {
+      "match_count": 2, 
+      "rating": 1253.79
+    }, 
+    "Hungary": {
+      "match_count": 9, 
+      "rating": 1573.63
+    }, 
+    "Hyper4mance": {
+      "match_count": 2, 
+      "rating": 1437.37
+    }, 
+    "IDM": {
+      "match_count": 4, 
+      "rating": 1447.26
+    }, 
+    "IGG": {
+      "match_count": 6, 
+      "rating": 1485.86
+    }, 
+    "IHAVEADREAM": {
+      "match_count": 4, 
+      "rating": 1355.81
+    }, 
+    "INFINITY": {
+      "match_count": 17, 
+      "rating": 1501.72
+    }, 
+    "INSHOCK": {
+      "match_count": 6, 
+      "rating": 1492.08
+    }, 
+    "INTZ": {
+      "match_count": 26, 
+      "rating": 1478.28
+    }, 
+    "ISKOLD": {
+      "match_count": 5, 
+      "rating": 1456.57
+    }, 
+    "Iceland": {
+      "match_count": 12, 
+      "rating": 1513.81
+    }, 
+    "Ichorous": {
+      "match_count": 2, 
+      "rating": 1334.49
+    }, 
+    "Imagination": {
+      "match_count": 4, 
+      "rating": 1648.4
+    }, 
+    "ImbaTV": {
+      "match_count": 2, 
+      "rating": 1746.21
+    }, 
+    "Imperial Dragons": {
+      "match_count": 7, 
+      "rating": 1454.63
+    }, 
+    "Imperio Multimedia": {
+      "match_count": 18, 
+      "rating": 1406.38
+    }, 
+    "In-Finity": {
+      "match_count": 2, 
+      "rating": 1652.13
+    }, 
+    "InFamous": {
+      "match_count": 6, 
+      "rating": 1365.98
+    }, 
+    "InFlames": {
+      "match_count": 2, 
+      "rating": 1496.89
+    }, 
+    "Incept": {
+      "match_count": 2, 
+      "rating": 1517.02
+    }, 
+    "Incursion": {
+      "match_count": 4, 
+      "rating": 1378.06
+    }, 
+    "India": {
+      "match_count": 4, 
+      "rating": 1706.06
+    }, 
+    "Indonesia": {
+      "match_count": 11, 
+      "rating": 1595.81
+    }, 
+    "Infernal Paradise": {
+      "match_count": 3, 
+      "rating": 1440.56
+    }, 
+    "Infinity": {
+      "match_count": 2, 
+      "rating": 1396.52
+    }, 
+    "Infire": {
+      "match_count": 2, 
+      "rating": 1463.86
+    }, 
+    "Influx Nordic": {
+      "match_count": 3, 
+      "rating": 1000.0
+    }, 
+    "Infused": {
+      "match_count": 22, 
+      "rating": 1493.37
+    }, 
+    "Innova": {
+      "match_count": 25, 
+      "rating": 1473.33
+    }, 
+    "Inside": {
+      "match_count": 6, 
+      "rating": 1267.66
+    }, 
+    "Insidious": {
+      "match_count": 12, 
+      "rating": 1515.44
+    }, 
+    "Insolent": {
+      "match_count": 3, 
+      "rating": 1517.71
+    }, 
+    "Insomnia": {
+      "match_count": 4, 
+      "rating": 1505.87
+    }, 
+    "Iran": {
+      "match_count": 2, 
+      "rating": 1445.48
+    }, 
+    "Ireland": {
+      "match_count": 4, 
+      "rating": 1507.56
+    }, 
+    "Isak": {
+      "match_count": 8, 
+      "rating": 1426.93
+    }, 
+    "Israel": {
+      "match_count": 3, 
+      "rating": 1412.08
+    }, 
+    "Italy": {
+      "match_count": 3, 
+      "rating": 1482.59
+    }, 
+    "Iwku": {
+      "match_count": 19, 
+      "rating": 1530.34
+    }, 
+    "J2G": {
+      "match_count": 13, 
+      "rating": 1417.4
+    }, 
+    "JAYOB": {
+      "match_count": 2, 
+      "rating": 1679.43
+    }, 
+    "JSG": {
+      "match_count": 4, 
+      "rating": 1419.39
+    }, 
+    "Jake Bube": {
+      "match_count": 4, 
+      "rating": 1417.42
+    }, 
+    "Japan": {
+      "match_count": 6, 
+      "rating": 1425.09
+    }, 
+    "Jordan": {
+      "match_count": 4, 
+      "rating": 1465.31
+    }, 
+    "Just Deal With It": {
+      "match_count": 3, 
+      "rating": 1303.81
+    }, 
+    "Just Make it Fast": {
+      "match_count": 3, 
+      "rating": 1393.88
+    }, 
+    "JustMSI": {
+      "match_count": 2, 
+      "rating": 1390.36
+    }, 
+    "JustPassingBy": {
+      "match_count": 2, 
+      "rating": 1446.88
+    }, 
+    "Jyntt\u00e4": {
+      "match_count": 4, 
+      "rating": 1448.0
+    }, 
+    "KAPOW": {
+      "match_count": 2, 
+      "rating": 1560.54
+    }, 
+    "KDDA": {
+      "match_count": 2, 
+      "rating": 1432.83
+    }, 
+    "KIYF": {
+      "match_count": 9, 
+      "rating": 1383.05
+    }, 
+    "KKona": {
+      "match_count": 20, 
+      "rating": 1415.41
+    }, 
+    "KNR": {
+      "match_count": 3, 
+      "rating": 1444.18
+    }, 
+    "KOWABUNGA": {
+      "match_count": 2, 
+      "rating": 1332.44
+    }, 
+    "Kalashnikov 47": {
+      "match_count": 5, 
+      "rating": 1518.81
+    }, 
+    "Kaliber": {
+      "match_count": 14, 
+      "rating": 1512.34
+    }, 
+    "KappaKappa": {
+      "match_count": 8, 
+      "rating": 1423.98
+    }, 
+    "KappaMA": {
+      "match_count": 2, 
+      "rating": 1437.37
+    }, 
+    "Karma": {
+      "match_count": 12, 
+      "rating": 1505.73
+    }, 
+    "Kazakhstan": {
+      "match_count": 11, 
+      "rating": 1586.47
+    }, 
+    "Kingdom": {
+      "match_count": 5, 
+      "rating": 1441.08
+    }, 
+    "Kitfoxes": {
+      "match_count": 2, 
+      "rating": 1780.69
+    }, 
+    "KnockOutStars": {
+      "match_count": 2, 
+      "rating": 1351.66
+    }, 
+    "KotK": {
+      "match_count": 3, 
+      "rating": 1224.35
+    }, 
+    "Krydsild": {
+      "match_count": 5, 
+      "rating": 1558.69
+    }, 
+    "Kung Fu Masters": {
+      "match_count": 2, 
+      "rating": 1431.01
+    }, 
+    "Kuwait": {
+      "match_count": 2, 
+      "rating": 1403.27
+    }, 
+    "Kyrgyzstan": {
+      "match_count": 8, 
+      "rating": 1526.02
+    }, 
+    "LAN DODGERS": {
+      "match_count": 7, 
+      "rating": 1424.74
+    }, 
+    "LC Staff": {
+      "match_count": 6, 
+      "rating": 1751.29
+    }, 
+    "LDDM": {
+      "match_count": 4, 
+      "rating": 1460.68
+    }, 
+    "LDLC": {
+      "match_count": 23, 
+      "rating": 1555.06
+    }, 
+    "LDLC fe": {
+      "match_count": 9, 
+      "rating": 1318.13
+    }, 
+    "LE CARTEL": {
+      "match_count": 4, 
+      "rating": 1254.49
+    }, 
+    "LGB fe": {
+      "match_count": 20, 
+      "rating": 1459.78
+    }, 
+    "LGD": {
+      "match_count": 24, 
+      "rating": 1550.25
+    }, 
+    "LGR": {
+      "match_count": 29, 
+      "rating": 1559.36
+    }, 
+    "LOCALG": {
+      "match_count": 2, 
+      "rating": 1341.44
+    }, 
+    "LPDC": {
+      "match_count": 2, 
+      "rating": 1390.59
+    }, 
+    "LPM": {
+      "match_count": 2, 
+      "rating": 1342.05
+    }, 
+    "Lambert": {
+      "match_count": 3, 
+      "rating": 1581.66
+    }, 
+    "Later kidz": {
+      "match_count": 2, 
+      "rating": 1525.24
+    }, 
+    "Latvia": {
+      "match_count": 9, 
+      "rating": 1601.41
+    }, 
+    "Leader-1": {
+      "match_count": 8, 
+      "rating": 1381.54
+    }, 
+    "Leader-1 Red": {
+      "match_count": 4, 
+      "rating": 1437.04
+    }, 
+    "Leaf": {
+      "match_count": 2, 
+      "rating": 1538.56
+    }, 
+    "Lebanon": {
+      "match_count": 3, 
+      "rating": 1531.79
+    }, 
+    "Legacy": {
+      "match_count": 19, 
+      "rating": 1430.11
+    }, 
+    "LegendsNeverDie": {
+      "match_count": 2, 
+      "rating": 1236.13
+    }, 
+    "LeiSuRe": {
+      "match_count": 7, 
+      "rating": 1588.62
+    }, 
+    "Lemondogs": {
+      "match_count": 3, 
+      "rating": 1517.98
+    }, 
+    "LetExerzCarry": {
+      "match_count": 3, 
+      "rating": 1335.11
+    }, 
+    "Levitate": {
+      "match_count": 4, 
+      "rating": 1302.74
+    }, 
+    "LeyHorse": {
+      "match_count": 3, 
+      "rating": 1305.42
+    }, 
+    "Libya": {
+      "match_count": 9, 
+      "rating": 1382.51
+    }, 
+    "Lioncast": {
+      "match_count": 2, 
+      "rating": 1345.46
+    }, 
+    "Liondogs": {
+      "match_count": 3, 
+      "rating": 1345.95
+    }, 
+    "Lions": {
+      "match_count": 22, 
+      "rating": 1519.17
+    }, 
+    "Lithuania": {
+      "match_count": 6, 
+      "rating": 1560.64
+    }, 
+    "Little Einsteins": {
+      "match_count": 2, 
+      "rating": 1485.63
+    }, 
+    "London Conspiracy": {
+      "match_count": 29, 
+      "rating": 1570.53
+    }, 
+    "Long Live Democracy": {
+      "match_count": 2, 
+      "rating": 1411.92
+    }, 
+    "Los Jefes": {
+      "match_count": 10, 
+      "rating": 1495.99
+    }, 
+    "Los Mariachis": {
+      "match_count": 4, 
+      "rating": 1358.64
+    }, 
+    "LowLandLions": {
+      "match_count": 19, 
+      "rating": 1500.37
+    }, 
+    "Lucendi Azolt": {
+      "match_count": 3, 
+      "rating": 1390.83
+    }, 
+    "LunatiK": {
+      "match_count": 18, 
+      "rating": 1416.39
+    }, 
+    "Luxembourg": {
+      "match_count": 2, 
+      "rating": 1275.2
+    }, 
+    "MALIK": {
+      "match_count": 3, 
+      "rating": 1502.73
+    }, 
+    "MASSACRE-ZONE": {
+      "match_count": 3, 
+      "rating": 1298.21
+    }, 
+    "MDK": {
+      "match_count": 3, 
+      "rating": 1376.65
+    }, 
+    "MINLATE": {
+      "match_count": 2, 
+      "rating": 1476.0
+    }, 
+    "MIRAV3": {
+      "match_count": 2, 
+      "rating": 1000.0
+    }, 
+    "MIXCAT": {
+      "match_count": 16, 
+      "rating": 1563.37
+    }, 
+    "MMCLUB": {
+      "match_count": 6, 
+      "rating": 1563.76
+    }, 
+    "MOTHERS": {
+      "match_count": 2, 
+      "rating": 1485.28
+    }, 
+    "MOTV": {
+      "match_count": 7, 
+      "rating": 1428.94
+    }, 
+    "MTW": {
+      "match_count": 2, 
+      "rating": 1451.15
+    }, 
+    "Macedonia": {
+      "match_count": 3, 
+      "rating": 1448.3
+    }, 
+    "Magistra": {
+      "match_count": 13, 
+      "rating": 1550.19
+    }, 
+    "Magnum Monsters": {
+      "match_count": 2, 
+      "rating": 1522.05
+    }, 
+    "Mahameru": {
+      "match_count": 2, 
+      "rating": 1411.08
+    }, 
+    "Majestic Lions": {
+      "match_count": 5, 
+      "rating": 1456.34
+    }, 
+    "Malaysia": {
+      "match_count": 5, 
+      "rating": 1410.0
+    }, 
+    "Malta": {
+      "match_count": 3, 
+      "rating": 1118.59
+    }, 
+    "Master Grade": {
+      "match_count": 3, 
+      "rating": 1454.66
+    }, 
+    "MaxAndRelax": {
+      "match_count": 12, 
+      "rating": 1478.64
+    }, 
+    "Maximum Effort": {
+      "match_count": 6, 
+      "rating": 1354.01
+    }, 
+    "MeMyself&I": {
+      "match_count": 5, 
+      "rating": 1659.96
+    }, 
+    "Menace": {
+      "match_count": 4, 
+      "rating": 1451.07
+    }, 
+    "Metapods": {
+      "match_count": 4, 
+      "rating": 1427.58
+    }, 
+    "Mexico": {
+      "match_count": 4, 
+      "rating": 1514.83
+    }, 
+    "MiA": {
+      "match_count": 5, 
+      "rating": 1437.36
+    }, 
+    "MiTH": {
+      "match_count": 18, 
+      "rating": 1474.92
+    }, 
+    "Mild": {
+      "match_count": 2, 
+      "rating": 1413.45
+    }, 
+    "Millenium fe": {
+      "match_count": 9, 
+      "rating": 1470.95
+    }, 
+    "Millennium": {
+      "match_count": 3, 
+      "rating": 1541.91
+    }, 
+    "MineSki": {
+      "match_count": 4, 
+      "rating": 1482.58
+    }, 
+    "Mineski": {
+      "match_count": 2, 
+      "rating": 1505.18
+    }, 
+    "Miraculous Hawks": {
+      "match_count": 4, 
+      "rating": 1388.39
+    }, 
+    "Misery": {
+      "match_count": 2, 
+      "rating": 1200.89
+    }, 
+    "Mist Globals": {
+      "match_count": 2, 
+      "rating": 1549.93
+    }, 
+    "Moldova": {
+      "match_count": 4, 
+      "rating": 1341.65
+    }, 
+    "Molotov": {
+      "match_count": 2, 
+      "rating": 1334.49
+    }, 
+    "Mongolia": {
+      "match_count": 8, 
+      "rating": 1664.52
+    }, 
+    "Montenegro": {
+      "match_count": 5, 
+      "rating": 1539.71
+    }, 
+    "Morocco": {
+      "match_count": 10, 
+      "rating": 1457.81
+    }, 
+    "Mortality": {
+      "match_count": 9, 
+      "rating": 1383.75
+    }, 
+    "Moscow Five": {
+      "match_count": 4, 
+      "rating": 1304.57
+    }, 
+    "Mostly Animosity": {
+      "match_count": 2, 
+      "rating": 1419.61
+    }, 
+    "Mostly Harmless": {
+      "match_count": 2, 
+      "rating": 1390.83
+    }, 
+    "Mostly Homeless": {
+      "match_count": 4, 
+      "rating": 1440.63
+    }, 
+    "Muffin Lightning": {
+      "match_count": 4, 
+      "rating": 1521.58
+    }, 
+    "Must Be Stronger": {
+      "match_count": 2, 
+      "rating": 1438.6
+    }, 
+    "Mythic": {
+      "match_count": 13, 
+      "rating": 1459.96
+    }, 
+    "NONAMERS": {
+      "match_count": 2, 
+      "rating": 1241.54
+    }, 
+    "NPME": {
+      "match_count": 3, 
+      "rating": 1414.66
+    }, 
+    "NTN": {
+      "match_count": 8, 
+      "rating": 1562.55
+    }, 
+    "NYSM": {
+      "match_count": 3, 
+      "rating": 1525.46
+    }, 
+    "Na`Vi Staff": {
+      "match_count": 4, 
+      "rating": 1678.91
+    }, 
+    "Nativ": {
+      "match_count": 2, 
+      "rating": 1334.49
+    }, 
+    "NeckBreak": {
+      "match_count": 3, 
+      "rating": 1371.5
+    }, 
+    "NeedJobs": {
+      "match_count": 3, 
+      "rating": 1431.56
+    }, 
+    "Nepal": {
+      "match_count": 4, 
+      "rating": 1184.62
+    }, 
+    "Netherlands": {
+      "match_count": 12, 
+      "rating": 1587.87
+    }, 
+    "Nevermad": {
+      "match_count": 3, 
+      "rating": 1477.55
+    }, 
+    "New Era": {
+      "match_count": 7, 
+      "rating": 1464.54
+    }, 
+    "New Zealand": {
+      "match_count": 4, 
+      "rating": 1361.41
+    }, 
+    "New4": {
+      "match_count": 22, 
+      "rating": 1540.1
+    }, 
+    "NewSkill Infinity": {
+      "match_count": 6, 
+      "rating": 1414.08
+    }, 
+    "NextGaming": {
+      "match_count": 2, 
+      "rating": 1687.23
+    }, 
+    "Nexus": {
+      "match_count": 17, 
+      "rating": 1401.92
+    }, 
+    "Nexus Storm": {
+      "match_count": 8, 
+      "rating": 1493.22
+    }, 
+    "Nface": {
+      "match_count": 7, 
+      "rating": 1470.22
+    }, 
+    "NiP Staff": {
+      "match_count": 3, 
+      "rating": 1687.14
+    }, 
+    "Night Raid": {
+      "match_count": 3, 
+      "rating": 1427.73
+    }, 
+    "Nihilum": {
+      "match_count": 41, 
+      "rating": 1426.43
+    }, 
+    "Noble": {
+      "match_count": 16, 
+      "rating": 1398.34
+    }, 
+    "Noble Honor": {
+      "match_count": 2, 
+      "rating": 1186.37
+    }, 
+    "Nocturns": {
+      "match_count": 3, 
+      "rating": 1459.92
+    }, 
+    "NokSuKao": {
+      "match_count": 13, 
+      "rating": 1537.52
+    }, 
+    "Nomad": {
+      "match_count": 5, 
+      "rating": 1572.94
+    }, 
+    "NoobTubers": {
+      "match_count": 8, 
+      "rating": 1796.78
+    }, 
+    "Nordics": {
+      "match_count": 2, 
+      "rating": 1359.25
+    }, 
+    "Norway": {
+      "match_count": 22, 
+      "rating": 1589.24
+    }, 
+    "Nostalgie": {
+      "match_count": 10, 
+      "rating": 1516.46
+    }, 
+    "OA": {
+      "match_count": 4, 
+      "rating": 1614.26
+    }, 
+    "OBEY": {
+      "match_count": 5, 
+      "rating": 1477.54
+    }, 
+    "OMNIPOTENCE": {
+      "match_count": 2, 
+      "rating": 1253.79
+    }, 
+    "OVP": {
+      "match_count": 6, 
+      "rating": 1760.75
+    }, 
+    "Obey.Alliance": {
+      "match_count": 12, 
+      "rating": 1528.25
+    }, 
+    "Octupus1": {
+      "match_count": 3, 
+      "rating": 1425.75
+    }, 
+    "Ollebolle": {
+      "match_count": 3, 
+      "rating": 1110.75
+    }, 
+    "One": {
+      "match_count": 4, 
+      "rating": 1397.72
+    }, 
+    "OnlineBOTS": {
+      "match_count": 25, 
+      "rating": 1507.81
+    }, 
+    "OnlineRol": {
+      "match_count": 5, 
+      "rating": 1518.8
+    }, 
+    "Optimum": {
+      "match_count": 4, 
+      "rating": 1494.32
+    }, 
+    "Orange": {
+      "match_count": 3, 
+      "rating": 1533.87
+    }, 
+    "Orbis": {
+      "match_count": 2, 
+      "rating": 1008.67
+    }, 
+    "Orbit fe": {
+      "match_count": 5, 
+      "rating": 1278.31
+    }, 
+    "Orgless": {
+      "match_count": 28, 
+      "rating": 1555.35
+    }, 
+    "Oslo Lions": {
+      "match_count": 2, 
+      "rating": 1601.79
+    }, 
+    "OverGaming": {
+      "match_count": 20, 
+      "rating": 1444.46
+    }, 
+    "Overpowered": {
+      "match_count": 3, 
+      "rating": 1413.83
+    }, 
+    "PANDA": {
+      "match_count": 2, 
+      "rating": 1386.59
+    }, 
+    "PANTERS": {
+      "match_count": 8, 
+      "rating": 1469.98
+    }, 
+    "PANTHERS": {
+      "match_count": 2, 
+      "rating": 1391.54
+    }, 
+    "PARTY": {
+      "match_count": 7, 
+      "rating": 1500.59
+    }, 
+    "PGL Staff": {
+      "match_count": 2, 
+      "rating": 1184.9
+    }, 
+    "PLAYZONE": {
+      "match_count": 10, 
+      "rating": 1514.52
+    }, 
+    "PSISTORM": {
+      "match_count": 2, 
+      "rating": 1431.22
+    }, 
+    "PUZZLES": {
+      "match_count": 15, 
+      "rating": 1615.76
+    }, 
+    "Pakistan": {
+      "match_count": 2, 
+      "rating": 1438.6
+    }, 
+    "Palestine": {
+      "match_count": 5, 
+      "rating": 1313.54
+    }, 
+    "Panthers": {
+      "match_count": 4, 
+      "rating": 1403.17
+    }, 
+    "Pantoms": {
+      "match_count": 2, 
+      "rating": 1314.55
+    }, 
+    "Paradox": {
+      "match_count": 5, 
+      "rating": 1203.7
+    }, 
+    "Paraguay": {
+      "match_count": 2, 
+      "rating": 1196.09
+    }, 
+    "Parallax": {
+      "match_count": 11, 
+      "rating": 1569.35
+    }, 
+    "Penguin": {
+      "match_count": 5, 
+      "rating": 1152.15
+    }, 
+    "PerilousRAGE": {
+      "match_count": 2, 
+      "rating": 1360.73
+    }, 
+    "Perrinho Sin Colinha": {
+      "match_count": 2, 
+      "rating": 1181.58
+    }, 
+    "Peru": {
+      "match_count": 6, 
+      "rating": 1557.35
+    }, 
+    "PewPew-Armada": {
+      "match_count": 3, 
+      "rating": 1054.77
+    }, 
+    "PewPewX": {
+      "match_count": 2, 
+      "rating": 1474.1
+    }, 
+    "Phantoms": {
+      "match_count": 4, 
+      "rating": 1461.2
+    }, 
+    "Phenomenon": {
+      "match_count": 26, 
+      "rating": 1566.42
+    }, 
+    "Philippines": {
+      "match_count": 5, 
+      "rating": 1515.69
+    }, 
+    "Phoenix": {
+      "match_count": 4, 
+      "rating": 1594.02
+    }, 
+    "PhysX": {
+      "match_count": 7, 
+      "rating": 1465.08
+    }, 
+    "Pixel": {
+      "match_count": 14, 
+      "rating": 1482.97
+    }, 
+    "Pixel Hunters": {
+      "match_count": 4, 
+      "rating": 1491.2
+    }, 
+    "PixelFire": {
+      "match_count": 5, 
+      "rating": 1572.22
+    }, 
+    "Planetkey": {
+      "match_count": 26, 
+      "rating": 1455.28
+    }, 
+    "Planetkey fe": {
+      "match_count": 3, 
+      "rating": 1106.7
+    }, 
+    "Plantronics": {
+      "match_count": 8, 
+      "rating": 1667.91
+    }, 
+    "Platinium": {
+      "match_count": 11, 
+      "rating": 1487.31
+    }, 
+    "Play It Cool All-Stars": {
+      "match_count": 6, 
+      "rating": 1529.58
+    }, 
+    "Play2Win": {
+      "match_count": 6, 
+      "rating": 1408.77
+    }, 
+    "Player 5": {
+      "match_count": 7, 
+      "rating": 1661.52
+    }, 
+    "Pnda": {
+      "match_count": 4, 
+      "rating": 1441.62
+    }, 
+    "Poland": {
+      "match_count": 15, 
+      "rating": 1618.09
+    }, 
+    "Portugal": {
+      "match_count": 10, 
+      "rating": 1575.21
+    }, 
+    "Portvakterna": {
+      "match_count": 2, 
+      "rating": 1439.46
+    }, 
+    "Potato Streamers": {
+      "match_count": 2, 
+      "rating": 1344.42
+    }, 
+    "Preparation.Yellow": {
+      "match_count": 4, 
+      "rating": 1429.18
+    }, 
+    "Pries": {
+      "match_count": 12, 
+      "rating": 1464.59
+    }, 
+    "Pro Era": {
+      "match_count": 4, 
+      "rating": 1618.61
+    }, 
+    "ProGamers": {
+      "match_count": 2, 
+      "rating": 1391.96
+    }, 
+    "ProGaming": {
+      "match_count": 7, 
+      "rating": 1492.46
+    }, 
+    "Project Skyline": {
+      "match_count": 4, 
+      "rating": 1321.01
+    }, 
+    "Property fe": {
+      "match_count": 5, 
+      "rating": 1283.64
+    }, 
+    "Prospects": {
+      "match_count": 14, 
+      "rating": 1489.39
+    }, 
+    "PuddiPuddi": {
+      "match_count": 2, 
+      "rating": 1537.86
+    }, 
+    "Pufiki": {
+      "match_count": 2, 
+      "rating": 1563.85
+    }, 
+    "Pugs not Drugs": {
+      "match_count": 3, 
+      "rating": 1168.69
+    }, 
+    "Pulse": {
+      "match_count": 4, 
+      "rating": 1416.07
+    }, 
+    "Puzzle": {
+      "match_count": 6, 
+      "rating": 1538.55
+    }, 
+    "QeeYou": {
+      "match_count": 12, 
+      "rating": 1716.98
+    }, 
+    "QuackPack": {
+      "match_count": 2, 
+      "rating": 1470.55
+    }, 
+    "Quantaya": {
+      "match_count": 4, 
+      "rating": 1487.79
+    }, 
+    "Queen Consolidated": {
+      "match_count": 3, 
+      "rating": 1423.91
+    }, 
+    "Quest": {
+      "match_count": 13, 
+      "rating": 1507.88
+    }, 
+    "QuetzaL": {
+      "match_count": 5, 
+      "rating": 1438.1
+    }, 
+    "Quintic": {
+      "match_count": 3, 
+      "rating": 1256.27
+    }, 
+    "Qulity": {
+      "match_count": 3, 
+      "rating": 1543.7
+    }, 
+    "RAGE": {
+      "match_count": 2, 
+      "rating": 1396.52
+    }, 
+    "RAIDERS": {
+      "match_count": 2, 
+      "rating": 1396.52
+    }, 
+    "RB": {
+      "match_count": 17, 
+      "rating": 1505.5
+    }, 
+    "RED CANIDS": {
+      "match_count": 4, 
+      "rating": 1529.33
+    }, 
+    "RIP Fonty": {
+      "match_count": 6, 
+      "rating": 1491.24
+    }, 
+    "ROCCAT": {
+      "match_count": 18, 
+      "rating": 1498.99
+    }, 
+    "RONIN": {
+      "match_count": 6, 
+      "rating": 1468.61
+    }, 
+    "RUZKI": {
+      "match_count": 2, 
+      "rating": 1466.52
+    }, 
+    "Raepmashaekel": {
+      "match_count": 4, 
+      "rating": 1563.01
+    }, 
+    "Random 5": {
+      "match_count": 2, 
+      "rating": 1394.59
+    }, 
+    "Rapture Play": {
+      "match_count": 2, 
+      "rating": 1294.74
+    }, 
+    "Rasta": {
+      "match_count": 5, 
+      "rating": 1390.92
+    }, 
+    "Reaction": {
+      "match_count": 3, 
+      "rating": 1259.15
+    }, 
+    "Real Street Gamers": {
+      "match_count": 3, 
+      "rating": 1471.09
+    }, 
+    "Reap What You Sow": {
+      "match_count": 9, 
+      "rating": 1397.88
+    }, 
+    "Reason fe": {
+      "match_count": 5, 
+      "rating": 1448.28
+    }, 
+    "Rebels": {
+      "match_count": 18, 
+      "rating": 1526.06
+    }, 
+    "Recursive": {
+      "match_count": 11, 
+      "rating": 1514.34
+    }, 
+    "Red Instinct": {
+      "match_count": 13, 
+      "rating": 1469.26
+    }, 
+    "Red Instinct RS": {
+      "match_count": 2, 
+      "rating": 1536.27
+    }, 
+    "Red Panda": {
+      "match_count": 2, 
+      "rating": 1334.49
+    }, 
+    "RedLine": {
+      "match_count": 5, 
+      "rating": 1387.12
+    }, 
+    "Refuse": {
+      "match_count": 19, 
+      "rating": 1477.2
+    }, 
+    "Relapse": {
+      "match_count": 2, 
+      "rating": 1320.57
+    }, 
+    "Relentless": {
+      "match_count": 2, 
+      "rating": 1366.36
+    }, 
+    "Reload": {
+      "match_count": 6, 
+      "rating": 1432.15
+    }, 
+    "Remo Brave": {
+      "match_count": 11, 
+      "rating": 1512.32
+    }, 
+    "Replays.net": {
+      "match_count": 4, 
+      "rating": 1516.39
+    }, 
+    "Revival": {
+      "match_count": 12, 
+      "rating": 1536.59
+    }, 
+    "Revolte": {
+      "match_count": 9, 
+      "rating": 1528.72
+    }, 
+    "Revolution": {
+      "match_count": 2, 
+      "rating": 1462.43
+    }, 
+    "Rhythm": {
+      "match_count": 2, 
+      "rating": 1581.56
+    }, 
+    "RiP": {
+      "match_count": 2, 
+      "rating": 1347.87
+    }, 
+    "Rimi": {
+      "match_count": 2, 
+      "rating": 1461.82
+    }, 
+    "Riotous": {
+      "match_count": 2, 
+      "rating": 1385.03
+    }, 
+    "Risky": {
+      "match_count": 15, 
+      "rating": 1525.19
+    }, 
+    "RivaL": {
+      "match_count": 7, 
+      "rating": 1512.03
+    }, 
+    "Rize": {
+      "match_count": 3, 
+      "rating": 1241.28
+    }, 
+    "Rize fe": {
+      "match_count": 3, 
+      "rating": 1136.41
+    }, 
+    "Roca's compLexity": {
+      "match_count": 7, 
+      "rating": 1548.84
+    }, 
+    "Rock": {
+      "match_count": 18, 
+      "rating": 1585.25
+    }, 
+    "Rogue": {
+      "match_count": 10, 
+      "rating": 1545.0
+    }, 
+    "Romania": {
+      "match_count": 10, 
+      "rating": 1551.12
+    }, 
+    "RoyalClub": {
+      "match_count": 3, 
+      "rating": 1480.75
+    }, 
+    "RoyalFamily": {
+      "match_count": 2, 
+      "rating": 1043.5
+    }, 
+    "Rulz": {
+      "match_count": 2, 
+      "rating": 1322.62
+    }, 
+    "Rush": {
+      "match_count": 4, 
+      "rating": 1493.13
+    }, 
+    "Russia": {
+      "match_count": 14, 
+      "rating": 1634.42
+    }, 
+    "RvN": {
+      "match_count": 4, 
+      "rating": 1557.84
+    }, 
+    "SHAAVEJI": {
+      "match_count": 3, 
+      "rating": 1479.28
+    }, 
+    "SKDC": {
+      "match_count": 27, 
+      "rating": 1412.92
+    }, 
+    "SL Talents": {
+      "match_count": 2, 
+      "rating": 1253.79
+    }, 
+    "SLK": {
+      "match_count": 4, 
+      "rating": 1420.03
+    }, 
+    "SLTV Staff": {
+      "match_count": 3, 
+      "rating": 1878.72
+    }, 
+    "SSU White": {
+      "match_count": 3, 
+      "rating": 1442.37
+    }, 
+    "SYF": {
+      "match_count": 10, 
+      "rating": 1483.31
+    }, 
+    "SYG": {
+      "match_count": 2, 
+      "rating": 1314.55
+    }, 
+    "SYNRGY": {
+      "match_count": 3, 
+      "rating": 1381.5
+    }, 
+    "Santos.DeX": {
+      "match_count": 6, 
+      "rating": 1609.1
+    }, 
+    "Santos.DeX fe": {
+      "match_count": 3, 
+      "rating": 1149.65
+    }, 
+    "Saudi Arabia": {
+      "match_count": 2, 
+      "rating": 1000.0
+    }, 
+    "Savage Wolves": {
+      "match_count": 3, 
+      "rating": 1420.4
+    }, 
+    "Secret": {
+      "match_count": 5, 
+      "rating": 1561.71
+    }, 
+    "Secret fe": {
+      "match_count": 19, 
+      "rating": 1447.18
+    }, 
+    "Seelachs": {
+      "match_count": 2, 
+      "rating": 1431.27
+    }, 
+    "Sententia Mortis": {
+      "match_count": 5, 
+      "rating": 1439.21
+    }, 
+    "Serbia": {
+      "match_count": 10, 
+      "rating": 1432.37
+    }, 
+    "Serpentis": {
+      "match_count": 2, 
+      "rating": 1533.61
+    }, 
+    "SesiBaren": {
+      "match_count": 3, 
+      "rating": 1161.39
+    }, 
+    "SetToDestroyX": {
+      "match_count": 8, 
+      "rating": 1411.13
+    }, 
+    "Seven11": {
+      "match_count": 4, 
+      "rating": 1526.85
+    }, 
+    "Shadows": {
+      "match_count": 4, 
+      "rating": 1454.82
+    }, 
+    "Signature": {
+      "match_count": 24, 
+      "rating": 1544.84
+    }, 
+    "Sihirdar Rehberi": {
+      "match_count": 2, 
+      "rating": 1327.12
+    }, 
+    "Sine Metu": {
+      "match_count": 2, 
+      "rating": 1482.84
+    }, 
+    "Singapore": {
+      "match_count": 11, 
+      "rating": 1613.08
+    }, 
+    "Singularity": {
+      "match_count": 11, 
+      "rating": 1529.07
+    }, 
+    "SinisterGG": {
+      "match_count": 2, 
+      "rating": 1250.24
+    }, 
+    "Skal du begraves?": {
+      "match_count": 5, 
+      "rating": 1423.87
+    }, 
+    "SkinsVault": {
+      "match_count": 3, 
+      "rating": 1393.4
+    }, 
+    "SkitLite": {
+      "match_count": 9, 
+      "rating": 1425.01
+    }, 
+    "Skyfire": {
+      "match_count": 11, 
+      "rating": 1518.76
+    }, 
+    "Skyred": {
+      "match_count": 19, 
+      "rating": 1565.86
+    }, 
+    "SlashCry": {
+      "match_count": 4, 
+      "rating": 1468.85
+    }, 
+    "Slovakia": {
+      "match_count": 8, 
+      "rating": 1568.12
+    }, 
+    "Slovenia": {
+      "match_count": 6, 
+      "rating": 1454.09
+    }, 
+    "SoF": {
+      "match_count": 4, 
+      "rating": 1739.28
+    }, 
+    "SofaKingGood": {
+      "match_count": 3, 
+      "rating": 1404.06
+    }, 
+    "South Africa": {
+      "match_count": 9, 
+      "rating": 1442.79
+    }, 
+    "South Korea": {
+      "match_count": 5, 
+      "rating": 1437.8
+    }, 
+    "Space Jam": {
+      "match_count": 6, 
+      "rating": 1492.74
+    }, 
+    "Spain": {
+      "match_count": 11, 
+      "rating": 1591.5
+    }, 
+    "SpawnKilled": {
+      "match_count": 2, 
+      "rating": 1324.59
+    }, 
+    "Spectacle.A": {
+      "match_count": 2, 
+      "rating": 1285.42
+    }, 
+    "Sri Lanka": {
+      "match_count": 5, 
+      "rating": 1353.03
+    }, 
+    "SteamAnalyst": {
+      "match_count": 4, 
+      "rating": 1498.38
+    }, 
+    "Steelseries": {
+      "match_count": 4, 
+      "rating": 1523.49
+    }, 
+    "StormStudio Staff": {
+      "match_count": 2, 
+      "rating": 1306.08
+    }, 
+    "Streamline": {
+      "match_count": 6, 
+      "rating": 1569.36
+    }, 
+    "Stubborn": {
+      "match_count": 3, 
+      "rating": 1479.06
+    }, 
+    "Sub:stance": {
+      "match_count": 2, 
+      "rating": 1331.47
+    }, 
+    "Subzero": {
+      "match_count": 2, 
+      "rating": 1376.75
+    }, 
+    "Suck Brick Kids": {
+      "match_count": 6, 
+      "rating": 1441.76
+    }, 
+    "SuperMassive": {
+      "match_count": 10, 
+      "rating": 1522.39
+    }, 
+    "Supernova": {
+      "match_count": 10, 
+      "rating": 1382.11
+    }, 
+    "SuperstarS": {
+      "match_count": 2, 
+      "rating": 1373.11
+    }, 
+    "Supremacy": {
+      "match_count": 2, 
+      "rating": 1345.71
+    }, 
+    "Supreme": {
+      "match_count": 4, 
+      "rating": 1487.37
+    }, 
+    "SvQmmerICruzares": {
+      "match_count": 4, 
+      "rating": 1229.96
+    }, 
+    "Swag Silicone": {
+      "match_count": 6, 
+      "rating": 1538.79
+    }, 
+    "Swarm": {
+      "match_count": 8, 
+      "rating": 1440.47
+    }, 
+    "Sweden": {
+      "match_count": 26, 
+      "rating": 1654.64
+    }, 
+    "Swift": {
+      "match_count": 3, 
+      "rating": 1607.99
+    }, 
+    "Switzerland": {
+      "match_count": 3, 
+      "rating": 1311.42
+    }, 
+    "Synthetik": {
+      "match_count": 3, 
+      "rating": 1368.62
+    }, 
+    "T5": {
+      "match_count": 16, 
+      "rating": 1679.69
+    }, 
+    "TBD-PL": {
+      "match_count": 2, 
+      "rating": 1431.22
+    }, 
+    "TBi": {
+      "match_count": 3, 
+      "rating": 1522.58
+    }, 
+    "TDJSF": {
+      "match_count": 3, 
+      "rating": 1498.16
+    }, 
+    "TEAM.TDA": {
+      "match_count": 3, 
+      "rating": 1543.17
+    }, 
+    "TEAM1231": {
+      "match_count": 8, 
+      "rating": 1461.03
+    }, 
+    "TEAMSWAGYOLO": {
+      "match_count": 4, 
+      "rating": 1487.41
+    }, 
+    "TEAMYOUCANTBEAT": {
+      "match_count": 2, 
+      "rating": 1495.51
+    }, 
+    "TES": {
+      "match_count": 8, 
+      "rating": 1603.83
+    }, 
+    "TMVG": {
+      "match_count": 3, 
+      "rating": 1442.6
+    }, 
+    "TNT": {
+      "match_count": 2, 
+      "rating": 1219.31
+    }, 
+    "TOASTBROT": {
+      "match_count": 2, 
+      "rating": 1367.22
+    }, 
+    "TRICKED": {
+      "match_count": 15, 
+      "rating": 1570.6
+    }, 
+    "TRIDENT": {
+      "match_count": 8, 
+      "rating": 1459.83
+    }, 
+    "TRS": {
+      "match_count": 5, 
+      "rating": 1437.27
+    }, 
+    "TS-Netteux": {
+      "match_count": 4, 
+      "rating": 1430.71
+    }, 
+    "TSG": {
+      "match_count": 2, 
+      "rating": 1253.79
+    }, 
+    "TSK": {
+      "match_count": 5, 
+      "rating": 1509.91
+    }, 
+    "TShow": {
+      "match_count": 2, 
+      "rating": 1181.58
+    }, 
+    "Taiwan": {
+      "match_count": 3, 
+      "rating": 1669.75
+    }, 
+    "Taiwanz": {
+      "match_count": 2, 
+      "rating": 1362.37
+    }, 
+    "TamuluS": {
+      "match_count": 12, 
+      "rating": 1709.52
+    }, 
+    "Tarantula": {
+      "match_count": 2, 
+      "rating": 1225.31
+    }, 
+    "Team123": {
+      "match_count": 7, 
+      "rating": 1570.77
+    }, 
+    "Team8": {
+      "match_count": 4, 
+      "rating": 1396.58
+    }, 
+    "TeamLessNana": {
+      "match_count": 2, 
+      "rating": 1000.0
+    }, 
+    "TeamOne": {
+      "match_count": 13, 
+      "rating": 1496.71
+    }, 
+    "Teamless.gg": {
+      "match_count": 3, 
+      "rating": 1397.47
+    }, 
+    "Tectonic": {
+      "match_count": 13, 
+      "rating": 1509.65
+    }, 
+    "Tekweb": {
+      "match_count": 4, 
+      "rating": 1304.88
+    }, 
+    "Telos": {
+      "match_count": 3, 
+      "rating": 1203.45
+    }, 
+    "Temp.no": {
+      "match_count": 2, 
+      "rating": 1379.18
+    }, 
+    "Tempest": {
+      "match_count": 5, 
+      "rating": 1422.21
+    }, 
+    "Tempo": {
+      "match_count": 3, 
+      "rating": 1451.9
+    }, 
+    "Temporary orgless": {
+      "match_count": 3, 
+      "rating": 1280.97
+    }, 
+    "Tengri": {
+      "match_count": 16, 
+      "rating": 1586.52
+    }, 
+    "Thailand": {
+      "match_count": 7, 
+      "rating": 1628.14
+    }, 
+    "The Foundation": {
+      "match_count": 2, 
+      "rating": 1550.41
+    }, 
+    "The Huggies": {
+      "match_count": 3, 
+      "rating": 1531.81
+    }, 
+    "The Legends": {
+      "match_count": 2, 
+      "rating": 1394.51
+    }, 
+    "The Mooninites": {
+      "match_count": 3, 
+      "rating": 1363.73
+    }, 
+    "The Working Men": {
+      "match_count": 3, 
+      "rating": 1530.09
+    }, 
+    "Third Equinox": {
+      "match_count": 2, 
+      "rating": 1453.8
+    }, 
+    "Third pupil": {
+      "match_count": 3, 
+      "rating": 1691.18
+    }, 
+    "Threats": {
+      "match_count": 8, 
+      "rating": 1439.12
+    }, 
+    "TitaNs": {
+      "match_count": 2, 
+      "rating": 1448.43
+    }, 
+    "Tog": {
+      "match_count": 3, 
+      "rating": 1115.32
+    }, 
+    "TogetherAsOne": {
+      "match_count": 5, 
+      "rating": 1493.67
+    }, 
+    "Torment": {
+      "match_count": 2, 
+      "rating": 1389.96
+    }, 
+    "Torqued": {
+      "match_count": 9, 
+      "rating": 1556.36
+    }, 
+    "Trifecta": {
+      "match_count": 5, 
+      "rating": 1466.99
+    }, 
+    "TripGhazi": {
+      "match_count": 2, 
+      "rating": 1605.91
+    }, 
+    "Tunisia": {
+      "match_count": 14, 
+      "rating": 1511.01
+    }, 
+    "Turkey": {
+      "match_count": 13, 
+      "rating": 1603.02
+    }, 
+    "TwistoFate": {
+      "match_count": 6, 
+      "rating": 1380.3
+    }, 
+    "TzatzikiKlubben": {
+      "match_count": 5, 
+      "rating": 1548.49
+    }, 
+    "UAE": {
+      "match_count": 4, 
+      "rating": 1446.66
+    }, 
+    "UESmash": {
+      "match_count": 3, 
+      "rating": 1604.35
+    }, 
+    "UMass": {
+      "match_count": 4, 
+      "rating": 1512.81
+    }, 
+    "UNLEASHED": {
+      "match_count": 5, 
+      "rating": 1405.03
+    }, 
+    "USA": {
+      "match_count": 7, 
+      "rating": 1613.42
+    }, 
+    "USSR": {
+      "match_count": 11, 
+      "rating": 1487.07
+    }, 
+    "UbS": {
+      "match_count": 3, 
+      "rating": 1520.28
+    }, 
+    "Ubinited": {
+      "match_count": 3, 
+      "rating": 1407.18
+    }, 
+    "Ukraine": {
+      "match_count": 8, 
+      "rating": 1539.49
+    }, 
+    "Unikrn": {
+      "match_count": 3, 
+      "rating": 1360.09
+    }, 
+    "United Estonia": {
+      "match_count": 13, 
+      "rating": 1539.27
+    }, 
+    "United Kingdom": {
+      "match_count": 9, 
+      "rating": 1449.75
+    }, 
+    "Unity": {
+      "match_count": 7, 
+      "rating": 1576.94
+    }, 
+    "Uruguay": {
+      "match_count": 2, 
+      "rating": 1164.15
+    }, 
+    "Uzbekistan": {
+      "match_count": 2, 
+      "rating": 1382.06
+    }, 
+    "VATIC": {
+      "match_count": 5, 
+      "rating": 1533.66
+    }, 
+    "VECA": {
+      "match_count": 5, 
+      "rating": 1371.29
+    }, 
+    "VERY T0X1C": {
+      "match_count": 4, 
+      "rating": 1492.44
+    }, 
+    "Vacuous Baboons": {
+      "match_count": 3, 
+      "rating": 1329.09
+    }, 
+    "Various Artists": {
+      "match_count": 4, 
+      "rating": 1462.73
+    }, 
+    "Vatos Locos": {
+      "match_count": 2, 
+      "rating": 1448.24
+    }, 
+    "VatosLocos": {
+      "match_count": 3, 
+      "rating": 1503.73
+    }, 
+    "Vault": {
+      "match_count": 15, 
+      "rating": 1440.91
+    }, 
+    "VeloX": {
+      "match_count": 4, 
+      "rating": 1412.41
+    }, 
+    "Veneration": {
+      "match_count": 4, 
+      "rating": 1220.56
+    }, 
+    "Venezuela": {
+      "match_count": 5, 
+      "rating": 1601.15
+    }, 
+    "Venko": {
+      "match_count": 2, 
+      "rating": 1411.08
+    }, 
+    "Venom": {
+      "match_count": 2, 
+      "rating": 1249.96
+    }, 
+    "Ventus": {
+      "match_count": 4, 
+      "rating": 1684.64
+    }, 
+    "Vesuvius": {
+      "match_count": 12, 
+      "rating": 1455.61
+    }, 
+    "VexX": {
+      "match_count": 2, 
+      "rating": 1479.13
+    }, 
+    "ViRGiN5": {
+      "match_count": 3, 
+      "rating": 1519.4
+    }, 
+    "Vietnam": {
+      "match_count": 9, 
+      "rating": 1622.35
+    }, 
+    "Vination": {
+      "match_count": 4, 
+      "rating": 1448.54
+    }, 
+    "VingeN": {
+      "match_count": 4, 
+      "rating": 1517.39
+    }, 
+    "Virtual Impact": {
+      "match_count": 3, 
+      "rating": 1666.56
+    }, 
+    "Virtus.pro Staff": {
+      "match_count": 2, 
+      "rating": 1290.97
+    }, 
+    "Viva Algeria": {
+      "match_count": 6, 
+      "rating": 1629.44
+    }, 
+    "Vox Eminor": {
+      "match_count": 13, 
+      "rating": 1523.65
+    }, 
+    "VwS": {
+      "match_count": 11, 
+      "rating": 1474.72
+    }, 
+    "WCNL": {
+      "match_count": 2, 
+      "rating": 1363.27
+    }, 
+    "WDHA": {
+      "match_count": 3, 
+      "rating": 1401.15
+    }, 
+    "WE GOT GAME": {
+      "match_count": 11, 
+      "rating": 1545.52
+    }, 
+    "WHY Schwyz": {
+      "match_count": 2, 
+      "rating": 1043.5
+    }, 
+    "WOOSAH": {
+      "match_count": 3, 
+      "rating": 1348.26
+    }, 
+    "WRTP": {
+      "match_count": 11, 
+      "rating": 1522.54
+    }, 
+    "WWGGKTA": {
+      "match_count": 2, 
+      "rating": 1434.65
+    }, 
+    "WaRLegenD": {
+      "match_count": 2, 
+      "rating": 1437.33
+    }, 
+    "WarMonkeys": {
+      "match_count": 4, 
+      "rating": 1413.52
+    }, 
+    "WeGotGame": {
+      "match_count": 3, 
+      "rating": 1467.12
+    }, 
+    "Wet Bandits": {
+      "match_count": 2, 
+      "rating": 1219.31
+    }, 
+    "Whisper": {
+      "match_count": 3, 
+      "rating": 1489.98
+    }, 
+    "White Rabbit": {
+      "match_count": 4, 
+      "rating": 1296.49
+    }, 
+    "WiC": {
+      "match_count": 2, 
+      "rating": 1282.16
+    }, 
+    "Wicked": {
+      "match_count": 4, 
+      "rating": 1261.3
+    }, 
+    "WildSource": {
+      "match_count": 4, 
+      "rating": 1520.32
+    }, 
+    "WinFiction": {
+      "match_count": 7, 
+      "rating": 1525.5
+    }, 
+    "WinOut": {
+      "match_count": 10, 
+      "rating": 1539.32
+    }, 
+    "WinOut.net": {
+      "match_count": 10, 
+      "rating": 1467.18
+    }, 
+    "Wings": {
+      "match_count": 16, 
+      "rating": 1549.91
+    }, 
+    "WinneR": {
+      "match_count": 2, 
+      "rating": 1341.44
+    }, 
+    "Without a Roof": {
+      "match_count": 12, 
+      "rating": 1497.41
+    }, 
+    "Wizards": {
+      "match_count": 7, 
+      "rating": 1526.91
+    }, 
+    "Wololos": {
+      "match_count": 4, 
+      "rating": 1553.28
+    }, 
+    "Wrecking": {
+      "match_count": 4, 
+      "rating": 1473.38
+    }, 
+    "Wyvern": {
+      "match_count": 2, 
+      "rating": 1388.19
+    }, 
+    "Wyvern Ladies": {
+      "match_count": 4, 
+      "rating": 1336.9
+    }, 
+    "XENEX": {
+      "match_count": 5, 
+      "rating": 1469.59
+    }, 
+    "XPRESIV'E": {
+      "match_count": 2, 
+      "rating": 1413.88
+    }, 
+    "YOUR OWN MIRACLE": {
+      "match_count": 3, 
+      "rating": 1358.76
+    }, 
+    "YP Ladies": {
+      "match_count": 12, 
+      "rating": 1420.7
+    }, 
+    "Young Money Militia": {
+      "match_count": 2, 
+      "rating": 1633.64
+    }, 
+    "YoungThugs": {
+      "match_count": 3, 
+      "rating": 1487.85
+    }, 
+    "ZZCY": {
+      "match_count": 5, 
+      "rating": 1493.54
+    }, 
+    "Ze Pug Godz": {
+      "match_count": 6, 
+      "rating": 1511.01
+    }, 
+    "ZeroGP": {
+      "match_count": 2, 
+      "rating": 1482.94
+    }, 
+    "aNimus": {
+      "match_count": 4, 
+      "rating": 1376.91
+    }, 
+    "aTw": {
+      "match_count": 3, 
+      "rating": 1508.15
+    }, 
+    "aZ": {
+      "match_count": 4, 
+      "rating": 1408.16
+    }, 
+    "affNity": {
+      "match_count": 32, 
+      "rating": 1430.45
+    }, 
+    "aimclub": {
+      "match_count": 17, 
+      "rating": 1547.57
+    }, 
+    "ajuri": {
+      "match_count": 2, 
+      "rating": 1386.61
+    }, 
+    "autocracy": {
+      "match_count": 13, 
+      "rating": 1628.48
+    }, 
+    "b2W": {
+      "match_count": 2, 
+      "rating": 1140.11
+    }, 
+    "beGenius": {
+      "match_count": 16, 
+      "rating": 1493.56
+    }, 
+    "burniNg": {
+      "match_count": 2, 
+      "rating": 1218.04
+    }, 
+    "c5": {
+      "match_count": 9, 
+      "rating": 1557.96
+    }, 
+    "carboN": {
+      "match_count": 17, 
+      "rating": 1597.85
+    }, 
+    "clanHeat": {
+      "match_count": 2, 
+      "rating": 1314.55
+    }, 
+    "cooL": {
+      "match_count": 4, 
+      "rating": 1450.09
+    }, 
+    "dAT fe": {
+      "match_count": 2, 
+      "rating": 1461.36
+    }, 
+    "deadweight": {
+      "match_count": 10, 
+      "rating": 1548.48
+    }, 
+    "demise": {
+      "match_count": 6, 
+      "rating": 1498.92
+    }, 
+    "demonlaget": {
+      "match_count": 4, 
+      "rating": 1448.7
+    }, 
+    "dope": {
+      "match_count": 9, 
+      "rating": 1382.6
+    }, 
+    "doyoueven fe": {
+      "match_count": 5, 
+      "rating": 1280.91
+    }, 
+    "dreamWorks": {
+      "match_count": 3, 
+      "rating": 1623.63
+    }, 
+    "dream[S]cape": {
+      "match_count": 19, 
+      "rating": 1532.76
+    }, 
+    "drinkpizza!": {
+      "match_count": 2, 
+      "rating": 1360.73
+    }, 
+    "e4e": {
+      "match_count": 2, 
+      "rating": 1435.56
+    }, 
+    "eBettle": {
+      "match_count": 23, 
+      "rating": 1537.55
+    }, 
+    "eEriness": {
+      "match_count": 3, 
+      "rating": 1351.45
+    }, 
+    "eFuture": {
+      "match_count": 14, 
+      "rating": 1513.46
+    }, 
+    "eFuture.BJ": {
+      "match_count": 2, 
+      "rating": 1505.2
+    }, 
+    "eGeneration": {
+      "match_count": 3, 
+      "rating": 1231.97
+    }, 
+    "eNergy": {
+      "match_count": 15, 
+      "rating": 1459.88
+    }, 
+    "eUnited": {
+      "match_count": 25, 
+      "rating": 1501.97
+    }, 
+    "eXanimo": {
+      "match_count": 3, 
+      "rating": 1401.23
+    }, 
+    "eXplosive": {
+      "match_count": 26, 
+      "rating": 1503.82
+    }, 
+    "eXtasis": {
+      "match_count": 2, 
+      "rating": 1781.96
+    }, 
+    "eXtatus": {
+      "match_count": 19, 
+      "rating": 1488.12
+    }, 
+    "eaZyQuaL": {
+      "match_count": 2, 
+      "rating": 1286.79
+    }, 
+    "edepol": {
+      "match_count": 2, 
+      "rating": 1335.28
+    }, 
+    "embrace": {
+      "match_count": 4, 
+      "rating": 1539.98
+    }, 
+    "enable": {
+      "match_count": 3, 
+      "rating": 1552.09
+    }, 
+    "etoile": {
+      "match_count": 3, 
+      "rating": 1552.21
+    }, 
+    "ex-Astral Authority": {
+      "match_count": 5, 
+      "rating": 1461.67
+    }, 
+    "ex-CPH Wolves": {
+      "match_count": 4, 
+      "rating": 1629.08
+    }, 
+    "ex-Deathtrap": {
+      "match_count": 3, 
+      "rating": 1506.26
+    }, 
+    "ex-Epiphany": {
+      "match_count": 2, 
+      "rating": 1728.41
+    }, 
+    "ex-Reason": {
+      "match_count": 2, 
+      "rating": 1401.91
+    }, 
+    "ex-Titan": {
+      "match_count": 4, 
+      "rating": 1594.34
+    }, 
+    "ex-USSR": {
+      "match_count": 7, 
+      "rating": 1580.68
+    }, 
+    "ex-eLevate": {
+      "match_count": 13, 
+      "rating": 1458.16
+    }, 
+    "ex-melty fe": {
+      "match_count": 7, 
+      "rating": 1438.31
+    }, 
+    "ex-noMERCY": {
+      "match_count": 2, 
+      "rating": 1451.9
+    }, 
+    "exceL": {
+      "match_count": 4, 
+      "rating": 1520.34
+    }, 
+    "exitto": {
+      "match_count": 2, 
+      "rating": 1477.95
+    }, 
+    "ezkatka": {
+      "match_count": 4, 
+      "rating": 1401.85
+    }, 
+    "fLYVERNE": {
+      "match_count": 2, 
+      "rating": 1192.33
+    }, 
+    "fRactals": {
+      "match_count": 4, 
+      "rating": 1612.18
+    }, 
+    "fSociety": {
+      "match_count": 6, 
+      "rating": 1557.83
+    }, 
+    "faithIN": {
+      "match_count": 9, 
+      "rating": 1414.85
+    }, 
+    "fguru": {
+      "match_count": 2, 
+      "rating": 1422.17
+    }, 
+    "finshhh": {
+      "match_count": 3, 
+      "rating": 1405.06
+    }, 
+    "fish123": {
+      "match_count": 8, 
+      "rating": 1524.08
+    }, 
+    "fm-eSports": {
+      "match_count": 17, 
+      "rating": 1492.88
+    }, 
+    "fnatic Academy": {
+      "match_count": 5, 
+      "rating": 1516.58
+    }, 
+    "frequency": {
+      "match_count": 2, 
+      "rating": 1257.54
+    }, 
+    "fruits": {
+      "match_count": 9, 
+      "rating": 1487.72
+    }, 
+    "gBots": {
+      "match_count": 30, 
+      "rating": 1514.65
+    }, 
+    "gamENERGY": {
+      "match_count": 6, 
+      "rating": 1450.11
+    }, 
+    "ggrabb": {
+      "match_count": 3, 
+      "rating": 1508.95
+    }, 
+    "h00liGaNz": {
+      "match_count": 3, 
+      "rating": 1344.76
+    }, 
+    "hard'N'play": {
+      "match_count": 5, 
+      "rating": 1418.59
+    }, 
+    "hiddenOP": {
+      "match_count": 4, 
+      "rating": 1404.22
+    }, 
+    "iDomina": {
+      "match_count": 6, 
+      "rating": 1366.57
+    }, 
+    "iNETKOXTV": {
+      "match_count": 16, 
+      "rating": 1534.48
+    }, 
+    "iNation": {
+      "match_count": 26, 
+      "rating": 1535.61
+    }, 
+    "iSg.vA": {
+      "match_count": 3, 
+      "rating": 1411.86
+    }, 
+    "inchk1ng": {
+      "match_count": 24, 
+      "rating": 1552.99
+    }, 
+    "jA'Vi": {
+      "match_count": 6, 
+      "rating": 1541.84
+    }, 
+    "jalapeno": {
+      "match_count": 2, 
+      "rating": 1605.54
+    }, 
+    "kriklekrakle": {
+      "match_count": 2, 
+      "rating": 1405.15
+    }, 
+    "m0nster": {
+      "match_count": 19, 
+      "rating": 1454.52
+    }, 
+    "m0nster white": {
+      "match_count": 5, 
+      "rating": 1604.49
+    }, 
+    "mCon fe": {
+      "match_count": 4, 
+      "rating": 1328.2
+    }, 
+    "malefiQ": {
+      "match_count": 8, 
+      "rating": 1594.91
+    }, 
+    "melty": {
+      "match_count": 14, 
+      "rating": 1524.69
+    }, 
+    "mesport.hu": {
+      "match_count": 3, 
+      "rating": 1547.06
+    }, 
+    "miMo": {
+      "match_count": 4, 
+      "rating": 1555.95
+    }, 
+    "mix123": {
+      "match_count": 3, 
+      "rating": 1368.77
+    }, 
+    "mixbanan": {
+      "match_count": 6, 
+      "rating": 1582.56
+    }, 
+    "mouseSpaz": {
+      "match_count": 25, 
+      "rating": 1363.94
+    }, 
+    "myKPV": {
+      "match_count": 13, 
+      "rating": 1498.92
+    }, 
+    "myRevenge": {
+      "match_count": 9, 
+      "rating": 1352.53
+    }, 
+    "mySemperFi": {
+      "match_count": 5, 
+      "rating": 1479.1
+    }, 
+    "myXMG": {
+      "match_count": 3, 
+      "rating": 1403.95
+    }, 
+    "myXMG Staff": {
+      "match_count": 8, 
+      "rating": 1814.88
+    }, 
+    "n0_0rg": {
+      "match_count": 9, 
+      "rating": 1579.46
+    }, 
+    "n1ce": {
+      "match_count": 2, 
+      "rating": 1514.93
+    }, 
+    "nEophyte": {
+      "match_count": 20, 
+      "rating": 1526.85
+    }, 
+    "nGse": {
+      "match_count": 3, 
+      "rating": 1424.47
+    }, 
+    "nGw": {
+      "match_count": 2, 
+      "rating": 1340.1
+    }, 
+    "nKnown fe": {
+      "match_count": 3, 
+      "rating": 1102.37
+    }, 
+    "naptoR.Factory": {
+      "match_count": 5, 
+      "rating": 1483.95
+    }, 
+    "nevermind": {
+      "match_count": 4, 
+      "rating": 1526.88
+    }, 
+    "newNature": {
+      "match_count": 2, 
+      "rating": 1275.2
+    }, 
+    "noKappa": {
+      "match_count": 6, 
+      "rating": 1552.94
+    }, 
+    "noMERCY": {
+      "match_count": 2, 
+      "rating": 1384.57
+    }, 
+    "online Bots": {
+      "match_count": 3, 
+      "rating": 1008.9
+    }, 
+    "overGame": {
+      "match_count": 7, 
+      "rating": 1458.4
+    }, 
+    "pMd": {
+      "match_count": 2, 
+      "rating": 1407.6
+    }, 
+    "paiN": {
+      "match_count": 9, 
+      "rating": 1495.91
+    }, 
+    "passions": {
+      "match_count": 14, 
+      "rating": 1567.83
+    }, 
+    "pow": {
+      "match_count": 9, 
+      "rating": 1469.64
+    }, 
+    "private": {
+      "match_count": 3, 
+      "rating": 1420.64
+    }, 
+    "rEAK": {
+      "match_count": 3, 
+      "rating": 1735.24
+    }, 
+    "roflhehe": {
+      "match_count": 2, 
+      "rating": 1219.31
+    }, 
+    "semXorah": {
+      "match_count": 2, 
+      "rating": 1344.32
+    }, 
+    "sensational.kr": {
+      "match_count": 3, 
+      "rating": 1691.86
+    }, 
+    "seven": {
+      "match_count": 10, 
+      "rating": 1475.39
+    }, 
+    "slisk": {
+      "match_count": 4, 
+      "rating": 1472.25
+    }, 
+    "somalia": {
+      "match_count": 2, 
+      "rating": 1410.74
+    }, 
+    "stfuNerd": {
+      "match_count": 11, 
+      "rating": 1437.74
+    }, 
+    "subtLe": {
+      "match_count": 4, 
+      "rating": 1480.78
+    }, 
+    "summa.gg": {
+      "match_count": 4, 
+      "rating": 1350.87
+    }, 
+    "tNt": {
+      "match_count": 2, 
+      "rating": 1436.49
+    }, 
+    "temporary": {
+      "match_count": 3, 
+      "rating": 1271.65
+    }, 
+    "the pickles": {
+      "match_count": 3, 
+      "rating": 1218.63
+    }, 
+    "tropadeleet": {
+      "match_count": 2, 
+      "rating": 1276.98
+    }, 
+    "ttc": {
+      "match_count": 7, 
+      "rating": 1551.0
+    }, 
+    "uNLimited-Potential": {
+      "match_count": 2, 
+      "rating": 1285.35
+    }, 
+    "uPGaming.hellfive": {
+      "match_count": 7, 
+      "rating": 1330.86
+    }, 
+    "uX": {
+      "match_count": 21, 
+      "rating": 1514.12
+    }, 
+    "uber g33ks": {
+      "match_count": 4, 
+      "rating": 1433.33
+    }, 
+    "un-named": {
+      "match_count": 2, 
+      "rating": 1482.35
+    }, 
+    "unKnights": {
+      "match_count": 5, 
+      "rating": 1446.61
+    }, 
+    "unu.AiN": {
+      "match_count": 7, 
+      "rating": 1598.78
+    }, 
+    "v0rtex 5": {
+      "match_count": 5, 
+      "rating": 1551.02
+    }, 
+    "vVv": {
+      "match_count": 15, 
+      "rating": 1333.24
+    }, 
+    "verying": {
+      "match_count": 4, 
+      "rating": 1319.08
+    }, 
+    "visomvet": {
+      "match_count": 8, 
+      "rating": 1634.51
+    }, 
+    "volgare": {
+      "match_count": 14, 
+      "rating": 1474.2
+    }, 
+    "wH-": {
+      "match_count": 2, 
+      "rating": 1506.84
+    }, 
+    "walkover": {
+      "match_count": 8, 
+      "rating": 1462.48
+    }, 
+    "xGame.KZ": {
+      "match_count": 2, 
+      "rating": 1347.87
+    }, 
+    "xTc": {
+      "match_count": 10, 
+      "rating": 1465.97
+    }, 
+    "xqR": {
+      "match_count": 9, 
+      "rating": 1466.16
+    }, 
+    "zARLANS": {
+      "match_count": 2, 
+      "rating": 1369.64
+    }, 
+    "\u00fcber n00bz": {
+      "match_count": 5, 
+      "rating": 1359.42
+    }
+  }
+}
